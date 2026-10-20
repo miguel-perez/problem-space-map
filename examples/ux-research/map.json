@@ -1,0 +1,1659 @@
+{
+  "title": "UX Research Problem Space Map",
+  "description": "Shows how many UX practitioners raised each research task, where needs go unmet, and which products and tools serve each task.",
+  "siteUrl": "https://miguel.design/problem-space-map/",
+  "levels": [
+    "Purpose",
+    "Goal",
+    "Task"
+  ],
+  "note": "Satisfaction values are illustrative, authored from interview language; a real map needs a survey.",
+  "sections": [
+    {
+      "id": "g72",
+      "level": 3,
+      "label": "Turn conversations with people into findings I can trust",
+      "parent": null,
+      "people": 22,
+      "satisfaction": 5
+    },
+    {
+      "id": "g73",
+      "level": 3,
+      "label": "Get what we learn acted on by the people who decide, build and sell",
+      "parent": null,
+      "people": 20,
+      "satisfaction": 5
+    },
+    {
+      "id": "g74",
+      "level": 3,
+      "label": "Keep research, and my own part in it, valued and worth doing",
+      "parent": null,
+      "people": 16,
+      "satisfaction": 5
+    },
+    {
+      "id": "g61",
+      "level": 2,
+      "label": "Set a study up so it answers the questions that matter to the people who need it",
+      "parent": "g72",
+      "people": 17,
+      "satisfaction": 5
+    },
+    {
+      "id": "g62",
+      "level": 2,
+      "label": "Run sessions that draw out people's own experience",
+      "parent": "g72",
+      "people": 17,
+      "satisfaction": 5
+    },
+    {
+      "id": "g63",
+      "level": 2,
+      "label": "Make sense of what the sessions yield, beyond what people literally say",
+      "parent": "g72",
+      "people": 16,
+      "satisfaction": 5
+    },
+    {
+      "id": "g64",
+      "level": 2,
+      "label": "Contend with the labour, tools and isolation of turning sessions into findings",
+      "parent": "g72",
+      "people": 12,
+      "satisfaction": 5
+    },
+    {
+      "id": "g65",
+      "level": 2,
+      "label": "Make findings persuasive to people who were not in the sessions",
+      "parent": "g73",
+      "people": 13,
+      "satisfaction": 5
+    },
+    {
+      "id": "g66",
+      "level": 2,
+      "label": "Manage what stakeholders hear while research is under way and what becomes of it afterwards",
+      "parent": "g73",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "g67",
+      "level": 2,
+      "label": "Keep the people who build, sell or own the product aligned with what research shows",
+      "parent": "g73",
+      "people": 8,
+      "satisfaction": 5
+    },
+    {
+      "id": "g68",
+      "level": 2,
+      "label": "Decide what to build and where to spend effort from what research shows",
+      "parent": "g73",
+      "people": 10,
+      "satisfaction": 5
+    },
+    {
+      "id": "g69",
+      "level": 2,
+      "label": "Defend research's standing and rigour with colleagues and leaders who doubt or misunderstand it",
+      "parent": "g74",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g70",
+      "level": 2,
+      "label": "Guard myself and my work in the politics around a study",
+      "parent": "g74",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g71",
+      "level": 2,
+      "label": "Find meaning, confidence and enjoyment in doing research",
+      "parent": "g74",
+      "people": 12,
+      "satisfaction": 5
+    },
+    {
+      "id": "g1",
+      "level": 1,
+      "label": "Make sure a study answers what the people who asked for it need, learning their questions, testing their requests and bringing their needs together with customers' before sessions begin",
+      "parent": "g61",
+      "people": 6,
+      "satisfaction": 6
+    },
+    {
+      "id": "g2",
+      "level": 1,
+      "label": "Recognize how my readiness and knowledge of the domain shape the questions I can ask, and work to close the gaps",
+      "parent": "g62",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "g3",
+      "level": 1,
+      "label": "Keep a live session productive, judging which threads to follow, keeping the participant at ease and making room for others in the room",
+      "parent": "g62",
+      "people": 4,
+      "satisfaction": 6
+    },
+    {
+      "id": "g4",
+      "level": 1,
+      "label": "Decide what is worth capturing from a session and whether my record is enough or needs revisiting",
+      "parent": "g63",
+      "people": 6,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g5",
+      "level": 1,
+      "label": "Make sense of sessions together right after them, so takeaways are ready before formal analysis",
+      "parent": "g63",
+      "people": 2,
+      "satisfaction": 5
+    },
+    {
+      "id": "g6",
+      "level": 1,
+      "label": "Learn from sessions what people actually do and need, including what surprises me and what they never say outright",
+      "parent": "g63",
+      "people": 11,
+      "satisfaction": 6
+    },
+    {
+      "id": "g7",
+      "level": 1,
+      "label": "Find analysis hard going, especially when the material is large, I am on my own, or time and energy run short",
+      "parent": "g64",
+      "people": 7,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g8",
+      "level": 1,
+      "label": "Want analysis to be systematic and thorough rather than impressionistic",
+      "parent": "g63",
+      "people": 2,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g9",
+      "level": 1,
+      "label": "Look for tools that make transcribing, tagging and sharing insights faster, and judge them by whether they actually save work",
+      "parent": "g64",
+      "people": 4,
+      "satisfaction": 3
+    },
+    {
+      "id": "g10",
+      "level": 1,
+      "label": "Keep earlier research stored and revisitable so it is not lost, hidden or redone, and can yield more",
+      "parent": "g64",
+      "people": 4,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g11",
+      "level": 1,
+      "label": "Steer my team's synthesis so it covers what matters and everyone knows what to do",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g12",
+      "level": 1,
+      "label": "Use people's own words, faces and the visible mess of a process so stakeholders feel the problem for themselves",
+      "parent": "g65",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g13",
+      "level": 1,
+      "label": "Weigh whether qualitative findings can convince leaders who decide on numbers, and seek figures to back them",
+      "parent": "g65",
+      "people": 3,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g14",
+      "level": 1,
+      "label": "Combine qualitative work with surveys and usage data so each shapes or explains the other",
+      "parent": "g63",
+      "people": 5,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g15",
+      "level": 1,
+      "label": "Shape how findings are delivered so the audience takes them in rather than dismissing or interrupting them",
+      "parent": "g65",
+      "people": 7,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g16",
+      "level": 1,
+      "label": "Doubt that my findings land with the people who decide",
+      "parent": "g65",
+      "people": 1,
+      "satisfaction": 3
+    },
+    {
+      "id": "g17",
+      "level": 1,
+      "label": "Watch whether findings are taken up by the people who decide, feeling sidelined when unheard and encouraged when they are",
+      "parent": "g66",
+      "people": 3,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g18",
+      "level": 1,
+      "label": "Want stakeholders kept informed during the long gap between finishing sessions and reporting",
+      "parent": "g66",
+      "people": 2,
+      "satisfaction": 3
+    },
+    {
+      "id": "g19",
+      "level": 1,
+      "label": "Contend with leaders and colleagues who misunderstand what UX and research are",
+      "parent": "g69",
+      "people": 1,
+      "satisfaction": 3
+    },
+    {
+      "id": "g20",
+      "level": 1,
+      "label": "Insist that demographic diversity matters in samples and analysis, against colleagues who discount it",
+      "parent": "g69",
+      "people": 2,
+      "satisfaction": 4
+    },
+    {
+      "id": "g21",
+      "level": 1,
+      "label": "Keep sensitive matters from reaching people they could harm me or others with",
+      "parent": "g70",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "g22",
+      "level": 1,
+      "label": "Feel the lack of colleagues to check or share the research with",
+      "parent": "g64",
+      "people": 3,
+      "satisfaction": 2
+    },
+    {
+      "id": "g23",
+      "level": 1,
+      "label": "Work out how my research relates to another team's so we complement rather than duplicate each other",
+      "parent": "g67",
+      "people": 1,
+      "satisfaction": 4
+    },
+    {
+      "id": "g24",
+      "level": 1,
+      "label": "Weigh how far to trust a source given its position",
+      "parent": "g69",
+      "people": 2,
+      "satisfaction": 6
+    },
+    {
+      "id": "g25",
+      "level": 1,
+      "label": "Find my way into research and design through what I was trained in and what draws me to people",
+      "parent": "g71",
+      "people": 5,
+      "satisfaction": 8
+    },
+    {
+      "id": "g26",
+      "level": 1,
+      "label": "Empathize with participants on finding myself in their seat",
+      "parent": "g62",
+      "people": 2,
+      "satisfaction": 7.5
+    },
+    {
+      "id": "g27",
+      "level": 1,
+      "label": "Take on research to answer what the organisation does not yet know, without promising where it will lead",
+      "parent": "g61",
+      "people": 12,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g28",
+      "level": 1,
+      "label": "Trust that my research methods will carry over into an unfamiliar problem",
+      "parent": "g71",
+      "people": 1,
+      "satisfaction": 7
+    },
+    {
+      "id": "g29",
+      "level": 1,
+      "label": "Need the business units that share a problem to own and act on it together",
+      "parent": "g67",
+      "people": 1,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g30",
+      "level": 1,
+      "label": "Judge that a piece of the research went well",
+      "parent": "g71",
+      "people": 8,
+      "satisfaction": 7.5
+    },
+    {
+      "id": "g31",
+      "level": 1,
+      "label": "Notice that other research efforts fall short of what I expect",
+      "parent": "g69",
+      "people": 1,
+      "satisfaction": 5
+    },
+    {
+      "id": "g32",
+      "level": 1,
+      "label": "Decide where to put limited effort given time and business priorities",
+      "parent": "g68",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g33",
+      "level": 1,
+      "label": "Suspect a client of setting us against competitors, then set the suspicion aside",
+      "parent": "g70",
+      "people": 1,
+      "satisfaction": 6
+    },
+    {
+      "id": "g34",
+      "level": 1,
+      "label": "Bring the people who will build or own it in early so they can raise objections and the work fits how the business runs",
+      "parent": "g67",
+      "people": 5,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g35",
+      "level": 1,
+      "label": "Let participants lead and say things in their own terms rather than putting words in their mouths",
+      "parent": "g62",
+      "people": 5,
+      "satisfaction": 7
+    },
+    {
+      "id": "g36",
+      "level": 1,
+      "label": "Refine interview questions as early sessions and ideation show what is worth asking",
+      "parent": "g62",
+      "people": 2,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g37",
+      "level": 1,
+      "label": "Learn not to take what people say at face value when turning it into a design",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 6
+    },
+    {
+      "id": "g38",
+      "level": 1,
+      "label": "Find sessions pulled away from the person's goals into fixing their immediate problem, leaving their longer aims unknown",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g39",
+      "level": 1,
+      "label": "Keep the people who build or sell the product connected to why it matters to customers",
+      "parent": "g67",
+      "people": 3,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g40",
+      "level": 1,
+      "label": "Plan follow-up measurement where rushed research leaves outcomes unknown",
+      "parent": "g68",
+      "people": 1,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g41",
+      "level": 1,
+      "label": "Let what most users actually struggle with, rather than our assumptions, decide where to focus",
+      "parent": "g68",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g42",
+      "level": 1,
+      "label": "Turn what people reveal into a design response that addresses their concern",
+      "parent": "g68",
+      "people": 7,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g43",
+      "level": 1,
+      "label": "Use quick research to test a concept I already believe in",
+      "parent": "g61",
+      "people": 2,
+      "satisfaction": 7
+    },
+    {
+      "id": "g44",
+      "level": 1,
+      "label": "Choose and recruit participants deliberately for what they can tell us",
+      "parent": "g61",
+      "people": 3,
+      "satisfaction": 6
+    },
+    {
+      "id": "g45",
+      "level": 1,
+      "label": "Respond quickly when a crisis threatens the people we serve and our business",
+      "parent": "g68",
+      "people": 2,
+      "satisfaction": 5
+    },
+    {
+      "id": "g46",
+      "level": 1,
+      "label": "Prefer meeting participants in person for a better conversation",
+      "parent": "g62",
+      "people": 1,
+      "satisfaction": 6
+    },
+    {
+      "id": "g47",
+      "level": 1,
+      "label": "Shape the session questions to what the study must deliver",
+      "parent": "g61",
+      "people": 3,
+      "satisfaction": 7
+    },
+    {
+      "id": "g48",
+      "level": 1,
+      "label": "Decide how closely to oversee others running sessions, and judge how deeply they probe",
+      "parent": "g62",
+      "people": 2,
+      "satisfaction": 5
+    },
+    {
+      "id": "g49",
+      "level": 1,
+      "label": "Enjoy the sessions and the human connection of hearing people's stories, even when fitting them in is a burden",
+      "parent": "g71",
+      "people": 3,
+      "satisfaction": 8
+    },
+    {
+      "id": "g50",
+      "level": 1,
+      "label": "Work out for the first time how to analyse interviews and how much time it needs",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 3
+    },
+    {
+      "id": "g51",
+      "level": 1,
+      "label": "Reconcile new findings with an earlier study's deliverable so the client sees how they fit",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 4
+    },
+    {
+      "id": "g52",
+      "level": 1,
+      "label": "Hold back early or single-participant findings so no one acts on an outlier before themes are clear",
+      "parent": "g66",
+      "people": 1,
+      "satisfaction": 5
+    },
+    {
+      "id": "g53",
+      "level": 1,
+      "label": "Give decision makers what customers need while leaving the business decision to them",
+      "parent": "g65",
+      "people": 2,
+      "satisfaction": 6
+    },
+    {
+      "id": "g54",
+      "level": 1,
+      "label": "Learn how stakeholders who watch sessions interpret them",
+      "parent": "g66",
+      "people": 1,
+      "satisfaction": 4
+    },
+    {
+      "id": "g55",
+      "level": 1,
+      "label": "Keep a documented trail that justifies changes to everyone they affect",
+      "parent": "g67",
+      "people": 1,
+      "satisfaction": 5
+    },
+    {
+      "id": "g56",
+      "level": 1,
+      "label": "Size the sample by what the study must detect or cover",
+      "parent": "g61",
+      "people": 1,
+      "satisfaction": 6
+    },
+    {
+      "id": "g57",
+      "level": 1,
+      "label": "Work out what design capability to build or buy as the product outgrows its tools",
+      "parent": "g68",
+      "people": 1,
+      "satisfaction": 4
+    },
+    {
+      "id": "g58",
+      "level": 1,
+      "label": "Work for the people I serve rather than for the organisation's savings or attention",
+      "parent": "g71",
+      "people": 1,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g59",
+      "level": 1,
+      "label": "Bring my own expectations into a study, guarding against them or using the study to make a point",
+      "parent": "g62",
+      "people": 2,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g60",
+      "level": 1,
+      "label": "Leave a one-off need out of findings so it does not distort how most people are served",
+      "parent": "g63",
+      "people": 1,
+      "satisfaction": 6
+    }
+  ],
+  "solutions": [
+    {
+      "name": "Dovetail",
+      "kind": "product",
+      "url": "https://dovetail.com",
+      "domain": "dovetail.com",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Store transcripts, tags and insights in a searchable repository so past research stays findable."
+        },
+        {
+          "section": "g9",
+          "use": "Transcribe and auto-tag recordings, trialled to see if it beats manual spreadsheet tagging."
+        },
+        {
+          "section": "g12",
+          "use": "Compile highlight reels of participants' own words to share with stakeholders."
+        },
+        {
+          "section": "g6",
+          "use": "Use AI theme summaries to surface patterns in what participants said across sessions."
+        }
+      ]
+    },
+    {
+      "name": "Condens",
+      "kind": "product",
+      "url": "https://condens.io",
+      "domain": "condens.io",
+      "placements": [
+        {
+          "section": "g7",
+          "use": "Tag and cluster session material on a synthesis canvas to make large analyses manageable."
+        },
+        {
+          "section": "g15",
+          "use": "Share curated findings with stakeholders in a format suited to their audience."
+        }
+      ]
+    },
+    {
+      "name": "Marvin",
+      "kind": "product",
+      "url": "https://heymarvin.com",
+      "domain": "heymarvin.com",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Let an AI note-taker capture the session so the researcher can focus on the participant."
+        },
+        {
+          "section": "g10",
+          "use": "Keep a searchable research hub where teams can find and reuse earlier studies."
+        }
+      ]
+    },
+    {
+      "name": "Looppanel",
+      "kind": "product",
+      "url": "https://looppanel.com",
+      "domain": "looppanel.com",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Get notes automatically organised under each discussion-guide question after the session."
+        }
+      ]
+    },
+    {
+      "name": "Great Question",
+      "kind": "product",
+      "url": "https://greatquestion.co",
+      "domain": "greatquestion.co",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Recruit from the company's own customers with a participant CRM and screeners."
+        },
+        {
+          "section": "g1",
+          "use": "Schedule kickoff interviews with stakeholders and handle incentives before the study's sessions begin."
+        }
+      ]
+    },
+    {
+      "name": "User Interviews",
+      "kind": "product",
+      "url": "https://userinterviews.com",
+      "domain": "userinterviews.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Recruit screened participants from a panel when own customers aren't enough."
+        }
+      ]
+    },
+    {
+      "name": "Maze",
+      "kind": "product",
+      "url": "https://maze.co",
+      "domain": "maze.co",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Run unmoderated tests that add task metrics alongside interview findings."
+        },
+        {
+          "section": "g13",
+          "use": "Produce quantitative test reports that give leaders numbers alongside qualitative findings."
+        }
+      ]
+    },
+    {
+      "name": "Miro",
+      "kind": "product",
+      "url": "https://miro.com",
+      "domain": "miro.com",
+      "placements": [
+        {
+          "section": "g5",
+          "use": "Cluster takeaways on an affinity board in a quick team debrief straight after sessions."
+        },
+        {
+          "section": "g34",
+          "use": "Run kickoff workshops from templates so engineers and owners raise concerns early."
+        },
+        {
+          "section": "g7",
+          "use": "Cluster sticky notes from sessions on a board, often alongside borrowed colleagues."
+        }
+      ]
+    },
+    {
+      "name": "Productboard",
+      "kind": "product",
+      "url": "https://productboard.com",
+      "domain": "productboard.com",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Link customer insights to roadmap items so evidence of user struggles shapes priorities."
+        },
+        {
+          "section": "g32",
+          "use": "Score research requests and ideas by impact to decide where effort goes."
+        }
+      ]
+    },
+    {
+      "name": "Sprig",
+      "kind": "product",
+      "url": "https://sprig.com",
+      "domain": "sprig.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Run in-product surveys that test or explain patterns found in interviews."
+        }
+      ]
+    },
+    {
+      "name": "Grain",
+      "kind": "product",
+      "url": "https://grain.com",
+      "domain": "grain.com",
+      "placements": [
+        {
+          "section": "g12",
+          "use": "Clip moments from recorded calls and share them so stakeholders hear customers directly."
+        },
+        {
+          "section": "g18",
+          "use": "Post call summaries to Slack so stakeholders follow the study as it runs."
+        }
+      ]
+    },
+    {
+      "name": "UserTesting",
+      "kind": "product",
+      "url": "https://usertesting.com",
+      "domain": "usertesting.com",
+      "placements": [
+        {
+          "section": "g6",
+          "use": "Watch panel participants attempt tasks to see what they actually do, not just say."
+        },
+        {
+          "section": "g12",
+          "use": "Create highlight reels of participants struggling for leaders to watch."
+        }
+      ]
+    },
+    {
+      "name": "Lookback",
+      "kind": "product",
+      "url": "https://lookback.com",
+      "domain": "lookback.com",
+      "placements": [
+        {
+          "section": "g3",
+          "use": "Run moderated sessions while observers watch from a separate room without disturbing the participant."
+        },
+        {
+          "section": "g54",
+          "use": "Let stakeholders watch from a live observer room and note their reactions."
+        }
+      ]
+    },
+    {
+      "name": "Lyssna",
+      "kind": "product",
+      "url": "https://lyssna.com",
+      "domain": "lyssna.com",
+      "placements": [
+        {
+          "section": "g43",
+          "use": "Run quick unmoderated tests of a concept or prototype with outside participants."
+        }
+      ]
+    },
+    {
+      "name": "Respondent",
+      "kind": "product",
+      "url": "https://respondent.io",
+      "domain": "respondent.io",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Recruit specific B2B professionals through a paid panel."
+        }
+      ]
+    },
+    {
+      "name": "Listen Labs",
+      "kind": "product",
+      "url": "https://listenlabs.ai",
+      "domain": "listenlabs.ai",
+      "placements": [
+        {
+          "section": "g56",
+          "use": "Run AI-moderated interviews at scale to reach larger samples or saturation."
+        },
+        {
+          "section": "g7",
+          "use": "Get auto-synthesised reports from interviews when time or help for analysis is short."
+        }
+      ]
+    },
+    {
+      "name": "Outset",
+      "kind": "product",
+      "url": "https://outset.ai",
+      "domain": "outset.ai",
+      "placements": [
+        {
+          "section": "g47",
+          "use": "Generate discussion guides from the study's goals with AI."
+        },
+        {
+          "section": "g36",
+          "use": "Let AI interviews ask adaptive follow-ups that reveal which questions are worth refining."
+        }
+      ]
+    },
+    {
+      "name": "Strella",
+      "kind": "product",
+      "url": "https://strella.io",
+      "domain": "strella.io",
+      "placements": [
+        {
+          "section": "g12",
+          "use": "Run AI voice interviews that produce clips of participants' own words."
+        }
+      ]
+    },
+    {
+      "name": "Aurelius",
+      "kind": "product",
+      "url": "https://aureliuslab.com",
+      "domain": "aureliuslab.com",
+      "placements": [
+        {
+          "section": "g42",
+          "use": "Turn findings into recommendations that trace design responses back to research."
+        },
+        {
+          "section": "g10",
+          "use": "File studies and findings in a research library that others can browse later."
+        }
+      ]
+    },
+    {
+      "name": "Notably",
+      "kind": "product",
+      "url": "https://notably.ai",
+      "domain": "notably.ai",
+      "placements": [
+        {
+          "section": "g5",
+          "use": "Get an AI first-pass synthesis of sessions so early takeaways are ready before full analysis."
+        }
+      ]
+    },
+    {
+      "name": "Reduct",
+      "kind": "product",
+      "url": "https://reduct.video",
+      "domain": "reduct.video",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Review and edit session video through its transcript to revisit moments the notes missed."
+        }
+      ]
+    },
+    {
+      "name": "Enterpret",
+      "kind": "product",
+      "url": "https://enterpret.com",
+      "domain": "enterpret.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Classify feedback from many channels into a taxonomy to combine with qualitative work."
+        },
+        {
+          "section": "g41",
+          "use": "Rank top issues by volume across customer feedback channels."
+        }
+      ]
+    },
+    {
+      "name": "Unwrap",
+      "kind": "product",
+      "url": "https://unwrap.ai",
+      "domain": "unwrap.ai",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Detect recurring themes in feedback automatically to see what users struggle with most."
+        }
+      ]
+    },
+    {
+      "name": "BuildBetter",
+      "kind": "product",
+      "url": "https://buildbetter.ai",
+      "domain": "buildbetter.ai",
+      "placements": [
+        {
+          "section": "g39",
+          "use": "Turn customer call moments into Jira and Linear issues the builders work from."
+        },
+        {
+          "section": "g55",
+          "use": "Attach customer evidence to issues so changes carry a trail back to research."
+        }
+      ]
+    },
+    {
+      "name": "Jira Product Discovery",
+      "kind": "product",
+      "url": "https://atlassian.com",
+      "domain": "atlassian.com",
+      "placements": [
+        {
+          "section": "g32",
+          "use": "Rank ideas and research requests on a prioritisation view with the product team."
+        },
+        {
+          "section": "g34",
+          "use": "Share a discovery board where engineers and product owners follow and comment on the work."
+        }
+      ]
+    },
+    {
+      "name": "Notion",
+      "kind": "product",
+      "url": "https://notion.so",
+      "domain": "notion.so",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Build a research wiki with a page per study, linking reports and recordings."
+        },
+        {
+          "section": "g18",
+          "use": "Keep a study status page stakeholders can check between sessions and the final report."
+        }
+      ]
+    },
+    {
+      "name": "ATLAS.ti",
+      "kind": "product",
+      "url": "https://atlasti.com",
+      "domain": "atlasti.com",
+      "placements": [
+        {
+          "section": "g8",
+          "use": "Code transcripts systematically against a codebook, with options for second-coder checks."
+        }
+      ]
+    },
+    {
+      "name": "Hotjar",
+      "kind": "product",
+      "url": "https://hotjar.com",
+      "domain": "hotjar.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Use heatmaps and on-site surveys to see behaviour that interviews then explain."
+        }
+      ]
+    },
+    {
+      "name": "Loom",
+      "kind": "product",
+      "url": "https://loom.com",
+      "domain": "loom.com",
+      "placements": [
+        {
+          "section": "g15",
+          "use": "Record short async video walkthroughs of findings for people to watch in their own time."
+        },
+        {
+          "section": "g18",
+          "use": "Record quick video updates on early directions during the study."
+        }
+      ]
+    },
+    {
+      "name": "Google Sheets",
+      "kind": "tool",
+      "url": "https://sheets.google.com",
+      "domain": "sheets.google.com",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Take live notes in a rainbow spreadsheet, one column per participant, during sessions."
+        },
+        {
+          "section": "g8",
+          "use": "Build a coding matrix that applies codebook tags to each quote and participant."
+        },
+        {
+          "section": "g13",
+          "use": "Count themes across participants and chart their frequency for leaders."
+        },
+        {
+          "section": "g41",
+          "use": "Tag feedback in a spreadsheet and pivot to count the most common issues."
+        },
+        {
+          "section": "g50",
+          "use": "Tag quotes in a spreadsheet and count them while learning to analyse."
+        },
+        {
+          "section": "g32",
+          "use": "Score incoming research requests on a weighted sheet to pick what to do."
+        },
+        {
+          "section": "g20",
+          "use": "Track demographic quotas across recruits and studies to show who is missing."
+        }
+      ]
+    },
+    {
+      "name": "Google Docs",
+      "kind": "tool",
+      "url": "https://docs.google.com",
+      "domain": "docs.google.com",
+      "placements": [
+        {
+          "section": "g1",
+          "use": "Draft the research brief and discussion guide so stakeholders can comment on goals before sessions."
+        },
+        {
+          "section": "g5",
+          "use": "Write shared debrief notes together right after each session."
+        },
+        {
+          "section": "g36",
+          "use": "Keep a living discussion guide that is revised after early sessions."
+        },
+        {
+          "section": "g47",
+          "use": "Write the research plan and guide, tying questions to research goals."
+        },
+        {
+          "section": "g54",
+          "use": "Compare observers' notes in a shared doc to see how each read the session."
+        },
+        {
+          "section": "g55",
+          "use": "Keep a decision log doc recording why each change was made."
+        }
+      ]
+    },
+    {
+      "name": "Zoom",
+      "kind": "tool",
+      "url": "https://zoom.us",
+      "domain": "zoom.us",
+      "placements": [
+        {
+          "section": "g3",
+          "use": "Host sessions with observers muted and cameras off, with a co-host watching the chat."
+        },
+        {
+          "section": "g4",
+          "use": "Record sessions and auto-transcribe them so the record can be checked later."
+        },
+        {
+          "section": "g12",
+          "use": "Record sessions stakeholders can join live, then cut clips from the recordings."
+        },
+        {
+          "section": "g39",
+          "use": "Record customer calls that builders and sellers can watch or view together."
+        }
+      ]
+    },
+    {
+      "name": "Google Meet",
+      "kind": "tool",
+      "url": "https://meet.google.com",
+      "domain": "meet.google.com",
+      "placements": [
+        {
+          "section": "g43",
+          "use": "Walk participants through a prototype link on a video call."
+        },
+        {
+          "section": "g36",
+          "use": "Run pilot interviews over video calls to test questions before the main study."
+        }
+      ]
+    },
+    {
+      "name": "Microsoft Teams",
+      "kind": "tool",
+      "url": "https://teams.microsoft.com",
+      "domain": "teams.microsoft.com",
+      "placements": [
+        {
+          "section": "g3",
+          "use": "Run session calls where observers post questions in the meeting chat instead of interrupting."
+        },
+        {
+          "section": "g54",
+          "use": "Collect observer questions in a channel during sessions to see what caught their attention."
+        },
+        {
+          "section": "g4",
+          "use": "Record and transcribe session calls to keep a complete record to revisit."
+        }
+      ]
+    },
+    {
+      "name": "Slack",
+      "kind": "tool",
+      "url": "https://slack.com",
+      "domain": "slack.com",
+      "placements": [
+        {
+          "section": "g3",
+          "use": "Keep an observer backchannel where colleagues flag threads for the moderator during a live session."
+        },
+        {
+          "section": "g54",
+          "use": "Gather observer questions in a thread during sessions, then discuss them in the debrief."
+        },
+        {
+          "section": "g18",
+          "use": "Post mid-study notes and directional findings in a research channel."
+        },
+        {
+          "section": "g39",
+          "use": "Share short customer clips in channels where engineering and sales see them."
+        },
+        {
+          "section": "g22",
+          "use": "Join researcher communities to share work and get feedback from peers."
+        }
+      ]
+    },
+    {
+      "name": "Otter.ai",
+      "kind": "tool",
+      "url": "https://otter.ai",
+      "domain": "otter.ai",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Generate automatic transcripts of sessions as a backup to handwritten notes."
+        },
+        {
+          "section": "g7",
+          "use": "Produce cheap transcripts that feed manual tagging and synthesis."
+        },
+        {
+          "section": "g9",
+          "use": "Transcribe interviews on the free tier instead of typing them up by hand."
+        }
+      ]
+    },
+    {
+      "name": "Calendly",
+      "kind": "tool",
+      "url": "https://calendly.com",
+      "domain": "calendly.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Let qualified participants book their own session slots after screening."
+        },
+        {
+          "section": "g49",
+          "use": "Offer recurring self-booked interview slots so sessions fit around other work."
+        }
+      ]
+    },
+    {
+      "name": "Google Forms",
+      "kind": "tool",
+      "url": "https://forms.google.com",
+      "domain": "forms.google.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Screen applicants with a form before inviting them to book."
+        },
+        {
+          "section": "g13",
+          "use": "Run a quick survey to check how widely an interview theme holds."
+        },
+        {
+          "section": "g14",
+          "use": "Build a survey from interview themes to see how widely they apply."
+        }
+      ]
+    },
+    {
+      "name": "Typeform",
+      "kind": "tool",
+      "url": "https://typeform.com",
+      "domain": "typeform.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Screen applicants with a survey to select who fits the study."
+        },
+        {
+          "section": "g13",
+          "use": "Send a validation survey that puts numbers behind qualitative themes."
+        }
+      ]
+    },
+    {
+      "name": "FigJam",
+      "kind": "tool",
+      "url": "https://figma.com",
+      "domain": "figma.com",
+      "placements": [
+        {
+          "section": "g5",
+          "use": "Run a timeboxed sticky-note debrief board with the team after sessions."
+        },
+        {
+          "section": "g7",
+          "use": "Cluster quotes on a shared board, sometimes inviting colleagues to help with synthesis."
+        },
+        {
+          "section": "g50",
+          "use": "Build a digital affinity wall to group quotes into themes."
+        },
+        {
+          "section": "g42",
+          "use": "Affinity-map findings and write How Might We statements on a shared board."
+        },
+        {
+          "section": "g34",
+          "use": "Map risks and objections with builders on a kickoff board."
+        }
+      ]
+    },
+    {
+      "name": "Mural",
+      "kind": "tool",
+      "url": "https://mural.co",
+      "domain": "mural.co",
+      "placements": [
+        {
+          "section": "g5",
+          "use": "Hold a remote debrief on a whiteboard to gather takeaways from distributed teammates."
+        },
+        {
+          "section": "g42",
+          "use": "Run an affinity clustering workshop that moves from findings to design ideas."
+        },
+        {
+          "section": "g53",
+          "use": "Arrange customer quotes by theme on a board so leaders see the evidence."
+        }
+      ]
+    },
+    {
+      "name": "Airtable",
+      "kind": "tool",
+      "url": "https://airtable.com",
+      "domain": "airtable.com",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Keep a base of studies and insights that teams can filter and revisit."
+        },
+        {
+          "section": "g9",
+          "use": "Tag quotes in a structured base that is quicker to filter than a spreadsheet."
+        }
+      ]
+    },
+    {
+      "name": "Confluence",
+      "kind": "tool",
+      "url": "https://confluence.atlassian.com",
+      "domain": "confluence.atlassian.com",
+      "placements": [
+        {
+          "section": "g1",
+          "use": "Publish the research brief on a shared page where stakeholders review and align on its questions."
+        },
+        {
+          "section": "g10",
+          "use": "Publish a report page per study in a space other teams can search."
+        },
+        {
+          "section": "g55",
+          "use": "Record design decisions with rationale using a decisions page template."
+        }
+      ]
+    },
+    {
+      "name": "Google Slides",
+      "kind": "tool",
+      "url": "https://slides.google.com",
+      "domain": "slides.google.com",
+      "placements": [
+        {
+          "section": "g9",
+          "use": "Share tagged insights as quick summary slides for colleagues."
+        },
+        {
+          "section": "g12",
+          "use": "Embed video clips beside participant quotes in readout decks."
+        },
+        {
+          "section": "g15",
+          "use": "Build a readout deck with images, clips and speaker notes tailored to the audience."
+        }
+      ]
+    },
+    {
+      "name": "Amplitude",
+      "kind": "tool",
+      "url": "https://amplitude.com",
+      "domain": "amplitude.com",
+      "placements": [
+        {
+          "section": "g13",
+          "use": "Pull usage data that shows how many users are affected by a theme."
+        },
+        {
+          "section": "g14",
+          "use": "Spot drop-offs in usage data that interviews are then used to explain."
+        },
+        {
+          "section": "g37",
+          "use": "Check what users said against what usage data shows they actually do."
+        },
+        {
+          "section": "g40",
+          "use": "Track adoption after launch to check outcomes that rushed research left unknown."
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "kind": "tool",
+      "url": "https://chatgpt.com",
+      "domain": "chatgpt.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Draft themes from open-ended survey responses as a first pass before manual coding."
+        },
+        {
+          "section": "g41",
+          "use": "Tag batches of feedback with AI to find common problems faster."
+        }
+      ]
+    },
+    {
+      "name": "Google Drive",
+      "kind": "tool",
+      "url": "https://drive.google.com",
+      "domain": "drive.google.com",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Keep reports and recordings in shared folders organised by study."
+        },
+        {
+          "section": "g21",
+          "use": "Keep raw notes in a restricted folder so sensitive details don't spread."
+        },
+        {
+          "section": "g39",
+          "use": "Keep a shared folder of customer clips for teams to watch."
+        }
+      ]
+    },
+    {
+      "name": "Intercom",
+      "kind": "tool",
+      "url": "https://intercom.com",
+      "domain": "intercom.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Intercept users in-product to invite the right ones into research."
+        },
+        {
+          "section": "g49",
+          "use": "Prompt users in-app to book interviews, automating recruitment."
+        }
+      ]
+    },
+    {
+      "name": "Rally UXR",
+      "kind": "product",
+      "url": "https://rallyuxr.com/",
+      "domain": "rallyuxr.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Teams keep their own customer panel in Rally and pull participants with the right attributes and history for each study."
+        },
+        {
+          "section": "g21",
+          "use": "Ops teams set consent, data policies, permissions and cool-down rules once so participant data stays protected."
+        }
+      ]
+    },
+    {
+      "name": "Ethnio",
+      "kind": "product",
+      "url": "https://ethn.io/",
+      "domain": "ethn.io",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Researchers run intercepts on their site or app and screeners to recruit the real users a study needs."
+        },
+        {
+          "section": "g20",
+          "use": "Screeners and panel filters are used to balance who gets invited so samples are not skewed to one group."
+        }
+      ]
+    },
+    {
+      "name": "Tremendous",
+      "kind": "tool",
+      "url": "https://www.tremendous.com/",
+      "domain": "tremendous.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Ops teams send gift cards and payouts to participants worldwide after sessions."
+        }
+      ]
+    },
+    {
+      "name": "Optimal Workshop",
+      "kind": "product",
+      "url": "https://www.optimalworkshop.com/",
+      "domain": "optimalworkshop.com",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Teams run tree tests and first-click tests to see where most users actually get lost before deciding what to fix."
+        },
+        {
+          "section": "g43",
+          "use": "Designers run fast prototype or first-click tests to check a concept they already favour."
+        },
+        {
+          "section": "g35",
+          "use": "Open card sorts let participants group and name content in their own words instead of the team's labels."
+        }
+      ]
+    },
+    {
+      "name": "dscout",
+      "kind": "product",
+      "url": "https://dscout.com/",
+      "domain": "dscout.com",
+      "placements": [
+        {
+          "section": "g6",
+          "use": "Researchers run mobile diary studies so participants capture what they actually do in context over days."
+        },
+        {
+          "section": "g12",
+          "use": "Selfie videos and clips from scouts are shared so stakeholders see and hear people directly."
+        },
+        {
+          "section": "g44",
+          "use": "Teams recruit from dscout's verified participant pool or invite their own users into studies."
+        }
+      ]
+    },
+    {
+      "name": "Qualtrics",
+      "kind": "product",
+      "url": "https://www.qualtrics.com/",
+      "domain": "qualtrics.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Researchers field surveys to size or follow up on themes found in interviews."
+        },
+        {
+          "section": "g13",
+          "use": "Survey results are used to give leaders figures that support qualitative findings."
+        }
+      ]
+    },
+    {
+      "name": "Prolific",
+      "kind": "product",
+      "url": "https://www.prolific.com/",
+      "domain": "prolific.com",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Researchers recruit screened, verified participants for unmoderated studies and surveys."
+        },
+        {
+          "section": "g20",
+          "use": "Teams use its representative and demographic filters to get a balanced sample."
+        },
+        {
+          "section": "g56",
+          "use": "Researchers fill larger survey or test samples fast when a study needs more participants."
+        }
+      ]
+    },
+    {
+      "name": "Fathom",
+      "kind": "tool",
+      "url": "https://www.fathom.ai/",
+      "domain": "fathom.ai",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Researchers let Fathom record and transcribe calls so they can focus on the conversation and revisit key moments."
+        },
+        {
+          "section": "g5",
+          "use": "AI summaries right after a session give the team takeaways before formal analysis."
+        }
+      ]
+    },
+    {
+      "name": "tl;dv",
+      "kind": "tool",
+      "url": "https://tldv.io/",
+      "domain": "tldv.io",
+      "placements": [
+        {
+          "section": "g4",
+          "use": "Researchers record Zoom, Meet or Teams interviews and get transcripts in many languages."
+        },
+        {
+          "section": "g12",
+          "use": "Short clips of users describing a problem are shared with stakeholders."
+        },
+        {
+          "section": "g9",
+          "use": "Teams try it as a low-cost way to speed up transcribing, tagging and sharing."
+        }
+      ]
+    },
+    {
+      "name": "MAXQDA",
+      "kind": "product",
+      "url": "https://www.maxqda.com/",
+      "domain": "maxqda.com",
+      "placements": [
+        {
+          "section": "g8",
+          "use": "Researchers code transcripts with a codebook to make analysis rigorous and traceable."
+        },
+        {
+          "section": "g14",
+          "use": "Qualitative codes are combined with survey or quantitative data in the same project."
+        }
+      ]
+    },
+    {
+      "name": "Tetra Insights",
+      "kind": "product",
+      "url": "https://tetrainsights.com/",
+      "domain": "tetrainsights.com",
+      "placements": [
+        {
+          "section": "g9",
+          "use": "Researchers get AI themes that link back to the exact transcript passage, so they can check them."
+        },
+        {
+          "section": "g7",
+          "use": "Its AI pulls themes across many interviews when a researcher is short on time or working alone."
+        },
+        {
+          "section": "g10",
+          "use": "Past interviews, tags and highlights stay in a repository the team can revisit."
+        },
+        {
+          "section": "g12",
+          "use": "Highlight reels of participants are built to show stakeholders the problem."
+        }
+      ]
+    },
+    {
+      "name": "Userlytics",
+      "kind": "product",
+      "url": "https://www.userlytics.com/",
+      "domain": "userlytics.com",
+      "placements": [
+        {
+          "section": "g43",
+          "use": "Teams run fast task-based tests on a prototype or concept with panel participants."
+        },
+        {
+          "section": "g41",
+          "use": "Task-based usability sessions show where most users fail so priorities follow evidence."
+        }
+      ]
+    }
+  ]
+}

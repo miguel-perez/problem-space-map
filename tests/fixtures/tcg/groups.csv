@@ -1,0 +1,79 @@
+group_id,level,label,parent_id,parent_label,summaries,people
+g1,level3,Give myself the best chance to win,,,167,8
+g2,level3,"Make competing feel worth it, win or lose",,,94,9
+g3,level3,Keep the game fair and healthy for everyone who plays it,,,123,8
+g4,level3,"Feel connected to the game, its world and its people",,,85,10
+g5,level3,Cope with life outside the game,,,9,5
+g6,level2,Judge how strong a deck really is and why,g1,Give myself the best chance to win,50,5
+g7,level2,Choose what to bring to an event and how to build it,g1,Give myself the best chance to win,37,6
+g8,level2,Read the game and work out the plays that win it,g1,Give myself the best chance to win,58,6
+g9,level2,"Get the rules, card text and facts right",g1,Give myself the best chance to win,22,5
+g10,level2,"Absorb the losses, surprises and letdowns I run into",g2,"Make competing feel worth it, win or lose",43,7
+g11,level2,Savor the outcomes and games that make playing worth it,g2,"Make competing feel worth it, win or lose",17,5
+g12,level2,Satisfy my drive to compete and get better,g2,"Make competing feel worth it, win or lose",34,7
+g13,level2,Judge whether ban-list decisions are right,g3,Keep the game fair and healthy for everyone who plays it,56,5
+g14,level2,Weigh what card power and design do to playing against each other,g3,Keep the game fair and healthy for everyone who plays it,33,8
+g15,level2,Question the commercial motives behind decisions and prices,g3,Keep the game fair and healthy for everyone who plays it,28,5
+g16,level2,Keep each game fair between me and my opponent,g3,Keep the game fair and healthy for everyone who plays it,6,5
+g17,level2,"Find myself in the characters, stories and attachments that drew me in",g4,"Feel connected to the game, its world and its people",30,6
+g18,level2,"Care about the cards themselves as things to want, open and own",g4,"Feel connected to the game, its world and its people",28,7
+g19,level2,Laugh at the game's absurd moments,g4,"Feel connected to the game, its world and its people",10,5
+g20,level2,Feel at home with the people around my play,g4,"Feel connected to the game, its world and its people",17,7
+g21,level2,"Cope with my body, travel and everyday strains",g5,Cope with life outside the game,9,5
+g22,level1,Object when a ban hits the wrong card instead of the real problem,g13,Judge whether ban-list decisions are right,17,2
+g23,level1,Weigh whether a strong card deserves to be hit,g13,Judge whether ban-list decisions are right,15,5
+g24,level1,Want cards freed once they are no longer dangerous,g13,Judge whether ban-list decisions are right,12,4
+g25,level1,Judge whether ban lists come at the right time,g13,Judge whether ban-list decisions are right,6,3
+g26,level1,Feel for players the game leaves worse off,g13,Judge whether ban-list decisions are right,6,4
+g27,level1,Read what the publisher is really after behind its decisions,g15,Question the commercial motives behind decisions and prices,14,5
+g28,level1,Judge whether product and card prices are worth paying,g15,Question the commercial motives behind decisions and prices,14,5
+g29,level1,Weigh what outside IPs and crossovers do to a card game,g14,Weigh what card power and design do to playing against each other,6,3
+g30,level1,Accept that cards keep getting stronger over time,g14,Weigh what card power and design do to playing against each other,6,5
+g31,level1,Worry about cards that leave the opponent no way to interact,g14,Weigh what card power and design do to playing against each other,11,4
+g32,level1,Enjoy cards that let me tell my opponent no,g14,Weigh what card power and design do to playing against each other,4,3
+g33,level1,Judge whether a card or rule is designed well,g14,Weigh what card power and design do to playing against each other,3,2
+g34,level1,Value a format where many decks can do well,g14,Weigh what card power and design do to playing against each other,3,1
+g35,level1,Make sense of a mechanic by comparing it with other card games,g9,"Get the rules, card text and facts right",4,4
+g36,level1,Diagnose what holds a deck back from winning,g6,Judge how strong a deck really is and why,11,5
+g37,level1,Work out what new cards add to a deck,g6,Judge how strong a deck really is and why,18,5
+g38,level1,Place decks by what they have shown they can do,g6,Judge how strong a deck really is and why,13,4
+g39,level1,Separate a deck's strength from its player's skill and the local field,g6,Judge how strong a deck really is and why,8,2
+g40,level1,Weigh playing the decks and style I love against what is strongest,g7,Choose what to bring to an event and how to build it,7,5
+g41,level1,Plan what to play for upcoming events,g7,Choose what to bring to an event and how to build it,10,3
+g42,level1,Decide which cards earn a slot in my list,g7,Choose what to bring to an event and how to build it,10,4
+g43,level1,Size up how my deck fares against what I will face,g7,Choose what to bring to an event and how to build it,10,4
+g44,level1,Work out what a combo really needs to come together,g8,Read the game and work out the plays that win it,12,5
+g45,level1,Choose the play that wins or protects my position,g8,Read the game and work out the plays that win it,16,6
+g46,level1,Recognize when a game is already in hand,g8,Read the game and work out the plays that win it,6,2
+g47,level1,Look back at the plays that decided a game,g8,Read the game and work out the plays that win it,11,5
+g48,level1,Read what my opponent knows and is trying to do,g8,Read the game and work out the plays that win it,13,5
+g49,level1,Keep a game between us fair and worth playing,g16,Keep each game fair between me and my opponent,6,5
+g50,level1,Check what cards actually do and what really happened,g9,"Get the rules, card text and facts right",12,5
+g51,level1,Struggle to keep track of what I need to remember,g9,"Get the rules, card text and facts right",6,2
+g52,level1,Recognize when a game is lost and nothing I do will change it,g10,"Absorb the losses, surprises and letdowns I run into",14,5
+g53,level1,Feel the sting of bricking and dead hands,g10,"Absorb the losses, surprises and letdowns I run into",7,5
+g54,level1,Accept that luck decides some results however well I play,g10,"Absorb the losses, surprises and letdowns I run into",9,4
+g55,level1,Feel disbelief at how a match or a pull turned out,g10,"Absorb the losses, surprises and letdowns I run into",2,2
+g56,level1,Feel restless when play stalls or I am left waiting,g10,"Absorb the losses, surprises and letdowns I run into",3,3
+g57,level1,Fear looking dumb in front of people watching me play,g10,"Absorb the losses, surprises and letdowns I run into",1,1
+g58,level1,Feel let down when something does not deliver what I hoped for,g10,"Absorb the losses, surprises and letdowns I run into",7,4
+g59,level1,Savor proving myself or getting the better of someone,g11,Savor the outcomes and games that make playing worth it,6,4
+g60,level1,Feel thankful when things break my way,g11,Savor the outcomes and games that make playing worth it,6,1
+g61,level1,Enjoy a great game or event whatever the result,g11,Savor the outcomes and games that make playing worth it,5,2
+g62,level1,Seek the competition and pressure that keep me driven,g12,Satisfy my drive to compete and get better,12,6
+g63,level1,Set competitive goals that make my time feel justified,g12,Satisfy my drive to compete and get better,11,3
+g64,level1,Learn from losses and stronger players to get better,g12,Satisfy my drive to compete and get better,11,6
+g65,level1,Value the community around our play and our show,g20,Feel at home with the people around my play,8,4
+g66,level1,Push back against family judgment of how I spend my time,g20,Feel at home with the people around my play,4,2
+g67,level1,Feel uneasy about sexualized imagery in the hobby,g20,Feel at home with the people around my play,3,2
+g68,level1,Find online play a poor substitute for playing in person,g20,Feel at home with the people around my play,2,2
+g69,level1,Know who I am and see it in what draws me,g17,"Find myself in the characters, stories and attachments that drew me in",10,2
+g70,level1,Hold on to the long-standing attachments that make me a fan,g17,"Find myself in the characters, stories and attachments that drew me in",9,5
+g71,level1,Get swept up in the story's big character moments,g17,"Find myself in the characters, stories and attachments that drew me in",11,2
+g72,level1,Feel drawn in by card art,g18,"Care about the cards themselves as things to want, open and own",9,5
+g73,level1,Look forward to new cards and support for decks I care about,g18,"Care about the cards themselves as things to want, open and own",13,3
+g74,level1,Decide when a deck is worth collecting at higher rarity,g18,"Care about the cards themselves as things to want, open and own",6,3
+g75,level1,Laugh at the absurd moments around the game,g19,Laugh at the game's absurd moments,10,5
+g76,level1,Worry about getting myself through the trip and the event,g21,"Cope with my body, travel and everyday strains",5,2
+g77,level1,Feel irritated by antiquated clock changes,g21,"Cope with my body, travel and everyday strains",3,2
+g78,level1,Feel my age as I turn 30,g21,"Cope with my body, travel and everyday strains",1,1

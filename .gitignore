@@ -1,0 +1,10 @@
+node_modules/
+dist/
+test-results/
+.DS_Store
+legacy/
+data/
+.superpowers/
+examples/.e2e-*/
+dist-e2e-*/
+docs/superpowers/

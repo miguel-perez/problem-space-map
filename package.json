@@ -1,0 +1,48 @@
+{
+  "name": "problem-space-map",
+  "version": "0.1.0",
+  "description": "A 3D map of a market's unmet needs and the products that already serve them, built from one map.json.",
+  "keywords": [
+    "problem space",
+    "jobs to be done",
+    "outcome-driven innovation",
+    "mental model",
+    "user research",
+    "treemap",
+    "three.js",
+    "infographic",
+    "product strategy"
+  ],
+  "homepage": "https://miguel.design/problem-space-map/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguel-perez/problem-space-map.git"
+  },
+  "license": "MIT",
+  "author": "Miguel Perez",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "build:site": "rm -rf dist && vite build && MAP=examples/tcg-players/map.json BASE=/problem-space-map/tcg/ OUT_DIR=dist/tcg vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "e2e": "playwright test",
+    "screenshots": "node scripts/screenshots.mjs",
+    "logos": "node scripts/fetch-logos.mjs",
+    "map:from-graph": "node scripts/from-purpose-graph.mjs",
+    "docs:products": "node scripts/products-table.mjs --write README.md"
+  },
+  "dependencies": {
+    "d3-dsv": "^3.0.1",
+    "d3-hierarchy": "^3.1.2",
+    "three": "^0.186.1",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.64.1",
+    "vite": "^8.3.4",
+    "vitest": "^5.0.5"
+  }
+}

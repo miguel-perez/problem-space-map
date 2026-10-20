@@ -1,0 +1,963 @@
+{
+  "siteUrl": "https://miguel.design/problem-space-map/tcg/",
+  "title": "Trading Card Game Players Problem Space Map",
+  "description": "What trading card game players are trying to get done, grouped by purpose, with how satisfied they are and the products they use.",
+  "levels": [
+    "Purpose",
+    "Goal",
+    "Task"
+  ],
+  "note": "Themes regrouped with the purpose-graphing skill from AI-assisted summaries of a study; satisfaction derived from participants' statements scored by an AI-assisted analysis pipeline; 10 participants (5 interviews, 5 Digimon TCG podcast hosts); only themes raised by 2+ people.",
+  "sections": [
+    {
+      "id": "g1",
+      "level": 3,
+      "label": "Give myself the best chance to win",
+      "parent": null,
+      "people": 8,
+      "satisfaction": 5
+    },
+    {
+      "id": "g2",
+      "level": 3,
+      "label": "Make competing feel worth it, win or lose",
+      "parent": null,
+      "people": 9,
+      "satisfaction": 5
+    },
+    {
+      "id": "g3",
+      "level": 3,
+      "label": "Keep the game fair and healthy for everyone who plays it",
+      "parent": null,
+      "people": 8,
+      "satisfaction": 5
+    },
+    {
+      "id": "g4",
+      "level": 3,
+      "label": "Feel connected to the game, its world and its people",
+      "parent": null,
+      "people": 10,
+      "satisfaction": 5
+    },
+    {
+      "id": "g5",
+      "level": 3,
+      "label": "Cope with life outside the game",
+      "parent": null,
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g6",
+      "level": 2,
+      "label": "Judge how strong a deck really is and why",
+      "parent": "g1",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g7",
+      "level": 2,
+      "label": "Choose what to bring to an event and how to build it",
+      "parent": "g1",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "g8",
+      "level": 2,
+      "label": "Read the game and work out the plays that win it",
+      "parent": "g1",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "g9",
+      "level": 2,
+      "label": "Get the rules, card text and facts right",
+      "parent": "g1",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g10",
+      "level": 2,
+      "label": "Absorb the losses, surprises and letdowns I run into",
+      "parent": "g2",
+      "people": 7,
+      "satisfaction": 5
+    },
+    {
+      "id": "g11",
+      "level": 2,
+      "label": "Savor the outcomes and games that make playing worth it",
+      "parent": "g2",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g12",
+      "level": 2,
+      "label": "Satisfy my drive to compete and get better",
+      "parent": "g2",
+      "people": 7,
+      "satisfaction": 5
+    },
+    {
+      "id": "g13",
+      "level": 2,
+      "label": "Judge whether ban-list decisions are right",
+      "parent": "g3",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g14",
+      "level": 2,
+      "label": "Weigh what card power and design do to playing against each other",
+      "parent": "g3",
+      "people": 8,
+      "satisfaction": 5
+    },
+    {
+      "id": "g15",
+      "level": 2,
+      "label": "Question the commercial motives behind decisions and prices",
+      "parent": "g3",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g16",
+      "level": 2,
+      "label": "Keep each game fair between me and my opponent",
+      "parent": "g3",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g17",
+      "level": 2,
+      "label": "Find myself in the characters, stories and attachments that drew me in",
+      "parent": "g4",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "g18",
+      "level": 2,
+      "label": "Care about the cards themselves as things to want, open and own",
+      "parent": "g4",
+      "people": 7,
+      "satisfaction": 5
+    },
+    {
+      "id": "g19",
+      "level": 2,
+      "label": "Laugh at the game's absurd moments",
+      "parent": "g4",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g20",
+      "level": 2,
+      "label": "Feel at home with the people around my play",
+      "parent": "g4",
+      "people": 7,
+      "satisfaction": 5
+    },
+    {
+      "id": "g21",
+      "level": 2,
+      "label": "Cope with my body, travel and everyday strains",
+      "parent": "g5",
+      "people": 5,
+      "satisfaction": 5
+    },
+    {
+      "id": "g22",
+      "level": 1,
+      "label": "Object when a ban hits the wrong card instead of the real problem",
+      "parent": "g13",
+      "people": 2,
+      "satisfaction": 2.9
+    },
+    {
+      "id": "g23",
+      "level": 1,
+      "label": "Weigh whether a strong card deserves to be hit",
+      "parent": "g13",
+      "people": 5,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g24",
+      "level": 1,
+      "label": "Want cards freed once they are no longer dangerous",
+      "parent": "g13",
+      "people": 4,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g25",
+      "level": 1,
+      "label": "Judge whether ban lists come at the right time",
+      "parent": "g13",
+      "people": 3,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "g26",
+      "level": 1,
+      "label": "Feel for players the game leaves worse off",
+      "parent": "g13",
+      "people": 4,
+      "satisfaction": 2.9
+    },
+    {
+      "id": "g27",
+      "level": 1,
+      "label": "Read what the publisher is really after behind its decisions",
+      "parent": "g15",
+      "people": 5,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g28",
+      "level": 1,
+      "label": "Judge whether product and card prices are worth paying",
+      "parent": "g15",
+      "people": 5,
+      "satisfaction": 1.8
+    },
+    {
+      "id": "g29",
+      "level": 1,
+      "label": "Weigh what outside IPs and crossovers do to a card game",
+      "parent": "g14",
+      "people": 3,
+      "satisfaction": 4
+    },
+    {
+      "id": "g30",
+      "level": 1,
+      "label": "Accept that cards keep getting stronger over time",
+      "parent": "g14",
+      "people": 5,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g31",
+      "level": 1,
+      "label": "Worry about cards that leave the opponent no way to interact",
+      "parent": "g14",
+      "people": 4,
+      "satisfaction": 3.2
+    },
+    {
+      "id": "g32",
+      "level": 1,
+      "label": "Enjoy cards that let me tell my opponent no",
+      "parent": "g14",
+      "people": 3,
+      "satisfaction": 9
+    },
+    {
+      "id": "g33",
+      "level": 1,
+      "label": "Judge whether a card or rule is designed well",
+      "parent": "g14",
+      "people": 2,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g34",
+      "level": 1,
+      "label": "Value a format where many decks can do well",
+      "parent": "g14",
+      "people": 1,
+      "satisfaction": 10
+    },
+    {
+      "id": "g35",
+      "level": 1,
+      "label": "Make sense of a mechanic by comparing it with other card games",
+      "parent": "g9",
+      "people": 4,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g36",
+      "level": 1,
+      "label": "Diagnose what holds a deck back from winning",
+      "parent": "g6",
+      "people": 5,
+      "satisfaction": 4.2
+    },
+    {
+      "id": "g37",
+      "level": 1,
+      "label": "Work out what new cards add to a deck",
+      "parent": "g6",
+      "people": 5,
+      "satisfaction": 7.1
+    },
+    {
+      "id": "g38",
+      "level": 1,
+      "label": "Place decks by what they have shown they can do",
+      "parent": "g6",
+      "people": 4,
+      "satisfaction": 7.2
+    },
+    {
+      "id": "g39",
+      "level": 1,
+      "label": "Separate a deck's strength from its player's skill and the local field",
+      "parent": "g6",
+      "people": 2,
+      "satisfaction": 7.1
+    },
+    {
+      "id": "g40",
+      "level": 1,
+      "label": "Weigh playing the decks and style I love against what is strongest",
+      "parent": "g7",
+      "people": 5,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g41",
+      "level": 1,
+      "label": "Plan what to play for upcoming events",
+      "parent": "g7",
+      "people": 3,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "g42",
+      "level": 1,
+      "label": "Decide which cards earn a slot in my list",
+      "parent": "g7",
+      "people": 4,
+      "satisfaction": 5.3
+    },
+    {
+      "id": "g43",
+      "level": 1,
+      "label": "Size up how my deck fares against what I will face",
+      "parent": "g7",
+      "people": 4,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g44",
+      "level": 1,
+      "label": "Work out what a combo really needs to come together",
+      "parent": "g8",
+      "people": 5,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "g45",
+      "level": 1,
+      "label": "Choose the play that wins or protects my position",
+      "parent": "g8",
+      "people": 6,
+      "satisfaction": 6.7
+    },
+    {
+      "id": "g46",
+      "level": 1,
+      "label": "Recognize when a game is already in hand",
+      "parent": "g8",
+      "people": 2,
+      "satisfaction": 6.7
+    },
+    {
+      "id": "g47",
+      "level": 1,
+      "label": "Look back at the plays that decided a game",
+      "parent": "g8",
+      "people": 5,
+      "satisfaction": 3.1
+    },
+    {
+      "id": "g48",
+      "level": 1,
+      "label": "Read what my opponent knows and is trying to do",
+      "parent": "g8",
+      "people": 5,
+      "satisfaction": 6.3
+    },
+    {
+      "id": "g49",
+      "level": 1,
+      "label": "Keep a game between us fair and worth playing",
+      "parent": "g16",
+      "people": 5,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "g50",
+      "level": 1,
+      "label": "Check what cards actually do and what really happened",
+      "parent": "g9",
+      "people": 5,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g51",
+      "level": 1,
+      "label": "Struggle to keep track of what I need to remember",
+      "parent": "g9",
+      "people": 2,
+      "satisfaction": 3.3
+    },
+    {
+      "id": "g52",
+      "level": 1,
+      "label": "Recognize when a game is lost and nothing I do will change it",
+      "parent": "g10",
+      "people": 5,
+      "satisfaction": 2.3
+    },
+    {
+      "id": "g53",
+      "level": 1,
+      "label": "Feel the sting of bricking and dead hands",
+      "parent": "g10",
+      "people": 5,
+      "satisfaction": 0.7
+    },
+    {
+      "id": "g54",
+      "level": 1,
+      "label": "Accept that luck decides some results however well I play",
+      "parent": "g10",
+      "people": 4,
+      "satisfaction": 3.5
+    },
+    {
+      "id": "g55",
+      "level": 1,
+      "label": "Feel disbelief at how a match or a pull turned out",
+      "parent": "g10",
+      "people": 2,
+      "satisfaction": 3.8
+    },
+    {
+      "id": "g56",
+      "level": 1,
+      "label": "Feel restless when play stalls or I am left waiting",
+      "parent": "g10",
+      "people": 3,
+      "satisfaction": 1.7
+    },
+    {
+      "id": "g57",
+      "level": 1,
+      "label": "Fear looking dumb in front of people watching me play",
+      "parent": "g10",
+      "people": 1,
+      "satisfaction": 0
+    },
+    {
+      "id": "g58",
+      "level": 1,
+      "label": "Feel let down when something does not deliver what I hoped for",
+      "parent": "g10",
+      "people": 4,
+      "satisfaction": 0.4
+    },
+    {
+      "id": "g59",
+      "level": 1,
+      "label": "Savor proving myself or getting the better of someone",
+      "parent": "g11",
+      "people": 4,
+      "satisfaction": 10
+    },
+    {
+      "id": "g60",
+      "level": 1,
+      "label": "Feel thankful when things break my way",
+      "parent": "g11",
+      "people": 1,
+      "satisfaction": 7.5
+    },
+    {
+      "id": "g61",
+      "level": 1,
+      "label": "Enjoy a great game or event whatever the result",
+      "parent": "g11",
+      "people": 2,
+      "satisfaction": 8.3
+    },
+    {
+      "id": "g62",
+      "level": 1,
+      "label": "Seek the competition and pressure that keep me driven",
+      "parent": "g12",
+      "people": 6,
+      "satisfaction": 8.5
+    },
+    {
+      "id": "g63",
+      "level": 1,
+      "label": "Set competitive goals that make my time feel justified",
+      "parent": "g12",
+      "people": 3,
+      "satisfaction": 7.5
+    },
+    {
+      "id": "g64",
+      "level": 1,
+      "label": "Learn from losses and stronger players to get better",
+      "parent": "g12",
+      "people": 6,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "g65",
+      "level": 1,
+      "label": "Value the community around our play and our show",
+      "parent": "g20",
+      "people": 4,
+      "satisfaction": 9.4
+    },
+    {
+      "id": "g66",
+      "level": 1,
+      "label": "Push back against family judgment of how I spend my time",
+      "parent": "g20",
+      "people": 2,
+      "satisfaction": 5
+    },
+    {
+      "id": "g67",
+      "level": 1,
+      "label": "Feel uneasy about sexualized imagery in the hobby",
+      "parent": "g20",
+      "people": 2,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g68",
+      "level": 1,
+      "label": "Find online play a poor substitute for playing in person",
+      "parent": "g20",
+      "people": 2,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g69",
+      "level": 1,
+      "label": "Know who I am and see it in what draws me",
+      "parent": "g17",
+      "people": 2,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "g70",
+      "level": 1,
+      "label": "Hold on to the long-standing attachments that make me a fan",
+      "parent": "g17",
+      "people": 5,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "g71",
+      "level": 1,
+      "label": "Get swept up in the story's big character moments",
+      "parent": "g17",
+      "people": 2,
+      "satisfaction": 8.5
+    },
+    {
+      "id": "g72",
+      "level": 1,
+      "label": "Feel drawn in by card art",
+      "parent": "g18",
+      "people": 5,
+      "satisfaction": 9.5
+    },
+    {
+      "id": "g73",
+      "level": 1,
+      "label": "Look forward to new cards and support for decks I care about",
+      "parent": "g18",
+      "people": 3,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "g74",
+      "level": 1,
+      "label": "Decide when a deck is worth collecting at higher rarity",
+      "parent": "g18",
+      "people": 3,
+      "satisfaction": 8.3
+    },
+    {
+      "id": "g75",
+      "level": 1,
+      "label": "Laugh at the absurd moments around the game",
+      "parent": "g19",
+      "people": 5,
+      "satisfaction": 9.6
+    },
+    {
+      "id": "g76",
+      "level": 1,
+      "label": "Worry about getting myself through the trip and the event",
+      "parent": "g21",
+      "people": 2,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g77",
+      "level": 1,
+      "label": "Feel irritated by antiquated clock changes",
+      "parent": "g21",
+      "people": 2,
+      "satisfaction": 0
+    },
+    {
+      "id": "g78",
+      "level": 1,
+      "label": "Feel my age as I turn 30",
+      "parent": "g21",
+      "people": 1,
+      "satisfaction": 0
+    }
+  ],
+  "solutions": [
+    {
+      "name": "DigimonCard.io",
+      "kind": "product",
+      "url": "https://digimoncard.io",
+      "domain": "digimoncard.io",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Check the tier list and recent tournament-topping lists to confirm the deck I chose is a real contender."
+        },
+        {
+          "section": "g40",
+          "use": "Compare the decks I want to play against what is actually placing in the meta."
+        },
+        {
+          "section": "g38",
+          "use": "Browse placed decklists to judge a deck after seeing how it performed in events."
+        },
+        {
+          "section": "g42",
+          "use": "Build and share a list, swapping cards in and out to see what earns a slot."
+        },
+        {
+          "section": "g39",
+          "use": "Look at where a deck is winning to tell real meta presence from one strong local player."
+        }
+      ]
+    },
+    {
+      "name": "DigimonCard.dev",
+      "kind": "product",
+      "url": "https://digimoncard.dev",
+      "domain": "digimoncard.dev",
+      "placements": [
+        {
+          "section": "g37",
+          "use": "Look up the exact English text of a card I have never seen played."
+        },
+        {
+          "section": "g50",
+          "use": "Check the card's wording to correct a wrong assumption about its effect."
+        },
+        {
+          "section": "g48",
+          "use": "Pull up an opponent's card mid-match to see what it does."
+        }
+      ]
+    },
+    {
+      "name": "Digimon Card Meta",
+      "kind": "product",
+      "url": "https://digimonmeta.com",
+      "domain": "digimonmeta.com",
+      "placements": [
+        {
+          "section": "g31",
+          "use": "Read leak reports to size up how broken an upcoming card is before it lands."
+        },
+        {
+          "section": "g38",
+          "use": "Read strategy articles that make the case for underrated cards."
+        },
+        {
+          "section": "g44",
+          "use": "Study guides that break down which cards a strategy cannot do without."
+        },
+        {
+          "section": "g24",
+          "use": "Follow set leaks to see how new cards outclass older strategies."
+        },
+        {
+          "section": "g73",
+          "use": "Catch news and reveals the community has been waiting for."
+        }
+      ]
+    },
+    {
+      "name": "Digimon Card Game official site",
+      "kind": "product",
+      "url": "https://world.digimoncard.com",
+      "domain": "world.digimoncard.com",
+      "placements": [
+        {
+          "section": "g22",
+          "use": "Read the official banned and restricted announcement to see which card was actually hit."
+        },
+        {
+          "section": "g25",
+          "use": "Check when a banlist takes effect to plan around a mid-preparation change."
+        },
+        {
+          "section": "g24",
+          "use": "Read Bandai's stated reasoning behind each ban or restriction."
+        },
+        {
+          "section": "g50",
+          "use": "Look up official event rules and formats for store and regional tournaments."
+        },
+        {
+          "section": "g33",
+          "use": "Follow official rule updates to understand how they change the game."
+        }
+      ]
+    },
+    {
+      "name": "Bandai TCG+",
+      "kind": "product",
+      "url": "https://www.bandai-tcg-plus.com",
+      "domain": "bandai-tcg-plus.com",
+      "placements": [
+        {
+          "section": "g50",
+          "use": "See pairings, standings and tournament status during an official event."
+        },
+        {
+          "section": "g63",
+          "use": "Find nearby stores and register for local events."
+        },
+        {
+          "section": "g76",
+          "use": "Register and check in for a big event ahead of time to reduce day-of stress."
+        },
+        {
+          "section": "g68",
+          "use": "Find a store event near me when getting to play is the barrier."
+        }
+      ]
+    },
+    {
+      "name": "Limitless TCG",
+      "kind": "product",
+      "url": "https://play.limitlesstcg.com",
+      "domain": "limitlesstcg.com",
+      "placements": [
+        {
+          "section": "g68",
+          "use": "Join online webcam tournaments when there is no local scene."
+        },
+        {
+          "section": "g62",
+          "use": "Enter weekly online events to keep a competitive outlet between majors."
+        },
+        {
+          "section": "g38",
+          "use": "Review published decklists and standings from completed online events."
+        },
+        {
+          "section": "g39",
+          "use": "Compare results across many events to see if a deck is truly meta."
+        }
+      ]
+    },
+    {
+      "name": "Untap.in",
+      "kind": "product",
+      "url": "https://untap.in",
+      "domain": "untap.in",
+      "placements": [
+        {
+          "section": "g44",
+          "use": "Goldfish opening hands to test whether a combo assembles consistently."
+        },
+        {
+          "section": "g45",
+          "use": "Play out a combo line step by step on a virtual table."
+        },
+        {
+          "section": "g41",
+          "use": "Play-test several decks online to find the one I actually know how to pilot."
+        },
+        {
+          "section": "g36",
+          "use": "Test a list enough times to expose structural problems no card can fix."
+        }
+      ]
+    },
+    {
+      "name": "TCGplayer",
+      "kind": "product",
+      "url": "https://www.tcgplayer.com",
+      "domain": "tcgplayer.com",
+      "placements": [
+        {
+          "section": "g28",
+          "use": "Compare singles prices across sellers before buying."
+        },
+        {
+          "section": "g73",
+          "use": "Buy the specific chase card I have been wanting."
+        }
+      ]
+    },
+    {
+      "name": "Cardmarket",
+      "kind": "product",
+      "url": "https://www.cardmarket.com/en/Digimon",
+      "domain": "cardmarket.com",
+      "placements": [
+        {
+          "section": "g28",
+          "use": "Check European price trends to judge whether a price is fair."
+        },
+        {
+          "section": "g58",
+          "use": "Buy the card directly after a disappointing pull."
+        }
+      ]
+    },
+    {
+      "name": "Discord",
+      "kind": "tool",
+      "url": "https://discord.com",
+      "domain": "discord.com",
+      "placements": [
+        {
+          "section": "g65",
+          "use": "Join regional and team servers where the community welcomes new players."
+        },
+        {
+          "section": "g68",
+          "use": "Find opponents for webcam games and online locals."
+        },
+        {
+          "section": "g38",
+          "use": "Ask a server whether my read on a card or ruling is right."
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "kind": "tool",
+      "url": "https://www.youtube.com",
+      "domain": "youtube.com",
+      "placements": [
+        {
+          "section": "g64",
+          "use": "Watch beginner explainers when other resources assume I already know the game."
+        },
+        {
+          "section": "g41",
+          "use": "Watch deck profiles and gameplay to learn how a deck is piloted."
+        },
+        {
+          "section": "g48",
+          "use": "Rewatch feature matches to see what a player's play was setting up."
+        },
+        {
+          "section": "g40",
+          "use": "Watch deck techs to weigh pet decks against competitive ones."
+        }
+      ]
+    },
+    {
+      "name": "Twitch",
+      "kind": "tool",
+      "url": "https://www.twitch.tv",
+      "domain": "twitch.tv",
+      "placements": [
+        {
+          "section": "g63",
+          "use": "Stream or watch coverage of major events I qualified for."
+        },
+        {
+          "section": "g71",
+          "use": "Catch hype moments live in tournament streams."
+        },
+        {
+          "section": "g65",
+          "use": "Stream my games and see my content land with viewers."
+        },
+        {
+          "section": "g62",
+          "use": "Watch top-table matches for the thrill of direct competition."
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "kind": "tool",
+      "url": "https://www.reddit.com/r/DigimonCardGame2020/",
+      "domain": "reddit.com",
+      "placements": [
+        {
+          "section": "g24",
+          "use": "Discuss with other players why Bandai hit these cards."
+        },
+        {
+          "section": "g22",
+          "use": "Argue out what the real problem in the format is."
+        },
+        {
+          "section": "g26",
+          "use": "Commiserate with players whose deck was collateral damage."
+        },
+        {
+          "section": "g38",
+          "use": "Post a ruling question to check whether my read is right."
+        },
+        {
+          "section": "g27",
+          "use": "Debate whether Bandai protects sales over balance."
+        }
+      ]
+    },
+    {
+      "name": "Google Sheets",
+      "kind": "tool",
+      "url": "https://sheets.google.com",
+      "domain": "sheets.google.com",
+      "placements": [
+        {
+          "section": "g47",
+          "use": "Log each game's result and the card or moment that decided it."
+        },
+        {
+          "section": "g43",
+          "use": "Track matchup win rates to know which pairings are favorable."
+        },
+        {
+          "section": "g64",
+          "use": "Keep a testing log that treats each loss as data."
+        }
+      ]
+    }
+  ]
+}

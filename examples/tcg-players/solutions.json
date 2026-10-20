@@ -1,0 +1,326 @@
+[
+  {
+    "name": "DigimonCard.io",
+    "kind": "product",
+    "url": "https://digimoncard.io",
+    "domain": "digimoncard.io",
+    "placements": [
+      {
+        "section": "g41",
+        "use": "Check the tier list and recent tournament-topping lists to confirm the deck I chose is a real contender."
+      },
+      {
+        "section": "g40",
+        "use": "Compare the decks I want to play against what is actually placing in the meta."
+      },
+      {
+        "section": "g38",
+        "use": "Browse placed decklists to judge a deck after seeing how it performed in events."
+      },
+      {
+        "section": "g42",
+        "use": "Build and share a list, swapping cards in and out to see what earns a slot."
+      },
+      {
+        "section": "g39",
+        "use": "Look at where a deck is winning to tell real meta presence from one strong local player."
+      }
+    ]
+  },
+  {
+    "name": "DigimonCard.dev",
+    "kind": "product",
+    "url": "https://digimoncard.dev",
+    "domain": "digimoncard.dev",
+    "placements": [
+      {
+        "section": "g37",
+        "use": "Look up the exact English text of a card I have never seen played."
+      },
+      {
+        "section": "g50",
+        "use": "Check the card's wording to correct a wrong assumption about its effect."
+      },
+      {
+        "section": "g48",
+        "use": "Pull up an opponent's card mid-match to see what it does."
+      }
+    ]
+  },
+  {
+    "name": "Digimon Card Meta",
+    "kind": "product",
+    "url": "https://digimonmeta.com",
+    "domain": "digimonmeta.com",
+    "placements": [
+      {
+        "section": "g31",
+        "use": "Read leak reports to size up how broken an upcoming card is before it lands."
+      },
+      {
+        "section": "g38",
+        "use": "Read strategy articles that make the case for underrated cards."
+      },
+      {
+        "section": "g44",
+        "use": "Study guides that break down which cards a strategy cannot do without."
+      },
+      {
+        "section": "g24",
+        "use": "Follow set leaks to see how new cards outclass older strategies."
+      },
+      {
+        "section": "g73",
+        "use": "Catch news and reveals the community has been waiting for."
+      }
+    ]
+  },
+  {
+    "name": "Digimon Card Game official site",
+    "kind": "product",
+    "url": "https://world.digimoncard.com",
+    "domain": "world.digimoncard.com",
+    "placements": [
+      {
+        "section": "g22",
+        "use": "Read the official banned and restricted announcement to see which card was actually hit."
+      },
+      {
+        "section": "g25",
+        "use": "Check when a banlist takes effect to plan around a mid-preparation change."
+      },
+      {
+        "section": "g24",
+        "use": "Read Bandai's stated reasoning behind each ban or restriction."
+      },
+      {
+        "section": "g50",
+        "use": "Look up official event rules and formats for store and regional tournaments."
+      },
+      {
+        "section": "g33",
+        "use": "Follow official rule updates to understand how they change the game."
+      }
+    ]
+  },
+  {
+    "name": "Bandai TCG+",
+    "kind": "product",
+    "url": "https://www.bandai-tcg-plus.com",
+    "domain": "bandai-tcg-plus.com",
+    "placements": [
+      {
+        "section": "g50",
+        "use": "See pairings, standings and tournament status during an official event."
+      },
+      {
+        "section": "g63",
+        "use": "Find nearby stores and register for local events."
+      },
+      {
+        "section": "g76",
+        "use": "Register and check in for a big event ahead of time to reduce day-of stress."
+      },
+      {
+        "section": "g68",
+        "use": "Find a store event near me when getting to play is the barrier."
+      }
+    ]
+  },
+  {
+    "name": "Limitless TCG",
+    "kind": "product",
+    "url": "https://play.limitlesstcg.com",
+    "domain": "limitlesstcg.com",
+    "placements": [
+      {
+        "section": "g68",
+        "use": "Join online webcam tournaments when there is no local scene."
+      },
+      {
+        "section": "g62",
+        "use": "Enter weekly online events to keep a competitive outlet between majors."
+      },
+      {
+        "section": "g38",
+        "use": "Review published decklists and standings from completed online events."
+      },
+      {
+        "section": "g39",
+        "use": "Compare results across many events to see if a deck is truly meta."
+      }
+    ]
+  },
+  {
+    "name": "Untap.in",
+    "kind": "product",
+    "url": "https://untap.in",
+    "domain": "untap.in",
+    "placements": [
+      {
+        "section": "g44",
+        "use": "Goldfish opening hands to test whether a combo assembles consistently."
+      },
+      {
+        "section": "g45",
+        "use": "Play out a combo line step by step on a virtual table."
+      },
+      {
+        "section": "g41",
+        "use": "Play-test several decks online to find the one I actually know how to pilot."
+      },
+      {
+        "section": "g36",
+        "use": "Test a list enough times to expose structural problems no card can fix."
+      }
+    ]
+  },
+  {
+    "name": "TCGplayer",
+    "kind": "product",
+    "url": "https://www.tcgplayer.com",
+    "domain": "tcgplayer.com",
+    "placements": [
+      {
+        "section": "g28",
+        "use": "Compare singles prices across sellers before buying."
+      },
+      {
+        "section": "g73",
+        "use": "Buy the specific chase card I have been wanting."
+      }
+    ]
+  },
+  {
+    "name": "Cardmarket",
+    "kind": "product",
+    "url": "https://www.cardmarket.com/en/Digimon",
+    "domain": "cardmarket.com",
+    "placements": [
+      {
+        "section": "g28",
+        "use": "Check European price trends to judge whether a price is fair."
+      },
+      {
+        "section": "g58",
+        "use": "Buy the card directly after a disappointing pull."
+      }
+    ]
+  },
+  {
+    "name": "Discord",
+    "kind": "tool",
+    "url": "https://discord.com",
+    "domain": "discord.com",
+    "placements": [
+      {
+        "section": "g65",
+        "use": "Join regional and team servers where the community welcomes new players."
+      },
+      {
+        "section": "g68",
+        "use": "Find opponents for webcam games and online locals."
+      },
+      {
+        "section": "g38",
+        "use": "Ask a server whether my read on a card or ruling is right."
+      }
+    ]
+  },
+  {
+    "name": "YouTube",
+    "kind": "tool",
+    "url": "https://www.youtube.com",
+    "domain": "youtube.com",
+    "placements": [
+      {
+        "section": "g64",
+        "use": "Watch beginner explainers when other resources assume I already know the game."
+      },
+      {
+        "section": "g41",
+        "use": "Watch deck profiles and gameplay to learn how a deck is piloted."
+      },
+      {
+        "section": "g48",
+        "use": "Rewatch feature matches to see what a player's play was setting up."
+      },
+      {
+        "section": "g40",
+        "use": "Watch deck techs to weigh pet decks against competitive ones."
+      }
+    ]
+  },
+  {
+    "name": "Twitch",
+    "kind": "tool",
+    "url": "https://www.twitch.tv",
+    "domain": "twitch.tv",
+    "placements": [
+      {
+        "section": "g63",
+        "use": "Stream or watch coverage of major events I qualified for."
+      },
+      {
+        "section": "g71",
+        "use": "Catch hype moments live in tournament streams."
+      },
+      {
+        "section": "g65",
+        "use": "Stream my games and see my content land with viewers."
+      },
+      {
+        "section": "g62",
+        "use": "Watch top-table matches for the thrill of direct competition."
+      }
+    ]
+  },
+  {
+    "name": "Reddit",
+    "kind": "tool",
+    "url": "https://www.reddit.com/r/DigimonCardGame2020/",
+    "domain": "reddit.com",
+    "placements": [
+      {
+        "section": "g24",
+        "use": "Discuss with other players why Bandai hit these cards."
+      },
+      {
+        "section": "g22",
+        "use": "Argue out what the real problem in the format is."
+      },
+      {
+        "section": "g26",
+        "use": "Commiserate with players whose deck was collateral damage."
+      },
+      {
+        "section": "g38",
+        "use": "Post a ruling question to check whether my read is right."
+      },
+      {
+        "section": "g27",
+        "use": "Debate whether Bandai protects sales over balance."
+      }
+    ]
+  },
+  {
+    "name": "Google Sheets",
+    "kind": "tool",
+    "url": "https://sheets.google.com",
+    "domain": "sheets.google.com",
+    "placements": [
+      {
+        "section": "g47",
+        "use": "Log each game's result and the card or moment that decided it."
+      },
+      {
+        "section": "g43",
+        "use": "Track matchup win rates to know which pairings are favorable."
+      },
+      {
+        "section": "g64",
+        "use": "Keep a testing log that treats each loss as data."
+      }
+    ]
+  }
+]

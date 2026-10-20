@@ -1,0 +1,7 @@
+group_id,level,label,parent_id,parent_label,summaries,people
+g1,level3,"Turn talks into findings, trusted",,,224,22
+g2,level2,Plan the study,g1,"Turn talks into findings, trusted",80,12
+g3,level2,Analyse the data,g1,"Turn talks into findings, trusted",90,14
+g4,level1,Write the guide,g2,Plan the study,30,7
+g5,level1,Recruit people,g2,Plan the study,40,9
+g6,level1,Code transcripts,g3,Analyse the data,50,11
