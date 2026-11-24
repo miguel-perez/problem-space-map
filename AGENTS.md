@@ -174,7 +174,7 @@ below. Record whatever you use in `note`.
 ### Satisfaction (and importance), best first
 
 1. **ODI importance/satisfaction survey.** People rate each task's importance and their satisfaction with how they do it today. The only measured option.
-2. **Per-person satisfaction scored from each person's own statements**, citing the evidence for every score, averaged per task. Directional but traceable. The TCG example uses this.
+2. **Per-person satisfaction scored from each person's own statements**, citing the evidence for every score, averaged per task. Directional but traceable. Both TCG examples use this.
 3. **Pain-language density per group:** share of a group's statements expressing difficulty, frustration or workarounds. Cheap and crude; last resort.
 4. **Outside signals** (review ratings, complaint volume, search volume): sense-checks only. They describe products or markets, not tasks.
 5. **MaxDiff or Kano** for a forced ranking of importance from a small sample. They rank; they do not measure satisfaction.

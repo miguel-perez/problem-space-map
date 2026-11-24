@@ -1,0 +1,1194 @@
+[
+ {
+  "name": "eBay",
+  "kind": "tool",
+  "url": "https://www.ebay.com",
+  "domain": "ebay.com",
+  "placements": [
+   {
+    "section": "g191",
+    "use": "Keep a high-end card listed and watch comparable sale prices to decide whether to pull it."
+   },
+   {
+    "section": "g195",
+    "use": "Check what a card of mine goes for, and pick up underpriced lots with a best offer."
+   },
+   {
+    "section": "g199",
+    "use": "List cards for sale there, though the fees eat into every sale."
+   },
+   {
+    "section": "g204",
+    "use": "Buy or sell cards there while weighing seller feedback and the risk of scams."
+   },
+   {
+    "section": "g206",
+    "use": "Check recent sales of the exact card to judge whether an asking price is fair."
+   },
+   {
+    "section": "g208",
+    "use": "Buy the cards I want there once I see how little the shop will credit for mine."
+   },
+   {
+    "section": "gv3-48",
+    "use": "Use its international shipping so I am covered as a seller once the parcel reaches the hub."
+   },
+   {
+    "section": "gv5-152",
+    "use": "Sold sealed product there until returns of opened boxes and fees made me quit."
+   },
+   {
+    "section": "gv5-158",
+    "use": "Send out what I sell there in perfect shape so buyers are happy when it arrives."
+   },
+   {
+    "section": "gv5-159",
+    "use": "Work out whether a rigid top loader is allowed in this cheap tracked envelope for cards."
+   },
+   {
+    "section": "gv5-166",
+    "use": "List a new collection well above market to see what prices hold, and drop them later if nothing sells."
+   },
+   {
+    "section": "gv5-172",
+    "use": "List my card there and wonder after weeks why it has not sold."
+   }
+  ]
+ },
+ {
+  "name": "TCGplayer",
+  "kind": "product",
+  "url": "https://www.tcgplayer.com",
+  "domain": "tcgplayer.com",
+  "placements": [
+   {
+    "section": "g204",
+    "use": "Sell there and deal with buyers who claim an order never came."
+   },
+   {
+    "section": "g206",
+    "use": "Use its market price and lowest listing as the reference when I make or answer an offer."
+   },
+   {
+    "section": "g208",
+    "use": "Look for listings of a promo I can't find any other way to get in my country."
+   },
+   {
+    "section": "gv3-48",
+    "use": "Sell casually to establish an account so I can sell my collection singles later."
+   },
+   {
+    "section": "gv5-151",
+    "use": "Sell on it, where joining Direct took away the control I had over my prices."
+   },
+   {
+    "section": "gv5-152",
+    "use": "Sell on it and watch buyers scam sellers while it does nothing."
+   },
+   {
+    "section": "gv5-166",
+    "use": "Price competitively for volume so I can qualify for Direct."
+   },
+   {
+    "section": "g26",
+    "use": "Buy the single cards my deck is still missing instead of opening more boxes."
+   }
+  ]
+ },
+ {
+  "name": "PSA",
+  "kind": "product",
+  "url": "https://www.psacard.com",
+  "domain": "psacard.com",
+  "placements": [
+   {
+    "section": "g191",
+    "use": "Look up how many top-grade copies exist to judge how scarce a card really is before I buy."
+   },
+   {
+    "section": "g194",
+    "use": "Send cards in to be graded and wait for them to come back."
+   },
+   {
+    "section": "g195",
+    "use": "Send cheap finds I like for grading and see what grade they come back."
+   },
+   {
+    "section": "g157",
+    "use": "Get hold of a graded copy so I finally own the card in a top-grade slab."
+   },
+   {
+    "section": "g177",
+    "use": "Send in a cheap card whose art I love and whose condition looks good to try for a top grade."
+   },
+   {
+    "section": "g178",
+    "use": "Buy the top-graded copy of a card I love, weighing its value as well as my liking."
+   }
+  ]
+ },
+ {
+  "name": "YouTube",
+  "kind": "tool",
+  "url": "https://www.youtube.com",
+  "domain": "youtube.com",
+  "placements": [
+   {
+    "section": "gv5-67",
+    "use": "Check that nothing like my video exists there before making it."
+   },
+   {
+    "section": "g69",
+    "use": "Watch beginner guides before my first card show to learn how to approach vendors."
+   },
+   {
+    "section": "g81",
+    "use": "Open my video with the incident so I can say what I think about it."
+   },
+   {
+    "section": "g103",
+    "use": "Watch videos about card shows until I decide we should just host one ourselves."
+   },
+   {
+    "section": "g146",
+    "use": "Watch restock videos that take me back to when I made the same kind myself."
+   },
+   {
+    "section": "g171",
+    "use": "Watch other collectors' haul videos for clues about restock days near me."
+   }
+  ]
+ },
+ {
+  "name": "Discord",
+  "kind": "tool",
+  "url": "https://discord.com",
+  "domain": "discord.com",
+  "placements": [
+   {
+    "section": "g14",
+    "use": "Go to a server for the game and ask how to fix one effect that is too strong in our home games."
+   },
+   {
+    "section": "g106",
+    "use": "Open channels in several languages so newcomers can talk with us and the community in their own."
+   },
+   {
+    "section": "g112",
+    "use": "Join a server and play remote matches so I face people other than my spouse."
+   },
+   {
+    "section": "g113",
+    "use": "Set up or join a server to get closer to players and look for a group."
+   }
+  ]
+ },
+ {
+  "name": "Walmart",
+  "kind": "tool",
+  "url": "https://www.walmart.com",
+  "domain": "walmart.com",
+  "placements": [
+   {
+    "section": "g204",
+    "use": "Buy packs as a gift and then wonder whether repackaged ones are sound."
+   },
+   {
+    "section": "g152",
+    "use": "Check the card shelf to see whether new product ever arrives or only repacks are on sale."
+   },
+   {
+    "section": "g165",
+    "use": "Check the restocked packs on the shelf and pick by what I can see inside."
+   },
+   {
+    "section": "g171",
+    "use": "Keep coming back on the weekday that seems to have the most product."
+   }
+  ]
+ },
+ {
+  "name": "note",
+  "kind": "tool",
+  "url": "https://note.com",
+  "domain": "note.com",
+  "placements": [
+   {
+    "section": "g209",
+    "use": "Publish my deck write-up and tuning log so I and others can see why each card is there."
+   },
+   {
+    "section": "g212",
+    "use": "Write up my own experience and feelings about the game as a post."
+   },
+   {
+    "section": "g33",
+    "use": "Write up my matches afterwards, which is when I notice how badly I played."
+   },
+   {
+    "section": "g106",
+    "use": "Write up a guide so beginners can pick up wins at the coming shop events."
+   }
+  ]
+ },
+ {
+  "name": "Duel Masters Play's",
+  "kind": "product",
+  "url": "https://dmps.takaratomy.co.jp",
+  "domain": "dmps.takaratomy.co.jp",
+  "placements": [
+   {
+    "section": "g41",
+    "use": "Play the app and find out from how it enforces things that I had the rules wrong."
+   },
+   {
+    "section": "g110",
+    "use": "Play the online game and end up with friends I joke around with like old mates."
+   },
+   {
+    "section": "g132",
+    "use": "Play the digital version with the cards I learned as a child."
+   },
+   {
+    "section": "g134",
+    "use": "Download the app and play the game I remember again."
+   }
+  ]
+ },
+ {
+  "name": "Pokémon TCG Live",
+  "kind": "product",
+  "url": "https://tcg.pokemon.com/en-us/tcgl/",
+  "domain": "pokemon.com",
+  "placements": [
+   {
+    "section": "g3",
+    "use": "Play the deck on the online ladder and watch whether my rating holds before I trust it."
+   },
+   {
+    "section": "g40",
+    "use": "Play the matchup online many times, so I know going in how much I dread it."
+   },
+   {
+    "section": "g50",
+    "use": "Play practice games against other people online whenever I have time, without waiting for a store event."
+   }
+  ]
+ },
+ {
+  "name": "Reddit",
+  "kind": "tool",
+  "url": "https://www.reddit.com",
+  "domain": "reddit.com",
+  "placements": [
+   {
+    "section": "g10",
+    "use": "Come across another player's post about a combination that makes me want to build it."
+   },
+   {
+    "section": "g69",
+    "use": "Search the subreddit for answers and ask again when the last post is years old."
+   },
+   {
+    "section": "g134",
+    "use": "Find the game's community once I know I love the game."
+   }
+  ]
+ },
+ {
+  "name": "Target",
+  "kind": "tool",
+  "url": "https://www.target.com",
+  "domain": "target.com",
+  "placements": [
+   {
+    "section": "g191",
+    "use": "Buy sealed boxes off the shelf while nobody wants them, to hold for later."
+   },
+   {
+    "section": "g123",
+    "use": "Pick up a pack for my kid on our next shopping trip."
+   },
+   {
+    "section": "g171",
+    "use": "Work out which weekday my local store restocks so I go on that day."
+   }
+  ]
+ },
+ {
+  "name": "Mercari",
+  "kind": "tool",
+  "url": "https://www.mercari.com",
+  "domain": "mercari.com",
+  "placements": [
+   {
+    "section": "g193",
+    "use": "Sell a card in poor condition as it is rather than pay to grade it."
+   },
+   {
+    "section": "g199",
+    "use": "Turn over cheap cards in small lots, working the fee and postage into the price."
+   },
+   {
+    "section": "g208",
+    "use": "Buy the card there after walking the local shops and not finding it."
+   }
+  ]
+ },
+ {
+  "name": "Cardmarket",
+  "kind": "product",
+  "url": "https://www.cardmarket.com",
+  "domain": "cardmarket.com",
+  "placements": [
+   {
+    "section": "g203",
+    "use": "Chase support to release a withdrawal that keeps bouncing back."
+   },
+   {
+    "section": "g204",
+    "use": "Buy from a seller there and then wait, unsure the cards will ever arrive."
+   },
+   {
+    "section": "gv5-172",
+    "use": "List my card there as well and get no buyer for weeks."
+   }
+  ]
+ },
+ {
+  "name": "Amazon",
+  "kind": "tool",
+  "url": "https://www.amazon.com",
+  "domain": "amazon.com",
+  "placements": [
+   {
+    "section": "gv5-152",
+    "use": "Sold cards there until false claims and being pulled off listings made me close the account."
+   },
+   {
+    "section": "g64",
+    "use": "Preorder the new set to play at home instead of going to the prerelease."
+   },
+   {
+    "section": "g137",
+    "use": "Order several ready-built decks at once to get started."
+   }
+  ]
+ },
+ {
+  "name": "Facebook Marketplace",
+  "kind": "tool",
+  "url": "https://www.facebook.com/marketplace",
+  "domain": "facebook.com",
+  "placements": [
+   {
+    "section": "g199",
+    "use": "List a sealed box for local pickup so I do not have to post it."
+   },
+   {
+    "section": "gv5-172",
+    "use": "List a sealed box there and see from a week of few views that nobody wants it."
+   }
+  ]
+ },
+ {
+  "name": "Facebook groups",
+  "kind": "tool",
+  "url": "https://www.facebook.com/groups",
+  "domain": "facebook.com",
+  "placements": [
+   {
+    "section": "g199",
+    "use": "Post my cards across many groups at once instead of taking a table."
+   },
+   {
+    "section": "gv6-186",
+    "use": "Ask friends there for old cards gathering dust that I can hand out in class."
+   }
+  ]
+ },
+ {
+  "name": "PayPal",
+  "kind": "tool",
+  "url": "https://www.paypal.com",
+  "domain": "paypal.com",
+  "placements": [
+   {
+    "section": "g206",
+    "use": "Pay or take the cash difference in a trade."
+   },
+   {
+    "section": "g207",
+    "use": "Ask to be paid as friends and family once I have a long trade record."
+   }
+  ]
+ },
+ {
+  "name": "Spreadsheet",
+  "kind": "tool",
+  "url": "https://workspace.google.com/products/sheets/",
+  "domain": "sheets.google.com",
+  "placements": [
+   {
+    "section": "g214",
+    "use": "Log decklists I find, though no longer every one because it takes too long."
+   },
+   {
+    "section": "gv3-42",
+    "use": "Tracked our playgroup's matches in it until the mess pushed me to build a tracker."
+   }
+  ]
+ },
+ {
+  "name": "USPS",
+  "kind": "tool",
+  "url": "https://www.usps.com",
+  "domain": "usps.com",
+  "placements": [
+   {
+    "section": "gv3-48",
+    "use": "Ship singles by plain mail, which has become too much of a headache without a higher shipping charge."
+   },
+   {
+    "section": "gv5-159",
+    "use": "Send cards by First Class letter or a Click-N-Ship label and try to get a tracking number from it."
+   }
+  ]
+ },
+ {
+  "name": "Bandai TCG+",
+  "kind": "product",
+  "url": "https://www.bandai-tcg-plus.com",
+  "domain": "bandai-tcg-plus.com",
+  "placements": [
+   {
+    "section": "gv3-73",
+    "use": "Register my deck and results in the app, then get told to write them on paper too."
+   },
+   {
+    "section": "g68",
+    "use": "Look up my shop's prerelease listing, though it is wrong often enough that I phone as well."
+   }
+  ]
+ },
+ {
+  "name": "Whatnot",
+  "kind": "product",
+  "url": "https://www.whatnot.com",
+  "domain": "whatnot.com",
+  "placements": [
+   {
+    "section": "gv5-136",
+    "use": "Break what I buy on stream, so the fees and overhead set how much I can pay for stock."
+   },
+   {
+    "section": "gv5-151",
+    "use": "Sell through the app and find it slow for how popular it is."
+   }
+  ]
+ },
+ {
+  "name": "Google",
+  "kind": "tool",
+  "url": "https://www.google.com",
+  "domain": "google.com",
+  "placements": [
+   {
+    "section": "g31",
+    "use": "Look up my next opponent's deck type before the match to get the general idea of how it works."
+   },
+   {
+    "section": "g69",
+    "use": "Look up how card interactions work in the middle of our first games."
+   }
+  ]
+ },
+ {
+  "name": "MTG Arena",
+  "kind": "product",
+  "url": "https://magic.wizards.com/en/mtgarena",
+  "domain": "wizards.com",
+  "placements": [
+   {
+    "section": "g43",
+    "use": "Do the tutorial first, then go to an in-person event to learn the steps before a match that it does not show."
+   },
+   {
+    "section": "g134",
+    "use": "Play a bit online to see whether I want to dive back in."
+   }
+  ]
+ },
+ {
+  "name": "Jinteki.net",
+  "kind": "product",
+  "url": "https://www.jinteki.net",
+  "domain": "jinteki.net",
+  "placements": [
+   {
+    "section": "g67",
+    "use": "Play online now that the local scene has dried up."
+   },
+   {
+    "section": "g106",
+    "use": "Play beginner teaching games online with other fresh players instead of facing veterans."
+   }
+  ]
+ },
+ {
+  "name": "Kickstarter",
+  "kind": "tool",
+  "url": "https://www.kickstarter.com",
+  "domain": "kickstarter.com",
+  "placements": [
+   {
+    "section": "g108",
+    "use": "Watch how much new card games raise to judge whether indie games can still launch."
+   },
+   {
+    "section": "g162",
+    "use": "Back the game early so the product costs me next to nothing for what I get."
+   }
+  ]
+ },
+ {
+  "name": "Pokémon Center",
+  "kind": "product",
+  "url": "https://www.pokemoncenter.com",
+  "domain": "pokemoncenter.com",
+  "placements": [
+   {
+    "section": "g108",
+    "use": "Watch how easily people got stock in the latest drop to judge whether demand is cooling."
+   },
+   {
+    "section": "g152",
+    "use": "Buy the trainer box direct and see how the maker packs and treats what I paid for."
+   }
+  ]
+ },
+ {
+  "name": "MTGTop8",
+  "kind": "product",
+  "url": "https://www.mtgtop8.com",
+  "domain": "mtgtop8.com",
+  "placements": [
+   {
+    "section": "g7",
+    "use": "Post my store's event decklists and read through them to learn what my local field plays."
+   }
+  ]
+ },
+ {
+  "name": "MarvelCDB",
+  "kind": "product",
+  "url": "https://marvelcdb.com",
+  "domain": "marvelcdb.com",
+  "placements": [
+   {
+    "section": "g10",
+    "use": "Browse published decks until one grabs me by what it runs."
+   }
+  ]
+ },
+ {
+  "name": "BG Stats",
+  "kind": "tool",
+  "url": "https://www.bgstatsapp.com",
+  "domain": "bgstatsapp.com",
+  "placements": [
+   {
+    "section": "g14",
+    "use": "Record every play so I can see which of my decks win too often and rebalance them."
+   }
+  ]
+ },
+ {
+  "name": "FedEx",
+  "kind": "tool",
+  "url": "https://www.fedex.com",
+  "domain": "fedex.com",
+  "placements": [
+   {
+    "section": "g203",
+    "use": "Open a ticket with the carrier to get a lost order found."
+   }
+  ]
+ },
+ {
+  "name": "Buyee",
+  "kind": "tool",
+  "url": "https://buyee.jp",
+  "domain": "buyee.jp",
+  "placements": [
+   {
+    "section": "g203",
+    "use": "Ask the buying service to take up a problem with a seller I cannot reach myself."
+   }
+  ]
+ },
+ {
+  "name": "Imgur",
+  "kind": "tool",
+  "url": "https://imgur.com",
+  "domain": "imgur.com",
+  "placements": [
+   {
+    "section": "g207",
+    "use": "Have the other trader link photos of what they have to offer."
+   }
+  ]
+ },
+ {
+  "name": "Fanatics Collect",
+  "kind": "product",
+  "url": "https://www.fanaticscollect.com",
+  "domain": "fanaticscollect.com",
+  "placements": [
+   {
+    "section": "g208",
+    "use": "Pick up a hard-to-find graded card when it pops up there."
+   }
+  ]
+ },
+ {
+  "name": "X",
+  "kind": "tool",
+  "url": "https://x.com",
+  "domain": "x.com",
+  "placements": [
+   {
+    "section": "g209",
+    "use": "Kept my deck experiments there until I lost track of them."
+   }
+  ]
+ },
+ {
+  "name": "Twitch",
+  "kind": "tool",
+  "url": "https://www.twitch.tv",
+  "domain": "twitch.tv",
+  "placements": [
+   {
+    "section": "g216",
+    "use": "Record the weekly news live and roll straight into the tournament."
+   }
+  ]
+ },
+ {
+  "name": "Instagram",
+  "kind": "tool",
+  "url": "https://www.instagram.com",
+  "domain": "instagram.com",
+  "placements": [
+   {
+    "section": "g216",
+    "use": "Post some painting videos as reels for more views while keeping the calmer long ones."
+   }
+  ]
+ },
+ {
+  "name": "Card Conduit",
+  "kind": "product",
+  "url": "https://cardconduit.com",
+  "domain": "cardconduit.com",
+  "placements": [
+   {
+    "section": "g235",
+    "use": "Send my cards in and let them handle the selling, with a quick turnaround."
+   }
+  ]
+ },
+ {
+  "name": "Yu-Gi-Oh! Master Duel",
+  "kind": "product",
+  "url": "https://www.konami.com/yugioh/masterduel",
+  "domain": "konami.com",
+  "placements": [
+   {
+    "section": "gv3-42",
+    "use": "Tried it for the feel I wanted and didn't get it, so I started my own game."
+   }
+  ]
+ },
+ {
+  "name": "Yu-Gi-Oh! Duel Links",
+  "kind": "product",
+  "url": "https://www.konami.com/yugioh/duel_links",
+  "domain": "duellinks.konami.net",
+  "placements": [
+   {
+    "section": "gv3-42",
+    "use": "Tried it for the feel I wanted and didn't get it, so I started my own game."
+   }
+  ]
+ },
+ {
+  "name": "EDHREC",
+  "kind": "product",
+  "url": "https://edhrec.com",
+  "domain": "edhrec.com",
+  "placements": [
+   {
+    "section": "gv3-78",
+    "use": "Analyze many commander pages with my brother to see what makes them more or less diverse."
+   }
+  ]
+ },
+ {
+  "name": "MakePlayingCards",
+  "kind": "product",
+  "url": "https://www.makeplayingcards.com",
+  "domain": "makeplayingcards.com",
+  "placements": [
+   {
+    "section": "gv5-1",
+    "use": "Order my cards printed instead of buying the real ones."
+   }
+  ]
+ },
+ {
+  "name": "Dragon Shield",
+  "kind": "product",
+  "url": "https://www.dragonshield.com",
+  "domain": "dragonshield.com",
+  "placements": [
+   {
+    "section": "gv5-78",
+    "use": "Used their tight sleeves before and had cards poke out the tops, so I test new ones against that."
+   }
+  ]
+ },
+ {
+  "name": "GTS Distribution",
+  "kind": "product",
+  "url": "https://www.gtsdistribution.com",
+  "domain": "gtsdistribution.com",
+  "placements": [
+   {
+    "section": "gv5-132",
+    "use": "Apply for a direct account so I can get product, and get told to host tournaments first."
+   }
+  ]
+ },
+ {
+  "name": "Southern Hobby",
+  "kind": "product",
+  "url": "https://www.southernhobby.com",
+  "domain": "southernhobby.com",
+  "placements": [
+   {
+    "section": "gv5-132",
+    "use": "Apply for a direct account so I can get product, and get refused without a reason."
+   }
+  ]
+ },
+ {
+  "name": "Alliance Game Distributors",
+  "kind": "product",
+  "url": "https://www.alliance-games.com",
+  "domain": "alliance-games.com",
+  "placements": [
+   {
+    "section": "gv5-136",
+    "use": "Look into them as a nearby distributor and find them one of the dearer places to buy from."
+   }
+  ]
+ },
+ {
+  "name": "TikTok Shop",
+  "kind": "tool",
+  "url": "https://shop.tiktok.com",
+  "domain": "tiktok.com",
+  "placements": [
+   {
+    "section": "gv5-152",
+    "use": "Sell on it and get my withdrawals blocked and my daily orders capped."
+   }
+  ]
+ },
+ {
+  "name": "Pirate Ship",
+  "kind": "tool",
+  "url": "https://www.pirateship.com",
+  "domain": "pirateship.com",
+  "placements": [
+   {
+    "section": "gv5-159",
+    "use": "Buy discounted postage labels with tracking for card mailers without paying the marketplace's label price."
+   }
+  ]
+ },
+ {
+  "name": "EDOPro",
+  "kind": "product",
+  "url": "https://projectignis.github.io",
+  "domain": "projectignis.github.io",
+  "placements": [
+   {
+    "section": "gv5-222",
+    "use": "Load my custom cards into the simulator and play them to see what breaks."
+   }
+  ]
+ },
+ {
+  "name": "Duelingbook",
+  "kind": "product",
+  "url": "https://www.duelingbook.com",
+  "domain": "duelingbook.com",
+  "placements": [
+   {
+    "section": "gv5-222",
+    "use": "Do some light playtesting of my custom deck online and find it loops too much."
+   }
+  ]
+ },
+ {
+  "name": "ChatGPT",
+  "kind": "tool",
+  "url": "https://chatgpt.com",
+  "domain": "chatgpt.com",
+  "placements": [
+   {
+    "section": "gv5-240",
+    "use": "Talk through my printer settings with it and land on a semi-gloss setting when prints come out too dark."
+   }
+  ]
+ },
+ {
+  "name": "Book-Off",
+  "kind": "tool",
+  "url": "https://www.bookoff.co.jp",
+  "domain": "bookoff.co.jp",
+  "placements": [
+   {
+    "section": "gv6-59",
+    "use": "Pick up a discounted card I have never seen before while I am in Japan."
+   }
+  ]
+ },
+ {
+  "name": "Barnes & Noble",
+  "kind": "tool",
+  "url": "https://www.barnesandnoble.com",
+  "domain": "barnesandnoble.com",
+  "placements": [
+   {
+    "section": "gv6-68",
+    "use": "Grab the core set in the clearance sale at three quarters off."
+   }
+  ]
+ },
+ {
+  "name": "ClassDojo",
+  "kind": "tool",
+  "url": "https://www.classdojo.com",
+  "domain": "classdojo.com",
+  "placements": [
+   {
+    "section": "gv6-186",
+    "use": "Think about letting pupils swap their class points one for one for cards."
+   }
+  ]
+ },
+ {
+  "name": "Duels.ink",
+  "kind": "product",
+  "url": "https://duels.ink",
+  "domain": "duels.ink",
+  "placements": [
+   {
+    "section": "g16",
+    "use": "Look through the cards as a new player to work out which colour to pair with the half of my deck I like."
+   }
+  ]
+ },
+ {
+  "name": "YGOResources",
+  "kind": "product",
+  "url": "https://ygoresources.com",
+  "domain": "ygoresources.com",
+  "placements": [
+   {
+    "section": "g41",
+    "use": "Search the rules database for my scenario when the wiki has no answer."
+   }
+  ]
+ },
+ {
+  "name": "Scryfall",
+  "kind": "product",
+  "url": "https://scryfall.com",
+  "domain": "scryfall.com",
+  "placements": [
+   {
+    "section": "g41",
+    "use": "Open the card's page and read the official rulings listed under it before I argue how it works."
+   }
+  ]
+ },
+ {
+  "name": "Karabast",
+  "kind": "product",
+  "url": "https://karabast.net",
+  "domain": "karabast.net",
+  "placements": [
+   {
+    "section": "g42",
+    "use": "Play my games on it and then check with others whether it resolved an interaction correctly."
+   }
+  ]
+ },
+ {
+  "name": "SWUDB",
+  "kind": "product",
+  "url": "https://swudb.com",
+  "domain": "swudb.com",
+  "placements": [
+   {
+    "section": "g42",
+    "use": "Search for decks on it and cannot tell whether searching by name or author is missing or I am missing it."
+   }
+  ]
+ },
+ {
+  "name": "Null Signal Games",
+  "kind": "product",
+  "url": "https://nullsignal.games",
+  "domain": "nullsignal.games",
+  "placements": [
+   {
+    "section": "g64",
+    "use": "Look at the prizes and effort the organisers are putting in to decide the trip is worth it."
+   }
+  ]
+ },
+ {
+  "name": "Board Game Arena",
+  "kind": "tool",
+  "url": "https://boardgamearena.com",
+  "domain": "boardgamearena.com",
+  "placements": [
+   {
+    "section": "g67",
+    "use": "Play the starter decks online while I wait for my own copy to arrive."
+   }
+  ]
+ },
+ {
+  "name": "SpellTable",
+  "kind": "product",
+  "url": "https://spelltable.wizards.com",
+  "domain": "spelltable.wizards.com",
+  "placements": [
+   {
+    "section": "g73",
+    "use": "Play over webcam with strangers, which I was too anxious to try until recently."
+   }
+  ]
+ },
+ {
+  "name": "Melee",
+  "kind": "product",
+  "url": "https://melee.gg",
+  "domain": "melee.gg",
+  "placements": [
+   {
+    "section": "g100",
+    "use": "Check how many places the event still shows open before I go to the store."
+   }
+  ]
+ },
+ {
+  "name": "BOOTH",
+  "kind": "tool",
+  "url": "https://booth.pm",
+  "domain": "booth.pm",
+  "placements": [
+   {
+    "section": "g101",
+    "use": "List the accessory I made so other players can get hold of it."
+   }
+  ]
+ },
+ {
+  "name": "Mirrativ",
+  "kind": "tool",
+  "url": "https://www.mirrativ.com",
+  "domain": "mirrativ.com",
+  "placements": [
+   {
+    "section": "g113",
+    "use": "Stream the game there so people gather who I can then get to know."
+   }
+  ]
+ },
+ {
+  "name": "Telegram",
+  "kind": "tool",
+  "url": "https://telegram.org",
+  "domain": "telegram.org",
+  "placements": [
+   {
+    "section": "g113",
+    "use": "Start a group chat for players of my game because I cannot find a good one."
+   }
+  ]
+ },
+ {
+  "name": "OCTGN",
+  "kind": "product",
+  "url": "https://www.octgn.net",
+  "domain": "octgn.net",
+  "placements": [
+   {
+    "section": "g113",
+    "use": "Play online because nobody else in my town plays, though it only scratches the itch so far."
+   }
+  ]
+ },
+ {
+  "name": "Hareruya",
+  "kind": "product",
+  "url": "https://www.hareruyamtg.com",
+  "domain": "hareruyamtg.com",
+  "placements": [
+   {
+    "section": "g117",
+    "use": "Join a draft the shop owner pulls me into and keep going back to play there."
+   }
+  ]
+ },
+ {
+  "name": "CGC Cards",
+  "kind": "product",
+  "url": "https://www.cgccards.com",
+  "domain": "cgccards.com",
+  "placements": [
+   {
+    "section": "g118",
+    "use": "Get the cards for my charity giveaways graded, which they did without charging me."
+   }
+  ]
+ },
+ {
+  "name": "MPC Fill",
+  "kind": "product",
+  "url": "https://mpcfill.com",
+  "domain": "mpcfill.com",
+  "placements": [
+   {
+    "section": "g118",
+    "use": "Put together a large order of printed cards that I could not manage by hand."
+   }
+  ]
+ },
+ {
+  "name": "Steam",
+  "kind": "tool",
+  "url": "https://store.steampowered.com",
+  "domain": "store.steampowered.com",
+  "placements": [
+   {
+    "section": "g133",
+    "use": "Buy the series' new video game on launch day, which brings my enthusiasm back."
+   }
+  ]
+ },
+ {
+  "name": "Mandarake",
+  "kind": "product",
+  "url": "https://www.mandarake.co.jp",
+  "domain": "mandarake.co.jp",
+  "placements": [
+   {
+    "section": "g162",
+    "use": "Pick up a box there at a price that makes the pulls feel like good value."
+   }
+  ]
+ },
+ {
+  "name": "Suruga-ya",
+  "kind": "product",
+  "url": "https://www.suruga-ya.jp",
+  "domain": "suruga-ya.jp",
+  "placements": [
+   {
+    "section": "g170",
+    "use": "Buy packs on release day when every lottery has turned me down."
+   }
+  ]
+ },
+ {
+  "name": "Yodobashi",
+  "kind": "tool",
+  "url": "https://www.yodobashi.com",
+  "domain": "yodobashi.com",
+  "placements": [
+   {
+    "section": "g170",
+    "use": "Go to the store where I can usually buy the new release."
+   }
+  ]
+ },
+ {
+  "name": "Joshin",
+  "kind": "tool",
+  "url": "https://joshinweb.jp",
+  "domain": "joshinweb.jp",
+  "placements": [
+   {
+    "section": "g170",
+    "use": "Enter the purchase lottery for the box I want."
+   }
+  ]
+ },
+ {
+  "name": "GameStop",
+  "kind": "tool",
+  "url": "https://www.gamestop.com",
+  "domain": "gamestop.com",
+  "placements": [
+   {
+    "section": "g170",
+    "use": "Check it as my last place to find the cards when everywhere else is out."
+   }
+  ]
+ },
+ {
+  "name": "Walgreens",
+  "kind": "tool",
+  "url": "https://www.walgreens.com",
+  "domain": "walgreens.com",
+  "placements": [
+   {
+    "section": "g171",
+    "use": "Ask a store worker which day the cards are restocked."
+   }
+  ]
+ },
+ {
+  "name": "Costco",
+  "kind": "tool",
+  "url": "https://www.costco.com",
+  "domain": "costco.com",
+  "placements": [
+   {
+    "section": "g174",
+    "use": "Take just a few boxes from the fresh pallet instead of filling a cart."
+   }
+  ]
+ },
+ {
+  "name": "Talishar",
+  "kind": "product",
+  "url": "https://talishar.net",
+  "domain": "talishar.net",
+  "placements": [
+   {
+    "section": "g174",
+    "use": "Play the deck I like online because the paper list costs more than I will pay."
+   }
+  ]
+ }
+]

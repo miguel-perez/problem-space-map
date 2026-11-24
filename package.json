@@ -25,7 +25,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:site": "rm -rf dist && vite build && MAP=examples/tcg-players/map.json BASE=/problem-space-map/tcg/ OUT_DIR=dist/tcg vite build",
+    "build:site": "rm -rf dist && vite build && MAP=examples/tcg-ecosystem/map.json BASE=/problem-space-map/tcg/ OUT_DIR=dist/tcg vite build",
     "preview": "vite preview",
     "test": "vitest run",
     "e2e": "playwright test",

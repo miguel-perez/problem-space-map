@@ -1,0 +1,3527 @@
+{
+  "title": "Card Game Ecosystem Problem Space Map",
+  "description": "What people who play, collect, sell, make and work around card games are trying to get done, from 6,346 recounted moments by 1,605 accounts, with the products they name.",
+  "siteUrl": "https://miguel.design/problem-space-map/tcg/",
+  "levels": [
+    "Purpose",
+    "Goal",
+    "Task"
+  ],
+  "note": "Hierarchy and people counts are from a purpose graph of 6,346 recounted moments by 1,605 accounts (public posts and videos on Reddit, YouTube, note.com, X, LinkedIn, TikTok and others, plus five interviews), grouped by model readers and reviewed by model reviewers; only tasks raised by four or more people are shown (210 of 1,444). Satisfaction is scored, not measured: a model scored each person from 0 to 10 on how well the task goes for them, from that person's own statements with the supporting statement recorded, and the task shows the mean. Products are the ones people named using for the task, at most four a task; four well-known ones were added and are not from the accounts. Nothing was checked by a person.",
+  "sections": [
+    {
+      "id": "n1",
+      "level": 3,
+      "label": "I work at making my deck do what I want it to",
+      "parent": null,
+      "people": 156,
+      "satisfaction": 5
+    },
+    {
+      "id": "n2",
+      "level": 3,
+      "label": "I play for the love and fun of it, in my own way",
+      "parent": null,
+      "people": 183,
+      "satisfaction": 5
+    },
+    {
+      "id": "n3",
+      "level": 3,
+      "label": "I want to play the game right and well, and see how far I can go",
+      "parent": null,
+      "people": 227,
+      "satisfaction": 5
+    },
+    {
+      "id": "n4",
+      "level": 3,
+      "label": "I'm finding my way into the game and my place in it",
+      "parent": null,
+      "people": 236,
+      "satisfaction": 5
+    },
+    {
+      "id": "n5",
+      "level": 3,
+      "label": "The people are what I come for",
+      "parent": null,
+      "people": 185,
+      "satisfaction": 5
+    },
+    {
+      "id": "n6",
+      "level": 3,
+      "label": "I want the game to be there for other people, so I teach, host and bring them in",
+      "parent": null,
+      "people": 169,
+      "satisfaction": 5
+    },
+    {
+      "id": "n7",
+      "level": 3,
+      "label": "I weigh what place the game has in my life",
+      "parent": null,
+      "people": 137,
+      "satisfaction": 5
+    },
+    {
+      "id": "n8",
+      "level": 3,
+      "label": "I stake my hopes on chance and live with what it gives me",
+      "parent": null,
+      "people": 81,
+      "satisfaction": 5
+    },
+    {
+      "id": "n9",
+      "level": 3,
+      "label": "The cards themselves matter to me: I love them, keep them and look into them",
+      "parent": null,
+      "people": 140,
+      "satisfaction": 5
+    },
+    {
+      "id": "n10",
+      "level": 3,
+      "label": "I take care over how I get, pay for and part with cards",
+      "parent": null,
+      "people": 384,
+      "satisfaction": 5
+    },
+    {
+      "id": "n11",
+      "level": 3,
+      "label": "I want the game made, run and played fairly, and I mind when it isn't",
+      "parent": null,
+      "people": 200,
+      "satisfaction": 5
+    },
+    {
+      "id": "n12",
+      "level": 3,
+      "label": "I read the game's stories and am pulled in or left cold by how they are told",
+      "parent": null,
+      "people": 9,
+      "satisfaction": 5
+    },
+    {
+      "id": "n13",
+      "level": 3,
+      "label": "I put what I know and feel about the game into something others can read, watch or hear",
+      "parent": null,
+      "people": 113,
+      "satisfaction": 5
+    },
+    {
+      "id": "nv3-1",
+      "level": 3,
+      "label": "I make a living, or part of one, from the game",
+      "parent": null,
+      "people": 192,
+      "satisfaction": 5
+    },
+    {
+      "id": "nv4-1",
+      "level": 3,
+      "label": "I make sense of who I am, where I come from and how I deal with people",
+      "parent": null,
+      "people": 29,
+      "satisfaction": 5
+    },
+    {
+      "id": "nv5-1",
+      "level": 3,
+      "label": "I make cards, card art and card games of my own and work at making them well",
+      "parent": null,
+      "people": 91,
+      "satisfaction": 5
+    },
+    {
+      "id": "b1",
+      "level": 2,
+      "label": "I build my deck to a purpose, choosing each card for what it does there",
+      "parent": "n1",
+      "people": 55,
+      "satisfaction": 5
+    },
+    {
+      "id": "b2",
+      "level": 2,
+      "label": "I pick the deck that fits me, the field I expect and the occasion",
+      "parent": "n1",
+      "people": 83,
+      "satisfaction": 5
+    },
+    {
+      "id": "b3",
+      "level": 2,
+      "label": "I find out by trying what my cards and my deck are really worth",
+      "parent": "n1",
+      "people": 65,
+      "satisfaction": 5
+    },
+    {
+      "id": "b4",
+      "level": 2,
+      "label": "I build from the cards I have or can get",
+      "parent": "n1",
+      "people": 41,
+      "satisfaction": 5
+    },
+    {
+      "id": "b5",
+      "level": 2,
+      "label": "I play what I love and want my deck to be my own",
+      "parent": "n2",
+      "people": 62,
+      "satisfaction": 5
+    },
+    {
+      "id": "b6",
+      "level": 2,
+      "label": "I take delight in building, trying and playing my decks",
+      "parent": "n2",
+      "people": 53,
+      "satisfaction": 5
+    },
+    {
+      "id": "b7",
+      "level": 2,
+      "label": "I shape our games so they are fun for everyone at the table",
+      "parent": "n2",
+      "people": 48,
+      "satisfaction": 5
+    },
+    {
+      "id": "b8",
+      "level": 2,
+      "label": "I enjoy the events and outings for themselves, whatever my result",
+      "parent": "n2",
+      "people": 68,
+      "satisfaction": 5
+    },
+    {
+      "id": "b9",
+      "level": 2,
+      "label": "I think my way through a game: before it, during it and afterwards",
+      "parent": "n3",
+      "people": 85,
+      "satisfaction": 5
+    },
+    {
+      "id": "b10",
+      "level": 2,
+      "label": "I feel a game swing for me or against me as it goes",
+      "parent": "n3",
+      "people": 68,
+      "satisfaction": 5
+    },
+    {
+      "id": "b11",
+      "level": 2,
+      "label": "I want to know what the rules really require",
+      "parent": "n3",
+      "people": 47,
+      "satisfaction": 5
+    },
+    {
+      "id": "b12",
+      "level": 2,
+      "label": "I want to get better and measure myself against stronger players",
+      "parent": "n3",
+      "people": 87,
+      "satisfaction": 5
+    },
+    {
+      "id": "b13",
+      "level": 2,
+      "label": "I go after a result and feel how it comes out",
+      "parent": "n3",
+      "people": 99,
+      "satisfaction": 5
+    },
+    {
+      "id": "b14",
+      "level": 2,
+      "label": "Something draws me to the game and I take it up",
+      "parent": "n4",
+      "people": 103,
+      "satisfaction": 5
+    },
+    {
+      "id": "b15",
+      "level": 2,
+      "label": "I work out how things are done here and try to keep up",
+      "parent": "n4",
+      "people": 65,
+      "satisfaction": 5
+    },
+    {
+      "id": "b16",
+      "level": 2,
+      "label": "I decide whether to turn up, and work up the nerve for it",
+      "parent": "n4",
+      "people": 65,
+      "satisfaction": 5
+    },
+    {
+      "id": "b17",
+      "level": 2,
+      "label": "Once I try it, it is good and people make me welcome",
+      "parent": "n4",
+      "people": 61,
+      "satisfaction": 5
+    },
+    {
+      "id": "b18",
+      "level": 2,
+      "label": "The friends and familiar faces around the game are what I value most",
+      "parent": "n5",
+      "people": 86,
+      "satisfaction": 5
+    },
+    {
+      "id": "b19",
+      "level": 2,
+      "label": "I want people to play with, face to face",
+      "parent": "n5",
+      "people": 39,
+      "satisfaction": 5
+    },
+    {
+      "id": "b20",
+      "level": 2,
+      "label": "I want to share the game with my family and see my child enjoy it",
+      "parent": "n5",
+      "people": 40,
+      "satisfaction": 5
+    },
+    {
+      "id": "b21",
+      "level": 2,
+      "label": "I'm grateful for what people do for me and want to give something back",
+      "parent": "n5",
+      "people": 36,
+      "satisfaction": 5
+    },
+    {
+      "id": "b22",
+      "level": 2,
+      "label": "What happens to my friends and fellow players matters to me like my own",
+      "parent": "n5",
+      "people": 21,
+      "satisfaction": 5
+    },
+    {
+      "id": "b23",
+      "level": 2,
+      "label": "I bring new people in and help them learn to play",
+      "parent": "n6",
+      "people": 64,
+      "satisfaction": 5
+    },
+    {
+      "id": "b24",
+      "level": 2,
+      "label": "I put on events for others and care that they work for everyone",
+      "parent": "n6",
+      "people": 44,
+      "satisfaction": 5
+    },
+    {
+      "id": "b25",
+      "level": 2,
+      "label": "I watch whether the scene around me is alive and will last",
+      "parent": "n6",
+      "people": 48,
+      "satisfaction": 5
+    },
+    {
+      "id": "b26",
+      "level": 2,
+      "label": "I fit playing around the rest of my life and my energy, and miss it when I can't",
+      "parent": "n7",
+      "people": 65,
+      "satisfaction": 5
+    },
+    {
+      "id": "b27",
+      "level": 2,
+      "label": "I ask whether the game is still worth what it takes from me",
+      "parent": "n7",
+      "people": 51,
+      "satisfaction": 5
+    },
+    {
+      "id": "b28",
+      "level": 2,
+      "label": "I look back on what the game has been to me",
+      "parent": "n7",
+      "people": 27,
+      "satisfaction": 5
+    },
+    {
+      "id": "b29",
+      "level": 2,
+      "label": "The game gives me something beyond the game itself",
+      "parent": "n7",
+      "people": 12,
+      "satisfaction": 5
+    },
+    {
+      "id": "b30",
+      "level": 2,
+      "label": "I work out what kind of hobbyist I am",
+      "parent": "n7",
+      "people": 12,
+      "satisfaction": 5
+    },
+    {
+      "id": "b31",
+      "level": 2,
+      "label": "I love opening packs and hope for the card I want",
+      "parent": "n8",
+      "people": 41,
+      "satisfaction": 5
+    },
+    {
+      "id": "b32",
+      "level": 2,
+      "label": "I take what the packs gave me: thrilled, let down or making the best of it",
+      "parent": "n8",
+      "people": 52,
+      "satisfaction": 5
+    },
+    {
+      "id": "b33",
+      "level": 2,
+      "label": "I look for signs and odds in what I can't know, and see my own hopes at work",
+      "parent": "n8",
+      "people": 15,
+      "satisfaction": 5
+    },
+    {
+      "id": "b34",
+      "level": 2,
+      "label": "I collect the cards I love and the ones that mean something to me",
+      "parent": "n9",
+      "people": 76,
+      "satisfaction": 5
+    },
+    {
+      "id": "b35",
+      "level": 2,
+      "label": "I keep my collection in order, look after it and work to complete it",
+      "parent": "n9",
+      "people": 52,
+      "satisfaction": 5
+    },
+    {
+      "id": "b36",
+      "level": 2,
+      "label": "I'm curious about the cards as made things",
+      "parent": "n9",
+      "people": 23,
+      "satisfaction": 5
+    },
+    {
+      "id": "b37",
+      "level": 2,
+      "label": "Getting to buy what I want is a struggle I plan around",
+      "parent": "n10",
+      "people": 121,
+      "satisfaction": 5
+    },
+    {
+      "id": "b38",
+      "level": 2,
+      "label": "I keep my spending within what makes sense for me",
+      "parent": "n10",
+      "people": 62,
+      "satisfaction": 5
+    },
+    {
+      "id": "b39",
+      "level": 2,
+      "label": "I weigh what a card is worth as money",
+      "parent": "n10",
+      "people": 64,
+      "satisfaction": 5
+    },
+    {
+      "id": "b40",
+      "level": 2,
+      "label": "I decide what to sell, keep or pass on, and live with the choice",
+      "parent": "n10",
+      "people": 96,
+      "satisfaction": 5
+    },
+    {
+      "id": "b41",
+      "level": 2,
+      "label": "I want a straight deal and set my terms to get one",
+      "parent": "n10",
+      "people": 122,
+      "satisfaction": 5
+    },
+    {
+      "id": "b42",
+      "level": 2,
+      "label": "I mind how people behave across the table, myself included",
+      "parent": "n11",
+      "people": 57,
+      "satisfaction": 5
+    },
+    {
+      "id": "b43",
+      "level": 2,
+      "label": "I keep my own deck and list within the rules",
+      "parent": "n11",
+      "people": 13,
+      "satisfaction": 5
+    },
+    {
+      "id": "b44",
+      "level": 2,
+      "label": "I take a stand on wrongs and arguments in the community",
+      "parent": "n11",
+      "people": 39,
+      "satisfaction": 5
+    },
+    {
+      "id": "b45",
+      "level": 2,
+      "label": "I judge how well the game and its products are designed",
+      "parent": "n11",
+      "people": 55,
+      "satisfaction": 5
+    },
+    {
+      "id": "b46",
+      "level": 2,
+      "label": "I judge how the company, organizers and shops treat players",
+      "parent": "n11",
+      "people": 80,
+      "satisfaction": 5
+    },
+    {
+      "id": "b47",
+      "level": 2,
+      "label": "I follow a story from the game's world and react to how it is told",
+      "parent": "n12",
+      "people": 9,
+      "satisfaction": 5
+    },
+    {
+      "id": "b48",
+      "level": 2,
+      "label": "I write up what I know and what I've been through",
+      "parent": "n13",
+      "people": 34,
+      "satisfaction": 5
+    },
+    {
+      "id": "b49",
+      "level": 2,
+      "label": "I decide what goes into my video, show or survey and how",
+      "parent": "n13",
+      "people": 64,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv3-3",
+      "level": 2,
+      "label": "I run my shop and keep it going",
+      "parent": "nv3-1",
+      "people": 27,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv3-4",
+      "level": 2,
+      "label": "I build tools and analyses for the game, for myself and for others",
+      "parent": "n13",
+      "people": 19,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv3-5",
+      "level": 2,
+      "label": "I resell cards for profit and find out whether I can make it pay",
+      "parent": "nv3-1",
+      "people": 68,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv4-2",
+      "level": 2,
+      "label": "As a woman I weigh whether card game spaces have room for me",
+      "parent": "n4",
+      "people": 12,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-1",
+      "level": 2,
+      "label": "I design my own card game and work out its cards, rules, theme and balance",
+      "parent": "nv5-1",
+      "people": 35,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-2",
+      "level": 2,
+      "label": "I get my own cards printed and made the way I want them, working out process, cost and quality",
+      "parent": "nv5-1",
+      "people": 27,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-3",
+      "level": 2,
+      "label": "I paint, alter and illustrate cards and work at getting the picture right",
+      "parent": "nv5-1",
+      "people": 22,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-5",
+      "level": 2,
+      "label": "I choose the sleeves, boxes, mats and bags that go with my cards and judge how they serve me",
+      "parent": "n9",
+      "people": 14,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-6",
+      "level": 2,
+      "label": "I weigh starting a card business, opening a shop or going full-time, and what it asks of me",
+      "parent": "nv3-1",
+      "people": 27,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-7",
+      "level": 2,
+      "label": "I secure product to sell, through distributors and whatever supply I can find",
+      "parent": "nv3-1",
+      "people": 29,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-8",
+      "level": 2,
+      "label": "I work the counter or the floor where cards are sold and deal with the people who come for them",
+      "parent": "nv3-1",
+      "people": 48,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv5-10",
+      "level": 2,
+      "label": "I live alongside someone else's card hobby and work out what it asks of me",
+      "parent": "nv4-1",
+      "people": 14,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv6-1",
+      "level": 2,
+      "label": "As a teacher I bring the cards my pupils love into school to reach and reward them, and handle the trouble the cards bring",
+      "parent": "n6",
+      "people": 18,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv6-2",
+      "level": 2,
+      "label": "I run or work in a company that serves the card trade, and answer for how it serves the people who use it",
+      "parent": "nv3-1",
+      "people": 32,
+      "satisfaction": 5
+    },
+    {
+      "id": "bv7-1",
+      "level": 2,
+      "label": "I design custom cards for a game I already play and work at making them fit and play well",
+      "parent": "nv5-1",
+      "people": 9,
+      "satisfaction": 5
+    },
+    {
+      "id": "g1g2",
+      "level": 1,
+      "label": "I put a card in or take it out by the job my deck needs done",
+      "parent": "b1",
+      "people": 31,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g3",
+      "level": 1,
+      "label": "I find out how good a card, a list or a deck really is, often not what I first thought",
+      "parent": "b3",
+      "people": 44,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "g5",
+      "level": 1,
+      "label": "I take a card or a count on the say-so of players who know the deck",
+      "parent": "b1",
+      "people": 10,
+      "satisfaction": 6.4
+    },
+    {
+      "id": "g6",
+      "level": 1,
+      "label": "I shape my deck, or pick it, for the opposing decks I expect to face",
+      "parent": "b2",
+      "people": 26,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "g7",
+      "level": 1,
+      "label": "I try to read what the field is playing and where it is heading",
+      "parent": "b2",
+      "people": 20,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "g8",
+      "level": 1,
+      "label": "I'm thrown by a matchup or a card I never expected to face",
+      "parent": "b2",
+      "people": 15,
+      "satisfaction": 3.1
+    },
+    {
+      "id": "g9",
+      "level": 1,
+      "label": "I set out what I want this deck to do and build to that plan",
+      "parent": "b1",
+      "people": 9,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g10",
+      "level": 1,
+      "label": "A card, an idea or someone's deck grabs me and I want to build around it",
+      "parent": "b5",
+      "people": 24,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g11",
+      "level": 1,
+      "label": "I choose my cards and decks for love and fun, not only for what wins",
+      "parent": "b5",
+      "people": 32,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g12",
+      "level": 1,
+      "label": "I want a deck that is my own, off the beaten track, and I like it when people notice",
+      "parent": "b5",
+      "people": 14,
+      "satisfaction": 6.4
+    },
+    {
+      "id": "g14",
+      "level": 1,
+      "label": "I want the decks at our table matched in power so the games stay fair to play",
+      "parent": "b7",
+      "people": 10,
+      "satisfaction": 4.7
+    },
+    {
+      "id": "g15",
+      "level": 1,
+      "label": "I bring the deck and the cards I know I can handle",
+      "parent": "b2",
+      "people": 26,
+      "satisfaction": 5.4
+    },
+    {
+      "id": "g16",
+      "level": 1,
+      "label": "I'm working out which deck to play or build next",
+      "parent": "b2",
+      "people": 37,
+      "satisfaction": 5.1
+    },
+    {
+      "id": "g17",
+      "level": 1,
+      "label": "My deck isn't doing what I built it to do",
+      "parent": "b3",
+      "people": 12,
+      "satisfaction": 3.2
+    },
+    {
+      "id": "g18",
+      "level": 1,
+      "label": "I want to take my deck or an idea out and see how it really does",
+      "parent": "b3",
+      "people": 19,
+      "satisfaction": 6
+    },
+    {
+      "id": "g20",
+      "level": 1,
+      "label": "I'm struck by how much a card or a deck can do",
+      "parent": "b3",
+      "people": 10,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "g21",
+      "level": 1,
+      "label": "This deck is a pleasure to play",
+      "parent": "b6",
+      "people": 15,
+      "satisfaction": 8.2
+    },
+    {
+      "id": "g22",
+      "level": 1,
+      "label": "I enjoy the work of building, tuning and preparing decks",
+      "parent": "b6",
+      "people": 7,
+      "satisfaction": 7.4
+    },
+    {
+      "id": "g23",
+      "level": 1,
+      "label": "I like trying what I haven't done before and finding out as I go",
+      "parent": "b6",
+      "people": 16,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g24",
+      "level": 1,
+      "label": "I'm looking forward to the new cards and what they will do for my deck or my favourite",
+      "parent": "b6",
+      "people": 13,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g25",
+      "level": 1,
+      "label": "I make do with the cards I have rather than buy more",
+      "parent": "b4",
+      "people": 10,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g26",
+      "level": 1,
+      "label": "I realize how many cards I still lack for what I want to build or complete",
+      "parent": "b4",
+      "people": 9,
+      "satisfaction": 3.2
+    },
+    {
+      "id": "g28",
+      "level": 1,
+      "label": "For our joke game I pick decks and cards to needle my friends",
+      "parent": "b7",
+      "people": 4,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g31",
+      "level": 1,
+      "label": "I work out my line of play against what my opponent has or might have, at the table or beforehand",
+      "parent": "b9",
+      "people": 57,
+      "satisfaction": 5.4
+    },
+    {
+      "id": "g33",
+      "level": 1,
+      "label": "Looking back, I see what I got wrong and should have played differently",
+      "parent": "b9",
+      "people": 47,
+      "satisfaction": 4
+    },
+    {
+      "id": "g34",
+      "level": 1,
+      "label": "I work out what decided the game: my play, theirs or the draw",
+      "parent": "b9",
+      "people": 21,
+      "satisfaction": 5.1
+    },
+    {
+      "id": "g35",
+      "level": 1,
+      "label": "I feel the draws and the die roll going for me or against me",
+      "parent": "b10",
+      "people": 25,
+      "satisfaction": 4.7
+    },
+    {
+      "id": "g36",
+      "level": 1,
+      "label": "I think this game is slipping away or already lost",
+      "parent": "b10",
+      "people": 24,
+      "satisfaction": 3.1
+    },
+    {
+      "id": "g37",
+      "level": 1,
+      "label": "I can't believe I came through that game",
+      "parent": "b10",
+      "people": 5,
+      "satisfaction": 7.4
+    },
+    {
+      "id": "g38",
+      "level": 1,
+      "label": "I'm pleased with a play I made or a card that came through for me",
+      "parent": "b10",
+      "people": 15,
+      "satisfaction": 7.7
+    },
+    {
+      "id": "g39",
+      "level": 1,
+      "label": "That card or deck does too much to me, and I'm sore about losing to it",
+      "parent": "b10",
+      "people": 16,
+      "satisfaction": 2.4
+    },
+    {
+      "id": "g40",
+      "level": 1,
+      "label": "I gauge how confident I feel going into the match",
+      "parent": "b10",
+      "people": 27,
+      "satisfaction": 5
+    },
+    {
+      "id": "g41",
+      "level": 1,
+      "label": "I try to work out what this game's rules or card text actually require",
+      "parent": "b11",
+      "people": 37,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "g42",
+      "level": 1,
+      "label": "I doubt the game client or tool handled it right, or wonder whether I misused it",
+      "parent": "b11",
+      "people": 4,
+      "satisfaction": 3
+    },
+    {
+      "id": "g43",
+      "level": 1,
+      "label": "The materials and unexplained rules leave gaps that only people at the table can fill",
+      "parent": "b11",
+      "people": 9,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "g44",
+      "level": 1,
+      "label": "I work out the odds of drawing the pieces I need",
+      "parent": "b9",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "g45",
+      "level": 1,
+      "label": "I'm struggling to keep up with what is going on in the game and its pace",
+      "parent": "b15",
+      "people": 14,
+      "satisfaction": 3.1
+    },
+    {
+      "id": "g48",
+      "level": 1,
+      "label": "I see I'm not yet at the level of the players and decks around me and have more to learn",
+      "parent": "b12",
+      "people": 26,
+      "satisfaction": 3.7
+    },
+    {
+      "id": "g49",
+      "level": 1,
+      "label": "I value how the game makes me think and learn, even through losses",
+      "parent": "b12",
+      "people": 14,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "g50",
+      "level": 1,
+      "label": "I practise ahead so I'm ready when it counts",
+      "parent": "b12",
+      "people": 25,
+      "satisfaction": 6
+    },
+    {
+      "id": "g52",
+      "level": 1,
+      "label": "I want to compete seriously and win, not just take part",
+      "parent": "b12",
+      "people": 17,
+      "satisfaction": 5.9
+    },
+    {
+      "id": "g53",
+      "level": 1,
+      "label": "I hold a mark I want to reach and gauge where I stand against it",
+      "parent": "b13",
+      "people": 24,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g55",
+      "level": 1,
+      "label": "I play for a particular prize, promo or points mark",
+      "parent": "b13",
+      "people": 27,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "g56",
+      "level": 1,
+      "label": "It hurts to lose or fall short when I wanted it badly",
+      "parent": "b13",
+      "people": 21,
+      "satisfaction": 3.2
+    },
+    {
+      "id": "g57",
+      "level": 1,
+      "label": "I'm happy and proud of how I did, whether a win or a finish that shows I can hold my own",
+      "parent": "b13",
+      "people": 51,
+      "satisfaction": 7.9
+    },
+    {
+      "id": "g58",
+      "level": 1,
+      "label": "I had a great time at the event whatever my result, and I want to go again",
+      "parent": "b8",
+      "people": 37,
+      "satisfaction": 8
+    },
+    {
+      "id": "g59",
+      "level": 1,
+      "label": "I want a real game against a strong opponent, and it is worth it even when I lose",
+      "parent": "b12",
+      "people": 6,
+      "satisfaction": 8.2
+    },
+    {
+      "id": "g60",
+      "level": 1,
+      "label": "Once I'm out of contention I decide whether to play on for the fun of it or drop for something better",
+      "parent": "b13",
+      "people": 12,
+      "satisfaction": 5.3
+    },
+    {
+      "id": "g62",
+      "level": 1,
+      "label": "Trying the game or an event for the first time, I find it more fun and easier than I expected and want more",
+      "parent": "b17",
+      "people": 37,
+      "satisfaction": 7.9
+    },
+    {
+      "id": "g63",
+      "level": 1,
+      "label": "Once I kept coming it got easier: strangers became familiar and I started winning some",
+      "parent": "b17",
+      "people": 5,
+      "satisfaction": 7.2
+    },
+    {
+      "id": "g64",
+      "level": 1,
+      "label": "I decide whether to give this event a go",
+      "parent": "b16",
+      "people": 31,
+      "satisfaction": 5.9
+    },
+    {
+      "id": "g65",
+      "level": 1,
+      "label": "I want to play and am sad when I can't get the chance",
+      "parent": "b26",
+      "people": 17,
+      "satisfaction": 2.9
+    },
+    {
+      "id": "g66",
+      "level": 1,
+      "label": "Other parts of my life come first, and I fit the game around them",
+      "parent": "b26",
+      "people": 21,
+      "satisfaction": 4.1
+    },
+    {
+      "id": "g67",
+      "level": 1,
+      "label": "When my usual way of playing falls away, I find another way to keep playing",
+      "parent": "b26",
+      "people": 19,
+      "satisfaction": 5.4
+    },
+    {
+      "id": "g68",
+      "level": 1,
+      "label": "I work out the practical side of getting to the event and into it",
+      "parent": "b15",
+      "people": 14,
+      "satisfaction": 4.2
+    },
+    {
+      "id": "g69",
+      "level": 1,
+      "label": "I'm new to this and finding out how things are done",
+      "parent": "b15",
+      "people": 26,
+      "satisfaction": 4.3
+    },
+    {
+      "id": "g71",
+      "level": 1,
+      "label": "A long day of games wears me out",
+      "parent": "b26",
+      "people": 8,
+      "satisfaction": 3.4
+    },
+    {
+      "id": "g72",
+      "level": 1,
+      "label": "I'm nervous or scared going into an event, afraid I'm not ready or will get it wrong",
+      "parent": "b16",
+      "people": 15,
+      "satisfaction": 4.1
+    },
+    {
+      "id": "g73",
+      "level": 1,
+      "label": "Dealing with people I don't know makes me nervous",
+      "parent": "b16",
+      "people": 9,
+      "satisfaction": 4.1
+    },
+    {
+      "id": "g74",
+      "level": 1,
+      "label": "I size up the place and the crowd before I commit to it",
+      "parent": "b16",
+      "people": 5,
+      "satisfaction": 5.4
+    },
+    {
+      "id": "g75",
+      "level": 1,
+      "label": "I don't want to be a burden or a bother to the people I play with",
+      "parent": "b16",
+      "people": 8,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "g76",
+      "level": 1,
+      "label": "I feel bad for my opponent when the game goes badly for them or a result stands in my favour that I didn't earn",
+      "parent": "b42",
+      "people": 18,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g77",
+      "level": 1,
+      "label": "I catch myself in an ungenerous thought I wouldn't say aloud, and know it isn't fair",
+      "parent": "b42",
+      "people": 4,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g78",
+      "level": 1,
+      "label": "The way some players behave toward me at the table sours it",
+      "parent": "b42",
+      "people": 14,
+      "satisfaction": 2.9
+    },
+    {
+      "id": "g81",
+      "level": 1,
+      "label": "I have a view on a tournament-conduct argument people are having",
+      "parent": "b44",
+      "people": 4,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "g83",
+      "level": 1,
+      "label": "What people post online about the hobby dismays or startles me",
+      "parent": "b44",
+      "people": 9,
+      "satisfaction": 3.6
+    },
+    {
+      "id": "g87",
+      "level": 1,
+      "label": "A mismatch between my deck, my registered list or my sleeves can cost me a penalty, so I look for one and face up to it when it turns up",
+      "parent": "b43",
+      "people": 11,
+      "satisfaction": 3.7
+    },
+    {
+      "id": "g94",
+      "level": 1,
+      "label": "I want another go to put a loss right",
+      "parent": "b12",
+      "people": 8,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "g95",
+      "level": 1,
+      "label": "Getting to a big event, and the size of it, thrills me",
+      "parent": "b8",
+      "people": 13,
+      "satisfaction": 8.1
+    },
+    {
+      "id": "g96",
+      "level": 1,
+      "label": "I'm impressed by how well the event is set up and how much it gives players",
+      "parent": "b46",
+      "people": 6,
+      "satisfaction": 8.3
+    },
+    {
+      "id": "g97",
+      "level": 1,
+      "label": "I lean on other people's support to afford travelling to play",
+      "parent": "b26",
+      "people": 5,
+      "satisfaction": 6.6
+    },
+    {
+      "id": "g99",
+      "level": 1,
+      "label": "I came to play, and packs or promos alone aren't worth what it cost me",
+      "parent": "b19",
+      "people": 4,
+      "satisfaction": 2.8
+    },
+    {
+      "id": "g100",
+      "level": 1,
+      "label": "The shop shut me out or put me off, and I can take my custom elsewhere",
+      "parent": "b46",
+      "people": 8,
+      "satisfaction": 2.9
+    },
+    {
+      "id": "g101",
+      "level": 1,
+      "label": "I'm glad to see people enjoying what I put on or made for them",
+      "parent": "b24",
+      "people": 9,
+      "satisfaction": 8.3
+    },
+    {
+      "id": "g102",
+      "level": 1,
+      "label": "I set my event's rules so everyone can join, enjoy it and be treated fairly",
+      "parent": "b24",
+      "people": 7,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "g103",
+      "level": 1,
+      "label": "I want an event that suits us to exist, so I run it, push for it or keep it going",
+      "parent": "b24",
+      "people": 24,
+      "satisfaction": 5.4
+    },
+    {
+      "id": "g105",
+      "level": 1,
+      "label": "I care about getting the game across so each learner follows and enjoys it, and I like doing it",
+      "parent": "b23",
+      "people": 16,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g106",
+      "level": 1,
+      "label": "I want more people playing, so I bring them in and make a way in for newcomers",
+      "parent": "b23",
+      "people": 32,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "g108",
+      "level": 1,
+      "label": "I watch how alive the scene is: who turns up, what sells, whether it will hold",
+      "parent": "b25",
+      "people": 27,
+      "satisfaction": 4.9
+    },
+    {
+      "id": "g110",
+      "level": 1,
+      "label": "The people I get to be with and meet through the game, old friends and new faces, are what I come for and what make it worth it",
+      "parent": "b18",
+      "people": 50,
+      "satisfaction": 7.8
+    },
+    {
+      "id": "g112",
+      "level": 1,
+      "label": "I want more and different people to play against, so I go where they are",
+      "parent": "b19",
+      "people": 15,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g113",
+      "level": 1,
+      "label": "I want company and friendships around the game and set out to find or build them",
+      "parent": "b18",
+      "people": 22,
+      "satisfaction": 3.8
+    },
+    {
+      "id": "g114",
+      "level": 1,
+      "label": "Playing across a real table with real cards is the experience I want",
+      "parent": "b19",
+      "people": 12,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g115",
+      "level": 1,
+      "label": "Seeing what other people bring and how they play it is part of why I come",
+      "parent": "b19",
+      "people": 10,
+      "satisfaction": 7.2
+    },
+    {
+      "id": "g116",
+      "level": 1,
+      "label": "I enjoy finding and playing with people like me, who love what I love",
+      "parent": "b18",
+      "people": 7,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "g117",
+      "level": 1,
+      "label": "People welcomed and helped me as a beginner, and that put me at ease",
+      "parent": "b17",
+      "people": 27,
+      "satisfaction": 8.1
+    },
+    {
+      "id": "g118",
+      "level": 1,
+      "label": "I'm grateful to the people who go out of their way for me",
+      "parent": "b21",
+      "people": 27,
+      "satisfaction": 8.1
+    },
+    {
+      "id": "g119",
+      "level": 1,
+      "label": "I want to repay or make it up to someone who did something for me",
+      "parent": "b21",
+      "people": 5,
+      "satisfaction": 6
+    },
+    {
+      "id": "g121",
+      "level": 1,
+      "label": "My friends', teammates' and students' results matter to me like my own",
+      "parent": "b22",
+      "people": 15,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "g122",
+      "level": 1,
+      "label": "I see more and get further working on decks and plays together with others than alone",
+      "parent": "b12",
+      "people": 6,
+      "satisfaction": 7.2
+    },
+    {
+      "id": "g123",
+      "level": 1,
+      "label": "I want the game to be something my family and I share",
+      "parent": "b20",
+      "people": 23,
+      "satisfaction": 6.7
+    },
+    {
+      "id": "g124",
+      "level": 1,
+      "label": "What I want is for my child to enjoy it and come away fine; the rest is theirs",
+      "parent": "b20",
+      "people": 7,
+      "satisfaction": 6.6
+    },
+    {
+      "id": "g125",
+      "level": 1,
+      "label": "I enjoy relaxed, peaceful games at home with friends and family",
+      "parent": "b7",
+      "people": 7,
+      "satisfaction": 7.1
+    },
+    {
+      "id": "g127",
+      "level": 1,
+      "label": "I pick the game that fits our table and time",
+      "parent": "b7",
+      "people": 7,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "g129",
+      "level": 1,
+      "label": "I'm amused by the people I meet around the game",
+      "parent": "b18",
+      "people": 9,
+      "satisfaction": 6.8
+    },
+    {
+      "id": "g130",
+      "level": 1,
+      "label": "I turn to something I enjoy to lift a low mood",
+      "parent": "b29",
+      "people": 7,
+      "satisfaction": 7
+    },
+    {
+      "id": "g131",
+      "level": 1,
+      "label": "Playing it our own way, with story and big moments, is what makes the game come alive for us",
+      "parent": "b7",
+      "people": 7,
+      "satisfaction": 7.6
+    },
+    {
+      "id": "g132",
+      "level": 1,
+      "label": "The cards and the way we played when I was a child pull me back and feel good to have again",
+      "parent": "b14",
+      "people": 23,
+      "satisfaction": 7.1
+    },
+    {
+      "id": "g133",
+      "level": 1,
+      "label": "A series or character I already love pulls me into this card game, or back to it",
+      "parent": "b14",
+      "people": 20,
+      "satisfaction": 7
+    },
+    {
+      "id": "g134",
+      "level": 1,
+      "label": "The game catches hold of me and I take it up, or come back to it",
+      "parent": "b14",
+      "people": 44,
+      "satisfaction": 7
+    },
+    {
+      "id": "g136",
+      "level": 1,
+      "label": "I start playing because friends or the people around me do",
+      "parent": "b14",
+      "people": 12,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g137",
+      "level": 1,
+      "label": "I take a ready-made deck as the easy way in",
+      "parent": "b14",
+      "people": 10,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g138",
+      "level": 1,
+      "label": "I've fallen behind on this game and need to catch up",
+      "parent": "b15",
+      "people": 5,
+      "satisfaction": 3.8
+    },
+    {
+      "id": "g139",
+      "level": 1,
+      "label": "I'm losing my drive to keep playing",
+      "parent": "b27",
+      "people": 10,
+      "satisfaction": 3.1
+    },
+    {
+      "id": "g140",
+      "level": 1,
+      "label": "The direction the game and its scene have taken has cooled me on it",
+      "parent": "b27",
+      "people": 20,
+      "satisfaction": 3
+    },
+    {
+      "id": "g141",
+      "level": 1,
+      "label": "Keeping up costs me more money and time than it gives back, so I cut back or let it go",
+      "parent": "b27",
+      "people": 10,
+      "satisfaction": 3.6
+    },
+    {
+      "id": "g146",
+      "level": 1,
+      "label": "I hold on to the memories of events and earlier days in the game",
+      "parent": "b28",
+      "people": 16,
+      "satisfaction": 7.2
+    },
+    {
+      "id": "g147",
+      "level": 1,
+      "label": "I work out whether I'm a player or a collector in this hobby",
+      "parent": "b30",
+      "people": 7,
+      "satisfaction": 6.1
+    },
+    {
+      "id": "g149",
+      "level": 1,
+      "label": "I judge how well a game is designed from playing it and from learning why it is built that way",
+      "parent": "b45",
+      "people": 31,
+      "satisfaction": 5.9
+    },
+    {
+      "id": "g150",
+      "level": 1,
+      "label": "I care whether the makers do right by the cards and mechanics, and say so when they don't",
+      "parent": "b45",
+      "people": 16,
+      "satisfaction": 3.8
+    },
+    {
+      "id": "g152",
+      "level": 1,
+      "label": "I think the company or the organizers are treating players badly",
+      "parent": "b46",
+      "people": 19,
+      "satisfaction": 2.6
+    },
+    {
+      "id": "g156",
+      "level": 1,
+      "label": "I love opening packs for its own sake and want more of it",
+      "parent": "b31",
+      "people": 16,
+      "satisfaction": 7.7
+    },
+    {
+      "id": "g157",
+      "level": 1,
+      "label": "I'm thrilled with the card I pulled or finally got hold of",
+      "parent": "b32",
+      "people": 36,
+      "satisfaction": 8.4
+    },
+    {
+      "id": "g158",
+      "level": 1,
+      "label": "It's not the pull I hoped for, but I'll take it",
+      "parent": "b32",
+      "people": 10,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g159",
+      "level": 1,
+      "label": "I open packs hoping for a particular card or a better pull",
+      "parent": "b31",
+      "people": 19,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "g160",
+      "level": 1,
+      "label": "I read luck, signs and messages into what comes out of the packs",
+      "parent": "b33",
+      "people": 5,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "g161",
+      "level": 1,
+      "label": "I'm let down when the packs don't give what I hoped for",
+      "parent": "b32",
+      "people": 10,
+      "satisfaction": 3
+    },
+    {
+      "id": "g162",
+      "level": 1,
+      "label": "I rate how the opening went against what the product cost or should give",
+      "parent": "b32",
+      "people": 9,
+      "satisfaction": 5
+    },
+    {
+      "id": "g165",
+      "level": 1,
+      "label": "I try to work out which packs or boxes give me a real chance at a hit",
+      "parent": "b33",
+      "people": 6,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g166",
+      "level": 1,
+      "label": "I judge what I open by what I can use in the decks I'm building or playing",
+      "parent": "b4",
+      "people": 10,
+      "satisfaction": 6.9
+    },
+    {
+      "id": "g170",
+      "level": 1,
+      "label": "The product I want is scarce, so every sell-out or lost lottery stings and every purchase is a relief",
+      "parent": "b37",
+      "people": 30,
+      "satisfaction": 4.4
+    },
+    {
+      "id": "g171",
+      "level": 1,
+      "label": "I plan how to better my chances of getting to buy",
+      "parent": "b37",
+      "people": 9,
+      "satisfaction": 5.7
+    },
+    {
+      "id": "g173",
+      "level": 1,
+      "label": "I make an outing of my card errands and free time",
+      "parent": "b8",
+      "people": 4,
+      "satisfaction": 6.8
+    },
+    {
+      "id": "g174",
+      "level": 1,
+      "label": "I hold my buying to what my budget allows and what I'll really use",
+      "parent": "b38",
+      "people": 28,
+      "satisfaction": 5.3
+    },
+    {
+      "id": "g175",
+      "level": 1,
+      "label": "I catch myself buying or entering far more than makes sense",
+      "parent": "b38",
+      "people": 10,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "g177",
+      "level": 1,
+      "label": "I collect and keep the cards I love for their own sake, whatever they are worth",
+      "parent": "b34",
+      "people": 24,
+      "satisfaction": 6.6
+    },
+    {
+      "id": "g178",
+      "level": 1,
+      "label": "I want the special versions of the cards I love, and weigh what they cost me",
+      "parent": "b34",
+      "people": 14,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g179",
+      "level": 1,
+      "label": "I find I prefer one version of a card over another",
+      "parent": "b34",
+      "people": 4,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "g180",
+      "level": 1,
+      "label": "This card or keepsake means something personal to me",
+      "parent": "b34",
+      "people": 14,
+      "satisfaction": 7.6
+    },
+    {
+      "id": "g181",
+      "level": 1,
+      "label": "I make cards of my own, designing or painting them myself",
+      "parent": "b34",
+      "people": 8,
+      "satisfaction": 6.4
+    },
+    {
+      "id": "g182",
+      "level": 1,
+      "label": "I enjoy putting my cards in order and seeing them sit right in the binder",
+      "parent": "b35",
+      "people": 12,
+      "satisfaction": 7
+    },
+    {
+      "id": "g183",
+      "level": 1,
+      "label": "I take care not to damage the cards and things I treasure",
+      "parent": "b35",
+      "people": 11,
+      "satisfaction": 5
+    },
+    {
+      "id": "g184",
+      "level": 1,
+      "label": "I'm working toward owning the complete set, bit by bit",
+      "parent": "b35",
+      "people": 19,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g185",
+      "level": 1,
+      "label": "I'm grateful to the artist and want their signature on my card",
+      "parent": "b34",
+      "people": 5,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "g186",
+      "level": 1,
+      "label": "I'm curious about where a card came from and how it was made, and look closely to find out",
+      "parent": "b36",
+      "people": 16,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g191",
+      "level": 1,
+      "label": "I weigh a card's scarcity and where its price is heading before I buy or sell",
+      "parent": "b39",
+      "people": 23,
+      "satisfaction": 6
+    },
+    {
+      "id": "g193",
+      "level": 1,
+      "label": "Condition decides it for me: I won't settle for or bet on a flawed copy",
+      "parent": "b39",
+      "people": 9,
+      "satisfaction": 5.1
+    },
+    {
+      "id": "g194",
+      "level": 1,
+      "label": "I weigh whether sending a card for grading is worth the cost, the wait and parting with it",
+      "parent": "b39",
+      "people": 10,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g195",
+      "level": 1,
+      "label": "I'm startled and pleased at how much a card I picked up cheaply turned out to be worth",
+      "parent": "b39",
+      "people": 7,
+      "satisfaction": 8.4
+    },
+    {
+      "id": "g196",
+      "level": 1,
+      "label": "I regret having let my cards go",
+      "parent": "b40",
+      "people": 10,
+      "satisfaction": 3
+    },
+    {
+      "id": "g197",
+      "level": 1,
+      "label": "I make peace with what I sold or traded away",
+      "parent": "b40",
+      "people": 5,
+      "satisfaction": 6.8
+    },
+    {
+      "id": "g198",
+      "level": 1,
+      "label": "I sell my cards because I need the money for something in my life",
+      "parent": "b40",
+      "people": 14,
+      "satisfaction": 5.9
+    },
+    {
+      "id": "g199",
+      "level": 1,
+      "label": "I work out a way of selling and turning cards over that suits me",
+      "parent": "b40",
+      "people": 23,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g200",
+      "level": 1,
+      "label": "I pare my cards down to what I'll really use or want to keep",
+      "parent": "b40",
+      "people": 18,
+      "satisfaction": 5.5
+    },
+    {
+      "id": "g201",
+      "level": 1,
+      "label": "I like my cards going to people who can use or look after them",
+      "parent": "b40",
+      "people": 9,
+      "satisfaction": 6.9
+    },
+    {
+      "id": "g203",
+      "level": 1,
+      "label": "When an order or a deal goes wrong, I push to be put right",
+      "parent": "b41",
+      "people": 23,
+      "satisfaction": 3.3
+    },
+    {
+      "id": "g204",
+      "level": 1,
+      "label": "Fakes, scams and lost parcels make me wary of a deal",
+      "parent": "b41",
+      "people": 38,
+      "satisfaction": 3.9
+    },
+    {
+      "id": "g205",
+      "level": 1,
+      "label": "I value a dealer who is careful, open and fair with me",
+      "parent": "b41",
+      "people": 9,
+      "satisfaction": 7.4
+    },
+    {
+      "id": "g206",
+      "level": 1,
+      "label": "I measure an offer against market value and settle on a price",
+      "parent": "b41",
+      "people": 28,
+      "satisfaction": 6
+    },
+    {
+      "id": "g207",
+      "level": 1,
+      "label": "I set out what I will and won't take in a trade",
+      "parent": "b41",
+      "people": 11,
+      "satisfaction": 6
+    },
+    {
+      "id": "g208",
+      "level": 1,
+      "label": "There's a particular card I want, and I look for a way to get it",
+      "parent": "b37",
+      "people": 43,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g209",
+      "level": 1,
+      "label": "I write up my deck so that I and the people who play or face it know what I know",
+      "parent": "b48",
+      "people": 12,
+      "satisfaction": 4.8
+    },
+    {
+      "id": "g212",
+      "level": 1,
+      "label": "I decide to set down my own experience and feelings about the game in writing",
+      "parent": "b48",
+      "people": 8,
+      "satisfaction": 5
+    },
+    {
+      "id": "g213",
+      "level": 1,
+      "label": "What I'm reading or writing hits home about me",
+      "parent": "b48",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "g214",
+      "level": 1,
+      "label": "I decide what my survey, ranking or compilation should count",
+      "parent": "b49",
+      "people": 8,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "g216",
+      "level": 1,
+      "label": "I decide how to film and present my video",
+      "parent": "b49",
+      "people": 23,
+      "satisfaction": 4.9
+    },
+    {
+      "id": "g221",
+      "level": 1,
+      "label": "The story pulls me in, moves me or pleases me",
+      "parent": "b47",
+      "people": 7,
+      "satisfaction": 7
+    },
+    {
+      "id": "g232",
+      "level": 1,
+      "label": "I'm taken with how well my opponent behaves",
+      "parent": "b42",
+      "people": 5,
+      "satisfaction": 7.6
+    },
+    {
+      "id": "g235",
+      "level": 1,
+      "label": "I'd rather hand my cards to someone who makes selling quick and effortless than do the work myself",
+      "parent": "b40",
+      "people": 7,
+      "satisfaction": 8
+    },
+    {
+      "id": "g238",
+      "level": 1,
+      "label": "I'm torn over a slot and haven't settled it, weighing what the card gives against what it costs me",
+      "parent": "b1",
+      "people": 21,
+      "satisfaction": 4.6
+    },
+    {
+      "id": "g239",
+      "level": 1,
+      "label": "I settle how many copies of a card to run, by how often I want to see it and what the other slots can spare",
+      "parent": "b1",
+      "people": 15,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "gv3-42",
+      "level": 1,
+      "label": "When no tool does what I or my group need, I build my own",
+      "parent": "bv3-4",
+      "people": 9,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "gv3-48",
+      "level": 1,
+      "label": "As a seller I set my terms to protect myself and build up my trade record",
+      "parent": "b41",
+      "people": 5,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "gv3-60",
+      "level": 1,
+      "label": "I want to raise a concern the right way, without overreacting or accusing anyone without proof",
+      "parent": "b44",
+      "people": 9,
+      "satisfaction": 3.7
+    },
+    {
+      "id": "gv3-66",
+      "level": 1,
+      "label": "I rate a shop by how well it serves and welcomes us, and recommend the good ones",
+      "parent": "b46",
+      "people": 11,
+      "satisfaction": 7.6
+    },
+    {
+      "id": "gv3-67",
+      "level": 1,
+      "label": "I judge whether the event's schedule and format fit what I can handle",
+      "parent": "b46",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "gv3-73",
+      "level": 1,
+      "label": "The organiser's running of the event left me confused and scrambling",
+      "parent": "b46",
+      "people": 4,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "gv3-78",
+      "level": 1,
+      "label": "I apply my own analytical skills to the game as a side project",
+      "parent": "bv3-4",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "gv3-81",
+      "level": 1,
+      "label": "I get excited about a format everyone at our table can play together",
+      "parent": "b7",
+      "people": 4,
+      "satisfaction": 6.8
+    },
+    {
+      "id": "gv4-29",
+      "level": 1,
+      "label": "I find card game spaces unwelcoming to women: we're treated as people to date, not fans, and safe spaces are lacking",
+      "parent": "bv4-2",
+      "people": 4,
+      "satisfaction": 2.5
+    },
+    {
+      "id": "gv4-45",
+      "level": 1,
+      "label": "I stay out of a game whose cost, scalping or distance puts it out of reach",
+      "parent": "b27",
+      "people": 5,
+      "satisfaction": 2.8
+    },
+    {
+      "id": "gv5-1",
+      "level": 1,
+      "label": "I get my cards printed to order rather than buy the real ones, and am delighted with how my first order turns out",
+      "parent": "b4",
+      "people": 7,
+      "satisfaction": 8.7
+    },
+    {
+      "id": "gv5-67",
+      "level": 1,
+      "label": "I make the video people want and can't yet find, as I once couldn't",
+      "parent": "b49",
+      "people": 6,
+      "satisfaction": 5
+    },
+    {
+      "id": "gv5-78",
+      "level": 1,
+      "label": "I judge sleeves, mats, binders and bags by how they feel and hold up in use",
+      "parent": "bv5-5",
+      "people": 5,
+      "satisfaction": 6.8
+    },
+    {
+      "id": "gv5-79",
+      "level": 1,
+      "label": "I judge sleeves and accessories by how they look, what they cost and whether they add anything",
+      "parent": "bv5-5",
+      "people": 6,
+      "satisfaction": 6.7
+    },
+    {
+      "id": "gv5-89",
+      "level": 1,
+      "label": "I decide what mix of products my shop carries, by what it stands for and what interests me",
+      "parent": "bv3-3",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "gv5-98",
+      "level": 1,
+      "label": "I want my shop to give people a better experience than the shops I've seen: friendly, safe for newcomers, professional",
+      "parent": "bv5-6",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "gv5-131",
+      "level": 1,
+      "label": "I watch what my distributor allots me and how it treats me for signs of my standing",
+      "parent": "bv5-7",
+      "people": 4,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "gv5-132",
+      "level": 1,
+      "label": "Distributors cut me back, turn me down or keep my allocation low without a reason I can work with",
+      "parent": "bv5-7",
+      "people": 4,
+      "satisfaction": 2
+    },
+    {
+      "id": "gv5-136",
+      "level": 1,
+      "label": "I work out how to source stock so it leaves me a margin, doesn't tie up my money and isn't a gamble",
+      "parent": "bv5-7",
+      "people": 5,
+      "satisfaction": 4.4
+    },
+    {
+      "id": "gv5-151",
+      "level": 1,
+      "label": "I judge a selling platform by how well its tools work for me and whether to stay on it",
+      "parent": "bv3-5",
+      "people": 4,
+      "satisfaction": 4.2
+    },
+    {
+      "id": "gv5-152",
+      "level": 1,
+      "label": "The selling platform sides against sellers like me or restricts me unfairly, and I've had enough",
+      "parent": "bv3-5",
+      "people": 4,
+      "satisfaction": 1.5
+    },
+    {
+      "id": "gv5-158",
+      "level": 1,
+      "label": "I pack and ship so orders go out on time, arrive safe and leave my buyers happy, and change it when they're not",
+      "parent": "bv3-5",
+      "people": 4,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "gv5-159",
+      "level": 1,
+      "label": "I try to work out how to ship cards properly and within the postal rules, because getting it wrong worries me",
+      "parent": "bv3-5",
+      "people": 7,
+      "satisfaction": 4.1
+    },
+    {
+      "id": "gv5-166",
+      "level": 1,
+      "label": "I set my prices by the margin and sell-through I need, and adjust when the numbers move",
+      "parent": "bv3-5",
+      "people": 5,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "gv5-172",
+      "level": 1,
+      "label": "I'm unsure buyers want what I'm listing, and learn from what sits unsold",
+      "parent": "bv3-5",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "gv5-184",
+      "level": 1,
+      "label": "I feel for the kids who go without because of scalpers",
+      "parent": "bv5-8",
+      "people": 5,
+      "satisfaction": 2.4
+    },
+    {
+      "id": "gv5-189",
+      "level": 1,
+      "label": "I can't believe how adults carry on over cards at my store",
+      "parent": "bv5-8",
+      "people": 4,
+      "satisfaction": 3
+    },
+    {
+      "id": "gv5-194",
+      "level": 1,
+      "label": "A customer's story or moment in our shop makes my day",
+      "parent": "bv5-8",
+      "people": 5,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "gv5-209",
+      "level": 1,
+      "label": "I join in and go out of my way for my partner's card hobby because I love seeing him happy, while it stays his",
+      "parent": "bv5-10",
+      "people": 4,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "gv5-221",
+      "level": 1,
+      "label": "I settle the shape of my own set and its cards by what feels right and fun to me",
+      "parent": "bv5-1",
+      "people": 4,
+      "satisfaction": 6.5
+    },
+    {
+      "id": "gv5-222",
+      "level": 1,
+      "label": "I judge from a playtest whether a card in my own game needs to change",
+      "parent": "bv5-1",
+      "people": 5,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "gv5-223",
+      "level": 1,
+      "label": "I design my game around the people I'm making it for",
+      "parent": "bv5-1",
+      "people": 5,
+      "satisfaction": 5.8
+    },
+    {
+      "id": "gv5-240",
+      "level": 1,
+      "label": "I keep testing and adjusting my print settings and paper until my cards read and look right",
+      "parent": "bv5-2",
+      "people": 5,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "gv5-241",
+      "level": 1,
+      "label": "I'm happy and proud that the cards I make finally come out the way I want",
+      "parent": "bv5-2",
+      "people": 11,
+      "satisfaction": 8.6
+    },
+    {
+      "id": "gv5-249",
+      "level": 1,
+      "label": "I choose and adapt my paints, tools and prep by what works on the card and what this piece needs",
+      "parent": "bv5-3",
+      "people": 4,
+      "satisfaction": 6.2
+    },
+    {
+      "id": "gv5-258",
+      "level": 1,
+      "label": "I look back at a piece of my card art and judge what worked and what didn't",
+      "parent": "bv5-3",
+      "people": 5,
+      "satisfaction": 5.6
+    },
+    {
+      "id": "gv5-261",
+      "level": 1,
+      "label": "I enjoy illustrating and painting, most of all when I get to draw what I love",
+      "parent": "bv5-3",
+      "people": 5,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "gv6-10",
+      "level": 1,
+      "label": "I love just looking at a shop's display of rare cards I'd never see at home, whether or not I buy",
+      "parent": "b8",
+      "people": 4,
+      "satisfaction": 8.5
+    },
+    {
+      "id": "gv6-59",
+      "level": 1,
+      "label": "When I travel I go for the cards I can't get or never see at home",
+      "parent": "b37",
+      "people": 4,
+      "satisfaction": 7.5
+    },
+    {
+      "id": "gv6-65",
+      "level": 1,
+      "label": "What I bought is damaged, sent back or stolen on its way to me, and I'm dismayed with little I can do",
+      "parent": "b37",
+      "people": 4,
+      "satisfaction": 1.5
+    },
+    {
+      "id": "gv6-68",
+      "level": 1,
+      "label": "A card or a box at a good price tempts me and I go for it",
+      "parent": "b38",
+      "people": 6,
+      "satisfaction": 7.3
+    },
+    {
+      "id": "gv6-70",
+      "level": 1,
+      "label": "I spread my buying across shops by where the prices are fair, and walk away from the overpriced ones",
+      "parent": "b38",
+      "people": 6,
+      "satisfaction": 5.2
+    },
+    {
+      "id": "gv6-82",
+      "level": 1,
+      "label": "I'm astonished at how much a card sells for",
+      "parent": "b39",
+      "people": 4,
+      "satisfaction": 5
+    },
+    {
+      "id": "gv6-90",
+      "level": 1,
+      "label": "I take a sealed product for real and find out it was fake all along",
+      "parent": "b41",
+      "people": 6,
+      "satisfaction": 1.7
+    },
+    {
+      "id": "gv6-186",
+      "level": 1,
+      "label": "I use the cards my pupils are obsessed with as a classroom reward and work out how to get them and hand them out",
+      "parent": "bv6-1",
+      "people": 5,
+      "satisfaction": 6
+    },
+    {
+      "id": "gv7-32",
+      "level": 1,
+      "label": "I work out how to make the game work when more people want to play than it is made for",
+      "parent": "b7",
+      "people": 4,
+      "satisfaction": 4.5
+    },
+    {
+      "id": "gv7-92",
+      "level": 1,
+      "label": "I feel fortunate in the card work I get to do and the team I do it with",
+      "parent": "bv6-2",
+      "people": 6,
+      "satisfaction": 8.8
+    },
+    {
+      "id": "gv7-101",
+      "level": 1,
+      "label": "I'm thrilled to meet the collectors and sellers our platform serves and share in their excitement",
+      "parent": "bv6-2",
+      "people": 6,
+      "satisfaction": 8.7
+    },
+    {
+      "id": "gv7-258",
+      "level": 1,
+      "label": "I design a custom card to give a deck or set I care about what it is missing",
+      "parent": "bv7-1",
+      "people": 4,
+      "satisfaction": 5.8
+    }
+  ],
+  "solutions": [
+    {
+      "name": "eBay",
+      "kind": "tool",
+      "url": "https://www.ebay.com",
+      "domain": "ebay.com",
+      "placements": [
+        {
+          "section": "g191",
+          "use": "Keep a high-end card listed and watch comparable sale prices to decide whether to pull it."
+        },
+        {
+          "section": "g195",
+          "use": "Check what a card of mine goes for, and pick up underpriced lots with a best offer."
+        },
+        {
+          "section": "g199",
+          "use": "List cards for sale there, though the fees eat into every sale."
+        },
+        {
+          "section": "g204",
+          "use": "Buy or sell cards there while weighing seller feedback and the risk of scams."
+        },
+        {
+          "section": "g206",
+          "use": "Check recent sales of the exact card to judge whether an asking price is fair."
+        },
+        {
+          "section": "g208",
+          "use": "Buy the cards I want there once I see how little the shop will credit for mine."
+        },
+        {
+          "section": "gv3-48",
+          "use": "Use its international shipping so I am covered as a seller once the parcel reaches the hub."
+        },
+        {
+          "section": "gv5-152",
+          "use": "Sold sealed product there until returns of opened boxes and fees made me quit."
+        },
+        {
+          "section": "gv5-158",
+          "use": "Send out what I sell there in perfect shape so buyers are happy when it arrives."
+        },
+        {
+          "section": "gv5-159",
+          "use": "Work out whether a rigid top loader is allowed in this cheap tracked envelope for cards."
+        },
+        {
+          "section": "gv5-166",
+          "use": "List a new collection well above market to see what prices hold, and drop them later if nothing sells."
+        },
+        {
+          "section": "gv5-172",
+          "use": "List my card there and wonder after weeks why it has not sold."
+        }
+      ]
+    },
+    {
+      "name": "TCGplayer",
+      "kind": "product",
+      "url": "https://www.tcgplayer.com",
+      "domain": "tcgplayer.com",
+      "placements": [
+        {
+          "section": "g204",
+          "use": "Sell there and deal with buyers who claim an order never came."
+        },
+        {
+          "section": "g206",
+          "use": "Use its market price and lowest listing as the reference when I make or answer an offer."
+        },
+        {
+          "section": "g208",
+          "use": "Look for listings of a promo I can't find any other way to get in my country."
+        },
+        {
+          "section": "gv3-48",
+          "use": "Sell casually to establish an account so I can sell my collection singles later."
+        },
+        {
+          "section": "gv5-151",
+          "use": "Sell on it, where joining Direct took away the control I had over my prices."
+        },
+        {
+          "section": "gv5-152",
+          "use": "Sell on it and watch buyers scam sellers while it does nothing."
+        },
+        {
+          "section": "gv5-166",
+          "use": "Price competitively for volume so I can qualify for Direct."
+        },
+        {
+          "section": "g26",
+          "use": "Buy the single cards my deck is still missing instead of opening more boxes."
+        }
+      ]
+    },
+    {
+      "name": "PSA",
+      "kind": "product",
+      "url": "https://www.psacard.com",
+      "domain": "psacard.com",
+      "placements": [
+        {
+          "section": "g191",
+          "use": "Look up how many top-grade copies exist to judge how scarce a card really is before I buy."
+        },
+        {
+          "section": "g194",
+          "use": "Send cards in to be graded and wait for them to come back."
+        },
+        {
+          "section": "g195",
+          "use": "Send cheap finds I like for grading and see what grade they come back."
+        },
+        {
+          "section": "g157",
+          "use": "Get hold of a graded copy so I finally own the card in a top-grade slab."
+        },
+        {
+          "section": "g177",
+          "use": "Send in a cheap card whose art I love and whose condition looks good to try for a top grade."
+        },
+        {
+          "section": "g178",
+          "use": "Buy the top-graded copy of a card I love, weighing its value as well as my liking."
+        }
+      ]
+    },
+    {
+      "name": "YouTube",
+      "kind": "tool",
+      "url": "https://www.youtube.com",
+      "domain": "youtube.com",
+      "placements": [
+        {
+          "section": "gv5-67",
+          "use": "Check that nothing like my video exists there before making it."
+        },
+        {
+          "section": "g69",
+          "use": "Watch beginner guides before my first card show to learn how to approach vendors."
+        },
+        {
+          "section": "g81",
+          "use": "Open my video with the incident so I can say what I think about it."
+        },
+        {
+          "section": "g103",
+          "use": "Watch videos about card shows until I decide we should just host one ourselves."
+        },
+        {
+          "section": "g146",
+          "use": "Watch restock videos that take me back to when I made the same kind myself."
+        },
+        {
+          "section": "g171",
+          "use": "Watch other collectors' haul videos for clues about restock days near me."
+        }
+      ]
+    },
+    {
+      "name": "Discord",
+      "kind": "tool",
+      "url": "https://discord.com",
+      "domain": "discord.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Go to a server for the game and ask how to fix one effect that is too strong in our home games."
+        },
+        {
+          "section": "g106",
+          "use": "Open channels in several languages so newcomers can talk with us and the community in their own."
+        },
+        {
+          "section": "g112",
+          "use": "Join a server and play remote matches so I face people other than my spouse."
+        },
+        {
+          "section": "g113",
+          "use": "Set up or join a server to get closer to players and look for a group."
+        }
+      ]
+    },
+    {
+      "name": "Walmart",
+      "kind": "tool",
+      "url": "https://www.walmart.com",
+      "domain": "walmart.com",
+      "placements": [
+        {
+          "section": "g204",
+          "use": "Buy packs as a gift and then wonder whether repackaged ones are sound."
+        },
+        {
+          "section": "g152",
+          "use": "Check the card shelf to see whether new product ever arrives or only repacks are on sale."
+        },
+        {
+          "section": "g165",
+          "use": "Check the restocked packs on the shelf and pick by what I can see inside."
+        },
+        {
+          "section": "g171",
+          "use": "Keep coming back on the weekday that seems to have the most product."
+        }
+      ]
+    },
+    {
+      "name": "note",
+      "kind": "tool",
+      "url": "https://note.com",
+      "domain": "note.com",
+      "placements": [
+        {
+          "section": "g209",
+          "use": "Publish my deck write-up and tuning log so I and others can see why each card is there."
+        },
+        {
+          "section": "g212",
+          "use": "Write up my own experience and feelings about the game as a post."
+        },
+        {
+          "section": "g33",
+          "use": "Write up my matches afterwards, which is when I notice how badly I played."
+        },
+        {
+          "section": "g106",
+          "use": "Write up a guide so beginners can pick up wins at the coming shop events."
+        }
+      ]
+    },
+    {
+      "name": "Duel Masters Play's",
+      "kind": "product",
+      "url": "https://dmps.takaratomy.co.jp",
+      "domain": "dmps.takaratomy.co.jp",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Play the app and find out from how it enforces things that I had the rules wrong."
+        },
+        {
+          "section": "g110",
+          "use": "Play the online game and end up with friends I joke around with like old mates."
+        },
+        {
+          "section": "g132",
+          "use": "Play the digital version with the cards I learned as a child."
+        },
+        {
+          "section": "g134",
+          "use": "Download the app and play the game I remember again."
+        }
+      ]
+    },
+    {
+      "name": "Pokémon TCG Live",
+      "kind": "product",
+      "url": "https://tcg.pokemon.com/en-us/tcgl/",
+      "domain": "pokemon.com",
+      "placements": [
+        {
+          "section": "g3",
+          "use": "Play the deck on the online ladder and watch whether my rating holds before I trust it."
+        },
+        {
+          "section": "g40",
+          "use": "Play the matchup online many times, so I know going in how much I dread it."
+        },
+        {
+          "section": "g50",
+          "use": "Play practice games against other people online whenever I have time, without waiting for a store event."
+        }
+      ]
+    },
+    {
+      "name": "Reddit",
+      "kind": "tool",
+      "url": "https://www.reddit.com",
+      "domain": "reddit.com",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Come across another player's post about a combination that makes me want to build it."
+        },
+        {
+          "section": "g69",
+          "use": "Search the subreddit for answers and ask again when the last post is years old."
+        },
+        {
+          "section": "g134",
+          "use": "Find the game's community once I know I love the game."
+        }
+      ]
+    },
+    {
+      "name": "Target",
+      "kind": "tool",
+      "url": "https://www.target.com",
+      "domain": "target.com",
+      "placements": [
+        {
+          "section": "g191",
+          "use": "Buy sealed boxes off the shelf while nobody wants them, to hold for later."
+        },
+        {
+          "section": "g123",
+          "use": "Pick up a pack for my kid on our next shopping trip."
+        },
+        {
+          "section": "g171",
+          "use": "Work out which weekday my local store restocks so I go on that day."
+        }
+      ]
+    },
+    {
+      "name": "Mercari",
+      "kind": "tool",
+      "url": "https://www.mercari.com",
+      "domain": "mercari.com",
+      "placements": [
+        {
+          "section": "g193",
+          "use": "Sell a card in poor condition as it is rather than pay to grade it."
+        },
+        {
+          "section": "g199",
+          "use": "Turn over cheap cards in small lots, working the fee and postage into the price."
+        },
+        {
+          "section": "g208",
+          "use": "Buy the card there after walking the local shops and not finding it."
+        }
+      ]
+    },
+    {
+      "name": "Cardmarket",
+      "kind": "product",
+      "url": "https://www.cardmarket.com",
+      "domain": "cardmarket.com",
+      "placements": [
+        {
+          "section": "g203",
+          "use": "Chase support to release a withdrawal that keeps bouncing back."
+        },
+        {
+          "section": "g204",
+          "use": "Buy from a seller there and then wait, unsure the cards will ever arrive."
+        },
+        {
+          "section": "gv5-172",
+          "use": "List my card there as well and get no buyer for weeks."
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "kind": "tool",
+      "url": "https://www.amazon.com",
+      "domain": "amazon.com",
+      "placements": [
+        {
+          "section": "gv5-152",
+          "use": "Sold cards there until false claims and being pulled off listings made me close the account."
+        },
+        {
+          "section": "g64",
+          "use": "Preorder the new set to play at home instead of going to the prerelease."
+        },
+        {
+          "section": "g137",
+          "use": "Order several ready-built decks at once to get started."
+        }
+      ]
+    },
+    {
+      "name": "Facebook Marketplace",
+      "kind": "tool",
+      "url": "https://www.facebook.com/marketplace",
+      "domain": "facebook.com",
+      "placements": [
+        {
+          "section": "g199",
+          "use": "List a sealed box for local pickup so I do not have to post it."
+        },
+        {
+          "section": "gv5-172",
+          "use": "List a sealed box there and see from a week of few views that nobody wants it."
+        }
+      ]
+    },
+    {
+      "name": "Facebook groups",
+      "kind": "tool",
+      "url": "https://www.facebook.com/groups",
+      "domain": "facebook.com",
+      "placements": [
+        {
+          "section": "g199",
+          "use": "Post my cards across many groups at once instead of taking a table."
+        },
+        {
+          "section": "gv6-186",
+          "use": "Ask friends there for old cards gathering dust that I can hand out in class."
+        }
+      ]
+    },
+    {
+      "name": "PayPal",
+      "kind": "tool",
+      "url": "https://www.paypal.com",
+      "domain": "paypal.com",
+      "placements": [
+        {
+          "section": "g206",
+          "use": "Pay or take the cash difference in a trade."
+        },
+        {
+          "section": "g207",
+          "use": "Ask to be paid as friends and family once I have a long trade record."
+        }
+      ]
+    },
+    {
+      "name": "Spreadsheet",
+      "kind": "tool",
+      "url": "https://workspace.google.com/products/sheets/",
+      "domain": "sheets.google.com",
+      "placements": [
+        {
+          "section": "g214",
+          "use": "Log decklists I find, though no longer every one because it takes too long."
+        },
+        {
+          "section": "gv3-42",
+          "use": "Tracked our playgroup's matches in it until the mess pushed me to build a tracker."
+        }
+      ]
+    },
+    {
+      "name": "USPS",
+      "kind": "tool",
+      "url": "https://www.usps.com",
+      "domain": "usps.com",
+      "placements": [
+        {
+          "section": "gv3-48",
+          "use": "Ship singles by plain mail, which has become too much of a headache without a higher shipping charge."
+        },
+        {
+          "section": "gv5-159",
+          "use": "Send cards by First Class letter or a Click-N-Ship label and try to get a tracking number from it."
+        }
+      ]
+    },
+    {
+      "name": "Bandai TCG+",
+      "kind": "product",
+      "url": "https://www.bandai-tcg-plus.com",
+      "domain": "bandai-tcg-plus.com",
+      "placements": [
+        {
+          "section": "gv3-73",
+          "use": "Register my deck and results in the app, then get told to write them on paper too."
+        },
+        {
+          "section": "g68",
+          "use": "Look up my shop's prerelease listing, though it is wrong often enough that I phone as well."
+        }
+      ]
+    },
+    {
+      "name": "Whatnot",
+      "kind": "product",
+      "url": "https://www.whatnot.com",
+      "domain": "whatnot.com",
+      "placements": [
+        {
+          "section": "gv5-136",
+          "use": "Break what I buy on stream, so the fees and overhead set how much I can pay for stock."
+        },
+        {
+          "section": "gv5-151",
+          "use": "Sell through the app and find it slow for how popular it is."
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "kind": "tool",
+      "url": "https://www.google.com",
+      "domain": "google.com",
+      "placements": [
+        {
+          "section": "g31",
+          "use": "Look up my next opponent's deck type before the match to get the general idea of how it works."
+        },
+        {
+          "section": "g69",
+          "use": "Look up how card interactions work in the middle of our first games."
+        }
+      ]
+    },
+    {
+      "name": "MTG Arena",
+      "kind": "product",
+      "url": "https://magic.wizards.com/en/mtgarena",
+      "domain": "wizards.com",
+      "placements": [
+        {
+          "section": "g43",
+          "use": "Do the tutorial first, then go to an in-person event to learn the steps before a match that it does not show."
+        },
+        {
+          "section": "g134",
+          "use": "Play a bit online to see whether I want to dive back in."
+        }
+      ]
+    },
+    {
+      "name": "Jinteki.net",
+      "kind": "product",
+      "url": "https://www.jinteki.net",
+      "domain": "jinteki.net",
+      "placements": [
+        {
+          "section": "g67",
+          "use": "Play online now that the local scene has dried up."
+        },
+        {
+          "section": "g106",
+          "use": "Play beginner teaching games online with other fresh players instead of facing veterans."
+        }
+      ]
+    },
+    {
+      "name": "Kickstarter",
+      "kind": "tool",
+      "url": "https://www.kickstarter.com",
+      "domain": "kickstarter.com",
+      "placements": [
+        {
+          "section": "g108",
+          "use": "Watch how much new card games raise to judge whether indie games can still launch."
+        },
+        {
+          "section": "g162",
+          "use": "Back the game early so the product costs me next to nothing for what I get."
+        }
+      ]
+    },
+    {
+      "name": "Pokémon Center",
+      "kind": "product",
+      "url": "https://www.pokemoncenter.com",
+      "domain": "pokemoncenter.com",
+      "placements": [
+        {
+          "section": "g108",
+          "use": "Watch how easily people got stock in the latest drop to judge whether demand is cooling."
+        },
+        {
+          "section": "g152",
+          "use": "Buy the trainer box direct and see how the maker packs and treats what I paid for."
+        }
+      ]
+    },
+    {
+      "name": "MTGTop8",
+      "kind": "product",
+      "url": "https://www.mtgtop8.com",
+      "domain": "mtgtop8.com",
+      "placements": [
+        {
+          "section": "g7",
+          "use": "Post my store's event decklists and read through them to learn what my local field plays."
+        }
+      ]
+    },
+    {
+      "name": "MarvelCDB",
+      "kind": "product",
+      "url": "https://marvelcdb.com",
+      "domain": "marvelcdb.com",
+      "placements": [
+        {
+          "section": "g10",
+          "use": "Browse published decks until one grabs me by what it runs."
+        }
+      ]
+    },
+    {
+      "name": "BG Stats",
+      "kind": "tool",
+      "url": "https://www.bgstatsapp.com",
+      "domain": "bgstatsapp.com",
+      "placements": [
+        {
+          "section": "g14",
+          "use": "Record every play so I can see which of my decks win too often and rebalance them."
+        }
+      ]
+    },
+    {
+      "name": "FedEx",
+      "kind": "tool",
+      "url": "https://www.fedex.com",
+      "domain": "fedex.com",
+      "placements": [
+        {
+          "section": "g203",
+          "use": "Open a ticket with the carrier to get a lost order found."
+        }
+      ]
+    },
+    {
+      "name": "Buyee",
+      "kind": "tool",
+      "url": "https://buyee.jp",
+      "domain": "buyee.jp",
+      "placements": [
+        {
+          "section": "g203",
+          "use": "Ask the buying service to take up a problem with a seller I cannot reach myself."
+        }
+      ]
+    },
+    {
+      "name": "Imgur",
+      "kind": "tool",
+      "url": "https://imgur.com",
+      "domain": "imgur.com",
+      "placements": [
+        {
+          "section": "g207",
+          "use": "Have the other trader link photos of what they have to offer."
+        }
+      ]
+    },
+    {
+      "name": "Fanatics Collect",
+      "kind": "product",
+      "url": "https://www.fanaticscollect.com",
+      "domain": "fanaticscollect.com",
+      "placements": [
+        {
+          "section": "g208",
+          "use": "Pick up a hard-to-find graded card when it pops up there."
+        }
+      ]
+    },
+    {
+      "name": "X",
+      "kind": "tool",
+      "url": "https://x.com",
+      "domain": "x.com",
+      "placements": [
+        {
+          "section": "g209",
+          "use": "Kept my deck experiments there until I lost track of them."
+        }
+      ]
+    },
+    {
+      "name": "Twitch",
+      "kind": "tool",
+      "url": "https://www.twitch.tv",
+      "domain": "twitch.tv",
+      "placements": [
+        {
+          "section": "g216",
+          "use": "Record the weekly news live and roll straight into the tournament."
+        }
+      ]
+    },
+    {
+      "name": "Instagram",
+      "kind": "tool",
+      "url": "https://www.instagram.com",
+      "domain": "instagram.com",
+      "placements": [
+        {
+          "section": "g216",
+          "use": "Post some painting videos as reels for more views while keeping the calmer long ones."
+        }
+      ]
+    },
+    {
+      "name": "Card Conduit",
+      "kind": "product",
+      "url": "https://cardconduit.com",
+      "domain": "cardconduit.com",
+      "placements": [
+        {
+          "section": "g235",
+          "use": "Send my cards in and let them handle the selling, with a quick turnaround."
+        }
+      ]
+    },
+    {
+      "name": "Yu-Gi-Oh! Master Duel",
+      "kind": "product",
+      "url": "https://www.konami.com/yugioh/masterduel",
+      "domain": "konami.com",
+      "placements": [
+        {
+          "section": "gv3-42",
+          "use": "Tried it for the feel I wanted and didn't get it, so I started my own game."
+        }
+      ]
+    },
+    {
+      "name": "Yu-Gi-Oh! Duel Links",
+      "kind": "product",
+      "url": "https://www.konami.com/yugioh/duel_links",
+      "domain": "duellinks.konami.net",
+      "placements": [
+        {
+          "section": "gv3-42",
+          "use": "Tried it for the feel I wanted and didn't get it, so I started my own game."
+        }
+      ]
+    },
+    {
+      "name": "EDHREC",
+      "kind": "product",
+      "url": "https://edhrec.com",
+      "domain": "edhrec.com",
+      "placements": [
+        {
+          "section": "gv3-78",
+          "use": "Analyze many commander pages with my brother to see what makes them more or less diverse."
+        }
+      ]
+    },
+    {
+      "name": "MakePlayingCards",
+      "kind": "product",
+      "url": "https://www.makeplayingcards.com",
+      "domain": "makeplayingcards.com",
+      "placements": [
+        {
+          "section": "gv5-1",
+          "use": "Order my cards printed instead of buying the real ones."
+        }
+      ]
+    },
+    {
+      "name": "Dragon Shield",
+      "kind": "product",
+      "url": "https://www.dragonshield.com",
+      "domain": "dragonshield.com",
+      "placements": [
+        {
+          "section": "gv5-78",
+          "use": "Used their tight sleeves before and had cards poke out the tops, so I test new ones against that."
+        }
+      ]
+    },
+    {
+      "name": "GTS Distribution",
+      "kind": "product",
+      "url": "https://www.gtsdistribution.com",
+      "domain": "gtsdistribution.com",
+      "placements": [
+        {
+          "section": "gv5-132",
+          "use": "Apply for a direct account so I can get product, and get told to host tournaments first."
+        }
+      ]
+    },
+    {
+      "name": "Southern Hobby",
+      "kind": "product",
+      "url": "https://www.southernhobby.com",
+      "domain": "southernhobby.com",
+      "placements": [
+        {
+          "section": "gv5-132",
+          "use": "Apply for a direct account so I can get product, and get refused without a reason."
+        }
+      ]
+    },
+    {
+      "name": "Alliance Game Distributors",
+      "kind": "product",
+      "url": "https://www.alliance-games.com",
+      "domain": "alliance-games.com",
+      "placements": [
+        {
+          "section": "gv5-136",
+          "use": "Look into them as a nearby distributor and find them one of the dearer places to buy from."
+        }
+      ]
+    },
+    {
+      "name": "TikTok Shop",
+      "kind": "tool",
+      "url": "https://shop.tiktok.com",
+      "domain": "tiktok.com",
+      "placements": [
+        {
+          "section": "gv5-152",
+          "use": "Sell on it and get my withdrawals blocked and my daily orders capped."
+        }
+      ]
+    },
+    {
+      "name": "Pirate Ship",
+      "kind": "tool",
+      "url": "https://www.pirateship.com",
+      "domain": "pirateship.com",
+      "placements": [
+        {
+          "section": "gv5-159",
+          "use": "Buy discounted postage labels with tracking for card mailers without paying the marketplace's label price."
+        }
+      ]
+    },
+    {
+      "name": "EDOPro",
+      "kind": "product",
+      "url": "https://projectignis.github.io",
+      "domain": "projectignis.github.io",
+      "placements": [
+        {
+          "section": "gv5-222",
+          "use": "Load my custom cards into the simulator and play them to see what breaks."
+        }
+      ]
+    },
+    {
+      "name": "Duelingbook",
+      "kind": "product",
+      "url": "https://www.duelingbook.com",
+      "domain": "duelingbook.com",
+      "placements": [
+        {
+          "section": "gv5-222",
+          "use": "Do some light playtesting of my custom deck online and find it loops too much."
+        }
+      ]
+    },
+    {
+      "name": "ChatGPT",
+      "kind": "tool",
+      "url": "https://chatgpt.com",
+      "domain": "chatgpt.com",
+      "placements": [
+        {
+          "section": "gv5-240",
+          "use": "Talk through my printer settings with it and land on a semi-gloss setting when prints come out too dark."
+        }
+      ]
+    },
+    {
+      "name": "Book-Off",
+      "kind": "tool",
+      "url": "https://www.bookoff.co.jp",
+      "domain": "bookoff.co.jp",
+      "placements": [
+        {
+          "section": "gv6-59",
+          "use": "Pick up a discounted card I have never seen before while I am in Japan."
+        }
+      ]
+    },
+    {
+      "name": "Barnes & Noble",
+      "kind": "tool",
+      "url": "https://www.barnesandnoble.com",
+      "domain": "barnesandnoble.com",
+      "placements": [
+        {
+          "section": "gv6-68",
+          "use": "Grab the core set in the clearance sale at three quarters off."
+        }
+      ]
+    },
+    {
+      "name": "ClassDojo",
+      "kind": "tool",
+      "url": "https://www.classdojo.com",
+      "domain": "classdojo.com",
+      "placements": [
+        {
+          "section": "gv6-186",
+          "use": "Think about letting pupils swap their class points one for one for cards."
+        }
+      ]
+    },
+    {
+      "name": "Duels.ink",
+      "kind": "product",
+      "url": "https://duels.ink",
+      "domain": "duels.ink",
+      "placements": [
+        {
+          "section": "g16",
+          "use": "Look through the cards as a new player to work out which colour to pair with the half of my deck I like."
+        }
+      ]
+    },
+    {
+      "name": "YGOResources",
+      "kind": "product",
+      "url": "https://ygoresources.com",
+      "domain": "ygoresources.com",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Search the rules database for my scenario when the wiki has no answer."
+        }
+      ]
+    },
+    {
+      "name": "Scryfall",
+      "kind": "product",
+      "url": "https://scryfall.com",
+      "domain": "scryfall.com",
+      "placements": [
+        {
+          "section": "g41",
+          "use": "Open the card's page and read the official rulings listed under it before I argue how it works."
+        }
+      ]
+    },
+    {
+      "name": "Karabast",
+      "kind": "product",
+      "url": "https://karabast.net",
+      "domain": "karabast.net",
+      "placements": [
+        {
+          "section": "g42",
+          "use": "Play my games on it and then check with others whether it resolved an interaction correctly."
+        }
+      ]
+    },
+    {
+      "name": "SWUDB",
+      "kind": "product",
+      "url": "https://swudb.com",
+      "domain": "swudb.com",
+      "placements": [
+        {
+          "section": "g42",
+          "use": "Search for decks on it and cannot tell whether searching by name or author is missing or I am missing it."
+        }
+      ]
+    },
+    {
+      "name": "Null Signal Games",
+      "kind": "product",
+      "url": "https://nullsignal.games",
+      "domain": "nullsignal.games",
+      "placements": [
+        {
+          "section": "g64",
+          "use": "Look at the prizes and effort the organisers are putting in to decide the trip is worth it."
+        }
+      ]
+    },
+    {
+      "name": "Board Game Arena",
+      "kind": "tool",
+      "url": "https://boardgamearena.com",
+      "domain": "boardgamearena.com",
+      "placements": [
+        {
+          "section": "g67",
+          "use": "Play the starter decks online while I wait for my own copy to arrive."
+        }
+      ]
+    },
+    {
+      "name": "SpellTable",
+      "kind": "product",
+      "url": "https://spelltable.wizards.com",
+      "domain": "spelltable.wizards.com",
+      "placements": [
+        {
+          "section": "g73",
+          "use": "Play over webcam with strangers, which I was too anxious to try until recently."
+        }
+      ]
+    },
+    {
+      "name": "Melee",
+      "kind": "product",
+      "url": "https://melee.gg",
+      "domain": "melee.gg",
+      "placements": [
+        {
+          "section": "g100",
+          "use": "Check how many places the event still shows open before I go to the store."
+        }
+      ]
+    },
+    {
+      "name": "BOOTH",
+      "kind": "tool",
+      "url": "https://booth.pm",
+      "domain": "booth.pm",
+      "placements": [
+        {
+          "section": "g101",
+          "use": "List the accessory I made so other players can get hold of it."
+        }
+      ]
+    },
+    {
+      "name": "Mirrativ",
+      "kind": "tool",
+      "url": "https://www.mirrativ.com",
+      "domain": "mirrativ.com",
+      "placements": [
+        {
+          "section": "g113",
+          "use": "Stream the game there so people gather who I can then get to know."
+        }
+      ]
+    },
+    {
+      "name": "Telegram",
+      "kind": "tool",
+      "url": "https://telegram.org",
+      "domain": "telegram.org",
+      "placements": [
+        {
+          "section": "g113",
+          "use": "Start a group chat for players of my game because I cannot find a good one."
+        }
+      ]
+    },
+    {
+      "name": "OCTGN",
+      "kind": "product",
+      "url": "https://www.octgn.net",
+      "domain": "octgn.net",
+      "placements": [
+        {
+          "section": "g113",
+          "use": "Play online because nobody else in my town plays, though it only scratches the itch so far."
+        }
+      ]
+    },
+    {
+      "name": "Hareruya",
+      "kind": "product",
+      "url": "https://www.hareruyamtg.com",
+      "domain": "hareruyamtg.com",
+      "placements": [
+        {
+          "section": "g117",
+          "use": "Join a draft the shop owner pulls me into and keep going back to play there."
+        }
+      ]
+    },
+    {
+      "name": "CGC Cards",
+      "kind": "product",
+      "url": "https://www.cgccards.com",
+      "domain": "cgccards.com",
+      "placements": [
+        {
+          "section": "g118",
+          "use": "Get the cards for my charity giveaways graded, which they did without charging me."
+        }
+      ]
+    },
+    {
+      "name": "MPC Fill",
+      "kind": "product",
+      "url": "https://mpcfill.com",
+      "domain": "mpcfill.com",
+      "placements": [
+        {
+          "section": "g118",
+          "use": "Put together a large order of printed cards that I could not manage by hand."
+        }
+      ]
+    },
+    {
+      "name": "Steam",
+      "kind": "tool",
+      "url": "https://store.steampowered.com",
+      "domain": "store.steampowered.com",
+      "placements": [
+        {
+          "section": "g133",
+          "use": "Buy the series' new video game on launch day, which brings my enthusiasm back."
+        }
+      ]
+    },
+    {
+      "name": "Mandarake",
+      "kind": "product",
+      "url": "https://www.mandarake.co.jp",
+      "domain": "mandarake.co.jp",
+      "placements": [
+        {
+          "section": "g162",
+          "use": "Pick up a box there at a price that makes the pulls feel like good value."
+        }
+      ]
+    },
+    {
+      "name": "Suruga-ya",
+      "kind": "product",
+      "url": "https://www.suruga-ya.jp",
+      "domain": "suruga-ya.jp",
+      "placements": [
+        {
+          "section": "g170",
+          "use": "Buy packs on release day when every lottery has turned me down."
+        }
+      ]
+    },
+    {
+      "name": "Yodobashi",
+      "kind": "tool",
+      "url": "https://www.yodobashi.com",
+      "domain": "yodobashi.com",
+      "placements": [
+        {
+          "section": "g170",
+          "use": "Go to the store where I can usually buy the new release."
+        }
+      ]
+    },
+    {
+      "name": "Joshin",
+      "kind": "tool",
+      "url": "https://joshinweb.jp",
+      "domain": "joshinweb.jp",
+      "placements": [
+        {
+          "section": "g170",
+          "use": "Enter the purchase lottery for the box I want."
+        }
+      ]
+    },
+    {
+      "name": "GameStop",
+      "kind": "tool",
+      "url": "https://www.gamestop.com",
+      "domain": "gamestop.com",
+      "placements": [
+        {
+          "section": "g170",
+          "use": "Check it as my last place to find the cards when everywhere else is out."
+        }
+      ]
+    },
+    {
+      "name": "Walgreens",
+      "kind": "tool",
+      "url": "https://www.walgreens.com",
+      "domain": "walgreens.com",
+      "placements": [
+        {
+          "section": "g171",
+          "use": "Ask a store worker which day the cards are restocked."
+        }
+      ]
+    },
+    {
+      "name": "Costco",
+      "kind": "tool",
+      "url": "https://www.costco.com",
+      "domain": "costco.com",
+      "placements": [
+        {
+          "section": "g174",
+          "use": "Take just a few boxes from the fresh pallet instead of filling a cart."
+        }
+      ]
+    },
+    {
+      "name": "Talishar",
+      "kind": "product",
+      "url": "https://talishar.net",
+      "domain": "talishar.net",
+      "placements": [
+        {
+          "section": "g174",
+          "use": "Play the deck I like online because the paper list costs more than I will pay."
+        }
+      ]
+    }
+  ]
+}

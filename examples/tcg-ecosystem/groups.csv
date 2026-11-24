@@ -1,0 +1,291 @@
+group_id,level,label,parent_id,parent_label,summaries,people
+n1,level3,I work at making my deck do what I want it to,,,585,156
+n2,level3,"I play for the love and fun of it, in my own way",,,388,183
+n3,level3,"I want to play the game right and well, and see how far I can go",,,923,227
+n4,level3,I'm finding my way into the game and my place in it,,,494,236
+n5,level3,The people are what I come for,,,335,185
+n6,level3,"I want the game to be there for other people, so I teach, host and bring them in",,,305,169
+n7,level3,I weigh what place the game has in my life,,,234,137
+n8,level3,I stake my hopes on chance and live with what it gives me,,,325,81
+n9,level3,"The cards themselves matter to me: I love them, keep them and look into them",,,304,140
+n10,level3,"I take care over how I get, pay for and part with cards",,,807,384
+n11,level3,"I want the game made, run and played fairly, and I mind when it isn't",,,434,200
+n12,level3,I read the game's stories and am pulled in or left cold by how they are told,,,30,9
+n13,level3,"I put what I know and feel about the game into something others can read, watch or hear",,,181,113
+nv3-1,level3,"I make a living, or part of one, from the game",,,481,192
+nv4-1,level3,"I make sense of who I am, where I come from and how I deal with people",,,135,29
+nv5-1,level3,"I make cards, card art and card games of my own and work at making them well",,,286,91
+b1,level2,"I build my deck to a purpose, choosing each card for what it does there",n1,I work at making my deck do what I want it to,199,55
+b2,level2,"I pick the deck that fits me, the field I expect and the occasion",n1,I work at making my deck do what I want it to,167,83
+b3,level2,I find out by trying what my cards and my deck are really worth,n1,I work at making my deck do what I want it to,143,65
+b4,level2,I build from the cards I have or can get,n1,I work at making my deck do what I want it to,76,41
+b5,level2,I play what I love and want my deck to be my own,n2,"I play for the love and fun of it, in my own way",139,62
+b6,level2,"I take delight in building, trying and playing my decks",n2,"I play for the love and fun of it, in my own way",85,53
+b7,level2,I shape our games so they are fun for everyone at the table,n2,"I play for the love and fun of it, in my own way",68,48
+b8,level2,"I enjoy the events and outings for themselves, whatever my result",n2,"I play for the love and fun of it, in my own way",96,68
+b9,level2,"I think my way through a game: before it, during it and afterwards",n3,"I want to play the game right and well, and see how far I can go",284,85
+b10,level2,I feel a game swing for me or against me as it goes,n3,"I want to play the game right and well, and see how far I can go",180,68
+b11,level2,I want to know what the rules really require,n3,"I want to play the game right and well, and see how far I can go",76,47
+b12,level2,I want to get better and measure myself against stronger players,n3,"I want to play the game right and well, and see how far I can go",163,87
+b13,level2,I go after a result and feel how it comes out,n3,"I want to play the game right and well, and see how far I can go",220,99
+b14,level2,Something draws me to the game and I take it up,n4,I'm finding my way into the game and my place in it,156,103
+b15,level2,I work out how things are done here and try to keep up,n4,I'm finding my way into the game and my place in it,104,65
+b16,level2,"I decide whether to turn up, and work up the nerve for it",n4,I'm finding my way into the game and my place in it,105,65
+b17,level2,"Once I try it, it is good and people make me welcome",n4,I'm finding my way into the game and my place in it,91,61
+b18,level2,The friends and familiar faces around the game are what I value most,n5,The people are what I come for,128,86
+b19,level2,"I want people to play with, face to face",n5,The people are what I come for,54,39
+b20,level2,I want to share the game with my family and see my child enjoy it,n5,The people are what I come for,64,40
+b21,level2,I'm grateful for what people do for me and want to give something back,n5,The people are what I come for,54,36
+b22,level2,What happens to my friends and fellow players matters to me like my own,n5,The people are what I come for,35,21
+b23,level2,I bring new people in and help them learn to play,n6,"I want the game to be there for other people, so I teach, host and bring them in",83,64
+b24,level2,I put on events for others and care that they work for everyone,n6,"I want the game to be there for other people, so I teach, host and bring them in",110,44
+b25,level2,I watch whether the scene around me is alive and will last,n6,"I want the game to be there for other people, so I teach, host and bring them in",58,48
+b26,level2,"I fit playing around the rest of my life and my energy, and miss it when I can't",n7,I weigh what place the game has in my life,84,65
+b27,level2,I ask whether the game is still worth what it takes from me,n7,I weigh what place the game has in my life,84,51
+b28,level2,I look back on what the game has been to me,n7,I weigh what place the game has in my life,39,27
+b29,level2,The game gives me something beyond the game itself,n7,I weigh what place the game has in my life,13,12
+b30,level2,I work out what kind of hobbyist I am,n7,I weigh what place the game has in my life,14,12
+b31,level2,I love opening packs and hope for the card I want,n8,I stake my hopes on chance and live with what it gives me,112,41
+b32,level2,"I take what the packs gave me: thrilled, let down or making the best of it",n8,I stake my hopes on chance and live with what it gives me,161,52
+b33,level2,"I look for signs and odds in what I can't know, and see my own hopes at work",n8,I stake my hopes on chance and live with what it gives me,52,15
+b34,level2,I collect the cards I love and the ones that mean something to me,n9,"The cards themselves matter to me: I love them, keep them and look into them",150,76
+b35,level2,"I keep my collection in order, look after it and work to complete it",n9,"The cards themselves matter to me: I love them, keep them and look into them",78,52
+b36,level2,I'm curious about the cards as made things,n9,"The cards themselves matter to me: I love them, keep them and look into them",43,23
+b37,level2,Getting to buy what I want is a struggle I plan around,n10,"I take care over how I get, pay for and part with cards",196,121
+b38,level2,I keep my spending within what makes sense for me,n10,"I take care over how I get, pay for and part with cards",120,62
+b39,level2,I weigh what a card is worth as money,n10,"I take care over how I get, pay for and part with cards",137,64
+b40,level2,"I decide what to sell, keep or pass on, and live with the choice",n10,"I take care over how I get, pay for and part with cards",117,96
+b41,level2,I want a straight deal and set my terms to get one,n10,"I take care over how I get, pay for and part with cards",202,122
+b42,level2,"I mind how people behave across the table, myself included",n11,"I want the game made, run and played fairly, and I mind when it isn't",104,57
+b43,level2,I keep my own deck and list within the rules,n11,"I want the game made, run and played fairly, and I mind when it isn't",17,13
+b44,level2,I take a stand on wrongs and arguments in the community,n11,"I want the game made, run and played fairly, and I mind when it isn't",64,39
+b45,level2,I judge how well the game and its products are designed,n11,"I want the game made, run and played fairly, and I mind when it isn't",120,55
+b46,level2,"I judge how the company, organizers and shops treat players",n11,"I want the game made, run and played fairly, and I mind when it isn't",129,80
+b47,level2,I follow a story from the game's world and react to how it is told,n12,I read the game's stories and am pulled in or left cold by how they are told,30,9
+b48,level2,I write up what I know and what I've been through,n13,"I put what I know and feel about the game into something others can read, watch or hear",50,34
+b49,level2,"I decide what goes into my video, show or survey and how",n13,"I put what I know and feel about the game into something others can read, watch or hear",93,64
+bv3-3,level2,I run my shop and keep it going,nv3-1,"I make a living, or part of one, from the game",43,27
+bv3-4,level2,"I build tools and analyses for the game, for myself and for others",n13,"I put what I know and feel about the game into something others can read, watch or hear",38,19
+bv3-5,level2,I resell cards for profit and find out whether I can make it pay,nv3-1,"I make a living, or part of one, from the game",172,68
+bv4-2,level2,As a woman I weigh whether card game spaces have room for me,n4,I'm finding my way into the game and my place in it,26,12
+bv5-1,level2,"I design my own card game and work out its cards, rules, theme and balance",nv5-1,"I make cards, card art and card games of my own and work at making them well",84,35
+bv5-2,level2,"I get my own cards printed and made the way I want them, working out process, cost and quality",nv5-1,"I make cards, card art and card games of my own and work at making them well",78,27
+bv5-3,level2,"I paint, alter and illustrate cards and work at getting the picture right",nv5-1,"I make cards, card art and card games of my own and work at making them well",65,22
+bv5-5,level2,"I choose the sleeves, boxes, mats and bags that go with my cards and judge how they serve me",n9,"The cards themselves matter to me: I love them, keep them and look into them",33,14
+bv5-6,level2,"I weigh starting a card business, opening a shop or going full-time, and what it asks of me",nv3-1,"I make a living, or part of one, from the game",60,27
+bv5-7,level2,"I secure product to sell, through distributors and whatever supply I can find",nv3-1,"I make a living, or part of one, from the game",62,29
+bv5-8,level2,I work the counter or the floor where cards are sold and deal with the people who come for them,nv3-1,"I make a living, or part of one, from the game",77,48
+bv5-10,level2,I live alongside someone else's card hobby and work out what it asks of me,nv4-1,"I make sense of who I am, where I come from and how I deal with people",37,14
+bv6-1,level2,"As a teacher I bring the cards my pupils love into school to reach and reward them, and handle the trouble the cards bring",n6,"I want the game to be there for other people, so I teach, host and bring them in",29,18
+bv6-2,level2,"I run or work in a company that serves the card trade, and answer for how it serves the people who use it",nv3-1,"I make a living, or part of one, from the game",54,32
+bv7-1,level2,I design custom cards for a game I already play and work at making them fit and play well,nv5-1,"I make cards, card art and card games of my own and work at making them well",17,9
+g1g2,level1,I put a card in or take it out by the job my deck needs done,b1,"I build my deck to a purpose, choosing each card for what it does there",106,31
+g3,level1,"I find out how good a card, a list or a deck really is, often not what I first thought",b3,I find out by trying what my cards and my deck are really worth,84,44
+g5,level1,I take a card or a count on the say-so of players who know the deck,b1,"I build my deck to a purpose, choosing each card for what it does there",13,10
+g6,level1,"I shape my deck, or pick it, for the opposing decks I expect to face",b2,"I pick the deck that fits me, the field I expect and the occasion",36,26
+g7,level1,I try to read what the field is playing and where it is heading,b2,"I pick the deck that fits me, the field I expect and the occasion",22,20
+g8,level1,I'm thrown by a matchup or a card I never expected to face,b2,"I pick the deck that fits me, the field I expect and the occasion",18,15
+g9,level1,I set out what I want this deck to do and build to that plan,b1,"I build my deck to a purpose, choosing each card for what it does there",15,9
+g10,level1,"A card, an idea or someone's deck grabs me and I want to build around it",b5,I play what I love and want my deck to be my own,44,24
+g11,level1,"I choose my cards and decks for love and fun, not only for what wins",b5,I play what I love and want my deck to be my own,48,32
+g12,level1,"I want a deck that is my own, off the beaten track, and I like it when people notice",b5,I play what I love and want my deck to be my own,17,14
+g14,level1,I want the decks at our table matched in power so the games stay fair to play,b7,I shape our games so they are fun for everyone at the table,18,10
+g15,level1,I bring the deck and the cards I know I can handle,b2,"I pick the deck that fits me, the field I expect and the occasion",34,26
+g16,level1,I'm working out which deck to play or build next,b2,"I pick the deck that fits me, the field I expect and the occasion",53,37
+g17,level1,My deck isn't doing what I built it to do,b3,I find out by trying what my cards and my deck are really worth,21,12
+g18,level1,I want to take my deck or an idea out and see how it really does,b3,I find out by trying what my cards and my deck are really worth,21,19
+g20,level1,I'm struck by how much a card or a deck can do,b3,I find out by trying what my cards and my deck are really worth,16,10
+g21,level1,This deck is a pleasure to play,b6,"I take delight in building, trying and playing my decks",19,15
+g22,level1,"I enjoy the work of building, tuning and preparing decks",b6,"I take delight in building, trying and playing my decks",8,7
+g23,level1,I like trying what I haven't done before and finding out as I go,b6,"I take delight in building, trying and playing my decks",21,16
+g24,level1,I'm looking forward to the new cards and what they will do for my deck or my favourite,b6,"I take delight in building, trying and playing my decks",26,13
+g25,level1,I make do with the cards I have rather than buy more,b4,I build from the cards I have or can get,11,10
+g26,level1,I realize how many cards I still lack for what I want to build or complete,b4,I build from the cards I have or can get,12,9
+g28,level1,For our joke game I pick decks and cards to needle my friends,b7,I shape our games so they are fun for everyone at the table,4,4
+g31,level1,"I work out my line of play against what my opponent has or might have, at the table or beforehand",b9,"I think my way through a game: before it, during it and afterwards",140,57
+g33,level1,"Looking back, I see what I got wrong and should have played differently",b9,"I think my way through a game: before it, during it and afterwards",100,47
+g34,level1,"I work out what decided the game: my play, theirs or the draw",b9,"I think my way through a game: before it, during it and afterwards",27,21
+g35,level1,I feel the draws and the die roll going for me or against me,b10,I feel a game swing for me or against me as it goes,48,25
+g36,level1,I think this game is slipping away or already lost,b10,I feel a game swing for me or against me as it goes,37,24
+g37,level1,I can't believe I came through that game,b10,I feel a game swing for me or against me as it goes,9,5
+g38,level1,I'm pleased with a play I made or a card that came through for me,b10,I feel a game swing for me or against me as it goes,15,15
+g39,level1,"That card or deck does too much to me, and I'm sore about losing to it",b10,I feel a game swing for me or against me as it goes,19,16
+g40,level1,I gauge how confident I feel going into the match,b10,I feel a game swing for me or against me as it goes,37,27
+g41,level1,I try to work out what this game's rules or card text actually require,b11,I want to know what the rules really require,54,37
+g42,level1,"I doubt the game client or tool handled it right, or wonder whether I misused it",b11,I want to know what the rules really require,8,4
+g43,level1,The materials and unexplained rules leave gaps that only people at the table can fill,b11,I want to know what the rules really require,11,9
+g44,level1,I work out the odds of drawing the pieces I need,b9,"I think my way through a game: before it, during it and afterwards",8,4
+g45,level1,I'm struggling to keep up with what is going on in the game and its pace,b15,I work out how things are done here and try to keep up,17,14
+g48,level1,I see I'm not yet at the level of the players and decks around me and have more to learn,b12,I want to get better and measure myself against stronger players,42,26
+g49,level1,"I value how the game makes me think and learn, even through losses",b12,I want to get better and measure myself against stronger players,16,14
+g50,level1,I practise ahead so I'm ready when it counts,b12,I want to get better and measure myself against stronger players,30,25
+g52,level1,"I want to compete seriously and win, not just take part",b12,I want to get better and measure myself against stronger players,21,17
+g53,level1,I hold a mark I want to reach and gauge where I stand against it,b13,I go after a result and feel how it comes out,44,24
+g55,level1,"I play for a particular prize, promo or points mark",b13,I go after a result and feel how it comes out,37,27
+g56,level1,It hurts to lose or fall short when I wanted it badly,b13,I go after a result and feel how it comes out,29,21
+g57,level1,"I'm happy and proud of how I did, whether a win or a finish that shows I can hold my own",b13,I go after a result and feel how it comes out,78,51
+g58,level1,"I had a great time at the event whatever my result, and I want to go again",b8,"I enjoy the events and outings for themselves, whatever my result",47,37
+g59,level1,"I want a real game against a strong opponent, and it is worth it even when I lose",b12,I want to get better and measure myself against stronger players,9,6
+g60,level1,Once I'm out of contention I decide whether to play on for the fun of it or drop for something better,b13,I go after a result and feel how it comes out,14,12
+g62,level1,"Trying the game or an event for the first time, I find it more fun and easier than I expected and want more",b17,"Once I try it, it is good and people make me welcome",44,37
+g63,level1,Once I kept coming it got easier: strangers became familiar and I started winning some,b17,"Once I try it, it is good and people make me welcome",8,5
+g64,level1,I decide whether to give this event a go,b16,"I decide whether to turn up, and work up the nerve for it",39,31
+g65,level1,I want to play and am sad when I can't get the chance,b26,"I fit playing around the rest of my life and my energy, and miss it when I can't",18,17
+g66,level1,"Other parts of my life come first, and I fit the game around them",b26,"I fit playing around the rest of my life and my energy, and miss it when I can't",21,21
+g67,level1,"When my usual way of playing falls away, I find another way to keep playing",b26,"I fit playing around the rest of my life and my energy, and miss it when I can't",22,19
+g68,level1,I work out the practical side of getting to the event and into it,b15,I work out how things are done here and try to keep up,17,14
+g69,level1,I'm new to this and finding out how things are done,b15,I work out how things are done here and try to keep up,36,26
+g71,level1,A long day of games wears me out,b26,"I fit playing around the rest of my life and my energy, and miss it when I can't",12,8
+g72,level1,"I'm nervous or scared going into an event, afraid I'm not ready or will get it wrong",b16,"I decide whether to turn up, and work up the nerve for it",24,15
+g73,level1,Dealing with people I don't know makes me nervous,b16,"I decide whether to turn up, and work up the nerve for it",11,9
+g74,level1,I size up the place and the crowd before I commit to it,b16,"I decide whether to turn up, and work up the nerve for it",6,5
+g75,level1,I don't want to be a burden or a bother to the people I play with,b16,"I decide whether to turn up, and work up the nerve for it",10,8
+g76,level1,I feel bad for my opponent when the game goes badly for them or a result stands in my favour that I didn't earn,b42,"I mind how people behave across the table, myself included",21,18
+g77,level1,"I catch myself in an ungenerous thought I wouldn't say aloud, and know it isn't fair",b42,"I mind how people behave across the table, myself included",7,4
+g78,level1,The way some players behave toward me at the table sours it,b42,"I mind how people behave across the table, myself included",24,14
+g81,level1,I have a view on a tournament-conduct argument people are having,b44,I take a stand on wrongs and arguments in the community,10,4
+g83,level1,What people post online about the hobby dismays or startles me,b44,I take a stand on wrongs and arguments in the community,10,9
+g87,level1,"A mismatch between my deck, my registered list or my sleeves can cost me a penalty, so I look for one and face up to it when it turns up",b43,I keep my own deck and list within the rules,15,11
+g94,level1,I want another go to put a loss right,b12,I want to get better and measure myself against stronger players,9,8
+g95,level1,"Getting to a big event, and the size of it, thrills me",b8,"I enjoy the events and outings for themselves, whatever my result",15,13
+g96,level1,I'm impressed by how well the event is set up and how much it gives players,b46,"I judge how the company, organizers and shops treat players",7,6
+g97,level1,I lean on other people's support to afford travelling to play,b26,"I fit playing around the rest of my life and my energy, and miss it when I can't",5,5
+g99,level1,"I came to play, and packs or promos alone aren't worth what it cost me",b19,"I want people to play with, face to face",6,4
+g100,level1,"The shop shut me out or put me off, and I can take my custom elsewhere",b46,"I judge how the company, organizers and shops treat players",8,8
+g101,level1,I'm glad to see people enjoying what I put on or made for them,b24,I put on events for others and care that they work for everyone,22,9
+g102,level1,"I set my event's rules so everyone can join, enjoy it and be treated fairly",b24,I put on events for others and care that they work for everyone,12,7
+g103,level1,"I want an event that suits us to exist, so I run it, push for it or keep it going",b24,I put on events for others and care that they work for everyone,31,24
+g105,level1,"I care about getting the game across so each learner follows and enjoys it, and I like doing it",b23,I bring new people in and help them learn to play,26,16
+g106,level1,"I want more people playing, so I bring them in and make a way in for newcomers",b23,I bring new people in and help them learn to play,33,32
+g108,level1,"I watch how alive the scene is: who turns up, what sells, whether it will hold",b25,I watch whether the scene around me is alive and will last,29,27
+g110,level1,"The people I get to be with and meet through the game, old friends and new faces, are what I come for and what make it worth it",b18,The friends and familiar faces around the game are what I value most,75,50
+g112,level1,"I want more and different people to play against, so I go where they are",b19,"I want people to play with, face to face",19,15
+g113,level1,I want company and friendships around the game and set out to find or build them,b18,The friends and familiar faces around the game are what I value most,23,22
+g114,level1,Playing across a real table with real cards is the experience I want,b19,"I want people to play with, face to face",14,12
+g115,level1,Seeing what other people bring and how they play it is part of why I come,b19,"I want people to play with, face to face",13,10
+g116,level1,"I enjoy finding and playing with people like me, who love what I love",b18,The friends and familiar faces around the game are what I value most,9,7
+g117,level1,"People welcomed and helped me as a beginner, and that put me at ease",b17,"Once I try it, it is good and people make me welcome",35,27
+g118,level1,I'm grateful to the people who go out of their way for me,b21,I'm grateful for what people do for me and want to give something back,36,27
+g119,level1,I want to repay or make it up to someone who did something for me,b21,I'm grateful for what people do for me and want to give something back,7,5
+g121,level1,"My friends', teammates' and students' results matter to me like my own",b22,What happens to my friends and fellow players matters to me like my own,23,15
+g122,level1,I see more and get further working on decks and plays together with others than alone,b12,I want to get better and measure myself against stronger players,10,6
+g123,level1,I want the game to be something my family and I share,b20,I want to share the game with my family and see my child enjoy it,29,23
+g124,level1,What I want is for my child to enjoy it and come away fine; the rest is theirs,b20,I want to share the game with my family and see my child enjoy it,16,7
+g125,level1,"I enjoy relaxed, peaceful games at home with friends and family",b7,I shape our games so they are fun for everyone at the table,7,7
+g127,level1,I pick the game that fits our table and time,b7,I shape our games so they are fun for everyone at the table,7,7
+g129,level1,I'm amused by the people I meet around the game,b18,The friends and familiar faces around the game are what I value most,9,9
+g130,level1,I turn to something I enjoy to lift a low mood,b29,The game gives me something beyond the game itself,7,7
+g131,level1,"Playing it our own way, with story and big moments, is what makes the game come alive for us",b7,I shape our games so they are fun for everyone at the table,7,7
+g132,level1,The cards and the way we played when I was a child pull me back and feel good to have again,b14,Something draws me to the game and I take it up,33,23
+g133,level1,"A series or character I already love pulls me into this card game, or back to it",b14,Something draws me to the game and I take it up,32,20
+g134,level1,"The game catches hold of me and I take it up, or come back to it",b14,Something draws me to the game and I take it up,55,44
+g136,level1,I start playing because friends or the people around me do,b14,Something draws me to the game and I take it up,12,12
+g137,level1,I take a ready-made deck as the easy way in,b14,Something draws me to the game and I take it up,11,10
+g138,level1,I've fallen behind on this game and need to catch up,b15,I work out how things are done here and try to keep up,10,5
+g139,level1,I'm losing my drive to keep playing,b27,I ask whether the game is still worth what it takes from me,12,10
+g140,level1,The direction the game and its scene have taken has cooled me on it,b27,I ask whether the game is still worth what it takes from me,30,20
+g141,level1,"Keeping up costs me more money and time than it gives back, so I cut back or let it go",b27,I ask whether the game is still worth what it takes from me,14,10
+g146,level1,I hold on to the memories of events and earlier days in the game,b28,I look back on what the game has been to me,19,16
+g147,level1,I work out whether I'm a player or a collector in this hobby,b30,I work out what kind of hobbyist I am,7,7
+g149,level1,I judge how well a game is designed from playing it and from learning why it is built that way,b45,I judge how well the game and its products are designed,51,31
+g150,level1,"I care whether the makers do right by the cards and mechanics, and say so when they don't",b45,I judge how well the game and its products are designed,29,16
+g152,level1,I think the company or the organizers are treating players badly,b46,"I judge how the company, organizers and shops treat players",30,19
+g156,level1,I love opening packs for its own sake and want more of it,b31,I love opening packs and hope for the card I want,37,16
+g157,level1,I'm thrilled with the card I pulled or finally got hold of,b32,"I take what the packs gave me: thrilled, let down or making the best of it",75,36
+g158,level1,"It's not the pull I hoped for, but I'll take it",b32,"I take what the packs gave me: thrilled, let down or making the best of it",13,10
+g159,level1,I open packs hoping for a particular card or a better pull,b31,I love opening packs and hope for the card I want,51,19
+g160,level1,"I read luck, signs and messages into what comes out of the packs",b33,"I look for signs and odds in what I can't know, and see my own hopes at work",13,5
+g161,level1,I'm let down when the packs don't give what I hoped for,b32,"I take what the packs gave me: thrilled, let down or making the best of it",36,10
+g162,level1,I rate how the opening went against what the product cost or should give,b32,"I take what the packs gave me: thrilled, let down or making the best of it",29,9
+g165,level1,I try to work out which packs or boxes give me a real chance at a hit,b33,"I look for signs and odds in what I can't know, and see my own hopes at work",12,6
+g166,level1,I judge what I open by what I can use in the decks I'm building or playing,b4,I build from the cards I have or can get,39,10
+g170,level1,"The product I want is scarce, so every sell-out or lost lottery stings and every purchase is a relief",b37,Getting to buy what I want is a struggle I plan around,54,30
+g171,level1,I plan how to better my chances of getting to buy,b37,Getting to buy what I want is a struggle I plan around,14,9
+g173,level1,I make an outing of my card errands and free time,b8,"I enjoy the events and outings for themselves, whatever my result",8,4
+g174,level1,I hold my buying to what my budget allows and what I'll really use,b38,I keep my spending within what makes sense for me,44,28
+g175,level1,I catch myself buying or entering far more than makes sense,b38,I keep my spending within what makes sense for me,15,10
+g177,level1,"I collect and keep the cards I love for their own sake, whatever they are worth",b34,I collect the cards I love and the ones that mean something to me,52,24
+g178,level1,"I want the special versions of the cards I love, and weigh what they cost me",b34,I collect the cards I love and the ones that mean something to me,22,14
+g179,level1,I find I prefer one version of a card over another,b34,I collect the cards I love and the ones that mean something to me,8,4
+g180,level1,This card or keepsake means something personal to me,b34,I collect the cards I love and the ones that mean something to me,21,14
+g181,level1,"I make cards of my own, designing or painting them myself",b34,I collect the cards I love and the ones that mean something to me,10,8
+g182,level1,I enjoy putting my cards in order and seeing them sit right in the binder,b35,"I keep my collection in order, look after it and work to complete it",16,12
+g183,level1,I take care not to damage the cards and things I treasure,b35,"I keep my collection in order, look after it and work to complete it",15,11
+g184,level1,"I'm working toward owning the complete set, bit by bit",b35,"I keep my collection in order, look after it and work to complete it",26,19
+g185,level1,I'm grateful to the artist and want their signature on my card,b34,I collect the cards I love and the ones that mean something to me,9,5
+g186,level1,"I'm curious about where a card came from and how it was made, and look closely to find out",b36,I'm curious about the cards as made things,29,16
+g191,level1,I weigh a card's scarcity and where its price is heading before I buy or sell,b39,I weigh what a card is worth as money,38,23
+g193,level1,Condition decides it for me: I won't settle for or bet on a flawed copy,b39,I weigh what a card is worth as money,15,9
+g194,level1,"I weigh whether sending a card for grading is worth the cost, the wait and parting with it",b39,I weigh what a card is worth as money,13,10
+g195,level1,I'm startled and pleased at how much a card I picked up cheaply turned out to be worth,b39,I weigh what a card is worth as money,11,7
+g196,level1,I regret having let my cards go,b40,"I decide what to sell, keep or pass on, and live with the choice",11,10
+g197,level1,I make peace with what I sold or traded away,b40,"I decide what to sell, keep or pass on, and live with the choice",6,5
+g198,level1,I sell my cards because I need the money for something in my life,b40,"I decide what to sell, keep or pass on, and live with the choice",14,14
+g199,level1,I work out a way of selling and turning cards over that suits me,b40,"I decide what to sell, keep or pass on, and live with the choice",29,23
+g200,level1,I pare my cards down to what I'll really use or want to keep,b40,"I decide what to sell, keep or pass on, and live with the choice",18,18
+g201,level1,I like my cards going to people who can use or look after them,b40,"I decide what to sell, keep or pass on, and live with the choice",9,9
+g203,level1,"When an order or a deal goes wrong, I push to be put right",b41,I want a straight deal and set my terms to get one,25,23
+g204,level1,"Fakes, scams and lost parcels make me wary of a deal",b41,I want a straight deal and set my terms to get one,49,38
+g205,level1,"I value a dealer who is careful, open and fair with me",b41,I want a straight deal and set my terms to get one,10,9
+g206,level1,I measure an offer against market value and settle on a price,b41,I want a straight deal and set my terms to get one,46,28
+g207,level1,I set out what I will and won't take in a trade,b41,I want a straight deal and set my terms to get one,21,11
+g208,level1,"There's a particular card I want, and I look for a way to get it",b37,Getting to buy what I want is a struggle I plan around,49,43
+g209,level1,I write up my deck so that I and the people who play or face it know what I know,b48,I write up what I know and what I've been through,20,12
+g212,level1,I decide to set down my own experience and feelings about the game in writing,b48,I write up what I know and what I've been through,11,8
+g213,level1,What I'm reading or writing hits home about me,b48,I write up what I know and what I've been through,4,4
+g214,level1,"I decide what my survey, ranking or compilation should count",b49,"I decide what goes into my video, show or survey and how",12,8
+g216,level1,I decide how to film and present my video,b49,"I decide what goes into my video, show or survey and how",33,23
+g221,level1,"The story pulls me in, moves me or pleases me",b47,I follow a story from the game's world and react to how it is told,14,7
+g232,level1,I'm taken with how well my opponent behaves,b42,"I mind how people behave across the table, myself included",6,5
+g235,level1,I'd rather hand my cards to someone who makes selling quick and effortless than do the work myself,b40,"I decide what to sell, keep or pass on, and live with the choice",7,7
+g238,level1,"I'm torn over a slot and haven't settled it, weighing what the card gives against what it costs me",b1,"I build my deck to a purpose, choosing each card for what it does there",28,21
+g239,level1,"I settle how many copies of a card to run, by how often I want to see it and what the other slots can spare",b1,"I build my deck to a purpose, choosing each card for what it does there",28,15
+gv3-42,level1,"When no tool does what I or my group need, I build my own",bv3-4,"I build tools and analyses for the game, for myself and for others",9,9
+gv3-48,level1,As a seller I set my terms to protect myself and build up my trade record,b41,I want a straight deal and set my terms to get one,7,5
+gv3-60,level1,"I want to raise a concern the right way, without overreacting or accusing anyone without proof",b44,I take a stand on wrongs and arguments in the community,13,9
+gv3-66,level1,"I rate a shop by how well it serves and welcomes us, and recommend the good ones",b46,"I judge how the company, organizers and shops treat players",14,11
+gv3-67,level1,I judge whether the event's schedule and format fit what I can handle,b46,"I judge how the company, organizers and shops treat players",4,4
+gv3-73,level1,The organiser's running of the event left me confused and scrambling,b46,"I judge how the company, organizers and shops treat players",4,4
+gv3-78,level1,I apply my own analytical skills to the game as a side project,bv3-4,"I build tools and analyses for the game, for myself and for others",4,4
+gv3-81,level1,I get excited about a format everyone at our table can play together,b7,I shape our games so they are fun for everyone at the table,4,4
+gv4-29,level1,"I find card game spaces unwelcoming to women: we're treated as people to date, not fans, and safe spaces are lacking",bv4-2,As a woman I weigh whether card game spaces have room for me,7,4
+gv4-45,level1,"I stay out of a game whose cost, scalping or distance puts it out of reach",b27,I ask whether the game is still worth what it takes from me,5,5
+gv5-1,level1,"I get my cards printed to order rather than buy the real ones, and am delighted with how my first order turns out",b4,I build from the cards I have or can get,8,7
+gv5-67,level1,"I make the video people want and can't yet find, as I once couldn't",b49,"I decide what goes into my video, show or survey and how",6,6
+gv5-78,level1,"I judge sleeves, mats, binders and bags by how they feel and hold up in use",bv5-5,"I choose the sleeves, boxes, mats and bags that go with my cards and judge how they serve me",11,5
+gv5-79,level1,"I judge sleeves and accessories by how they look, what they cost and whether they add anything",bv5-5,"I choose the sleeves, boxes, mats and bags that go with my cards and judge how they serve me",6,6
+gv5-89,level1,"I decide what mix of products my shop carries, by what it stands for and what interests me",bv3-3,I run my shop and keep it going,4,4
+gv5-98,level1,"I want my shop to give people a better experience than the shops I've seen: friendly, safe for newcomers, professional",bv5-6,"I weigh starting a card business, opening a shop or going full-time, and what it asks of me",4,4
+gv5-131,level1,I watch what my distributor allots me and how it treats me for signs of my standing,bv5-7,"I secure product to sell, through distributors and whatever supply I can find",4,4
+gv5-132,level1,"Distributors cut me back, turn me down or keep my allocation low without a reason I can work with",bv5-7,"I secure product to sell, through distributors and whatever supply I can find",4,4
+gv5-136,level1,"I work out how to source stock so it leaves me a margin, doesn't tie up my money and isn't a gamble",bv5-7,"I secure product to sell, through distributors and whatever supply I can find",6,5
+gv5-151,level1,I judge a selling platform by how well its tools work for me and whether to stay on it,bv3-5,I resell cards for profit and find out whether I can make it pay,4,4
+gv5-152,level1,"The selling platform sides against sellers like me or restricts me unfairly, and I've had enough",bv3-5,I resell cards for profit and find out whether I can make it pay,4,4
+gv5-158,level1,"I pack and ship so orders go out on time, arrive safe and leave my buyers happy, and change it when they're not",bv3-5,I resell cards for profit and find out whether I can make it pay,5,4
+gv5-159,level1,"I try to work out how to ship cards properly and within the postal rules, because getting it wrong worries me",bv3-5,I resell cards for profit and find out whether I can make it pay,12,7
+gv5-166,level1,"I set my prices by the margin and sell-through I need, and adjust when the numbers move",bv3-5,I resell cards for profit and find out whether I can make it pay,7,5
+gv5-172,level1,"I'm unsure buyers want what I'm listing, and learn from what sits unsold",bv3-5,I resell cards for profit and find out whether I can make it pay,5,4
+gv5-184,level1,I feel for the kids who go without because of scalpers,bv5-8,I work the counter or the floor where cards are sold and deal with the people who come for them,5,5
+gv5-189,level1,I can't believe how adults carry on over cards at my store,bv5-8,I work the counter or the floor where cards are sold and deal with the people who come for them,4,4
+gv5-194,level1,A customer's story or moment in our shop makes my day,bv5-8,I work the counter or the floor where cards are sold and deal with the people who come for them,5,5
+gv5-209,level1,"I join in and go out of my way for my partner's card hobby because I love seeing him happy, while it stays his",bv5-10,I live alongside someone else's card hobby and work out what it asks of me,7,4
+gv5-221,level1,I settle the shape of my own set and its cards by what feels right and fun to me,bv5-1,"I design my own card game and work out its cards, rules, theme and balance",6,4
+gv5-222,level1,I judge from a playtest whether a card in my own game needs to change,bv5-1,"I design my own card game and work out its cards, rules, theme and balance",7,5
+gv5-223,level1,I design my game around the people I'm making it for,bv5-1,"I design my own card game and work out its cards, rules, theme and balance",6,5
+gv5-240,level1,I keep testing and adjusting my print settings and paper until my cards read and look right,bv5-2,"I get my own cards printed and made the way I want them, working out process, cost and quality",11,5
+gv5-241,level1,I'm happy and proud that the cards I make finally come out the way I want,bv5-2,"I get my own cards printed and made the way I want them, working out process, cost and quality",14,11
+gv5-249,level1,"I choose and adapt my paints, tools and prep by what works on the card and what this piece needs",bv5-3,"I paint, alter and illustrate cards and work at getting the picture right",14,4
+gv5-258,level1,I look back at a piece of my card art and judge what worked and what didn't,bv5-3,"I paint, alter and illustrate cards and work at getting the picture right",6,5
+gv5-261,level1,"I enjoy illustrating and painting, most of all when I get to draw what I love",bv5-3,"I paint, alter and illustrate cards and work at getting the picture right",5,5
+gv6-10,level1,"I love just looking at a shop's display of rare cards I'd never see at home, whether or not I buy",b8,"I enjoy the events and outings for themselves, whatever my result",5,4
+gv6-59,level1,When I travel I go for the cards I can't get or never see at home,b37,Getting to buy what I want is a struggle I plan around,5,4
+gv6-65,level1,"What I bought is damaged, sent back or stolen on its way to me, and I'm dismayed with little I can do",b37,Getting to buy what I want is a struggle I plan around,4,4
+gv6-68,level1,A card or a box at a good price tempts me and I go for it,b38,I keep my spending within what makes sense for me,6,6
+gv6-70,level1,"I spread my buying across shops by where the prices are fair, and walk away from the overpriced ones",b38,I keep my spending within what makes sense for me,9,6
+gv6-82,level1,I'm astonished at how much a card sells for,b39,I weigh what a card is worth as money,7,4
+gv6-90,level1,I take a sealed product for real and find out it was fake all along,b41,I want a straight deal and set my terms to get one,7,6
+gv6-186,level1,I use the cards my pupils are obsessed with as a classroom reward and work out how to get them and hand them out,bv6-1,"As a teacher I bring the cards my pupils love into school to reach and reward them, and handle the trouble the cards bring",5,5
+gv7-32,level1,I work out how to make the game work when more people want to play than it is made for,b7,I shape our games so they are fun for everyone at the table,5,4
+gv7-92,level1,I feel fortunate in the card work I get to do and the team I do it with,bv6-2,"I run or work in a company that serves the card trade, and answer for how it serves the people who use it",6,6
+gv7-101,level1,I'm thrilled to meet the collectors and sellers our platform serves and share in their excitement,bv6-2,"I run or work in a company that serves the card trade, and answer for how it serves the people who use it",7,6
+gv7-258,level1,I design a custom card to give a deck or set I care about what it is missing,bv7-1,I design custom cards for a game I already play and work at making them fit and play well,6,4

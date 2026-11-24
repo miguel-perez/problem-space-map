@@ -22,7 +22,7 @@ test('images and local links in README and AGENTS.md exist', () => {
       expect(existsSync(target), `${file} links ${target}`).toBe(true);
     }
   }
-  for (const m of ['ux-research', 'tcg-players']) expect(existsSync(`examples/${m}/og.png`), m).toBe(true);
+  for (const m of ['ux-research', 'tcg-players', 'tcg-ecosystem']) expect(existsSync(`examples/${m}/og.png`), m).toBe(true);
   expect(existsSync('public/og.png')).toBe(false);
 });
 

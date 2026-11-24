@@ -1,6 +1,6 @@
 # TCG players example
 
-**[Open the live map →](https://miguel.design/problem-space-map/tcg/)**
+Run it with `MAP=examples/tcg-players/map.json npm run dev`. The live map at `/tcg/` is now the larger [card game ecosystem example](../tcg-ecosystem/README.md).
 
 What trading card game players, mostly Digimon TCG, are trying to get done. Run it with
 `MAP=examples/tcg-players/map.json npm run dev`.

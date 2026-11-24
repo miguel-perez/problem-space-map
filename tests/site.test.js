@@ -7,8 +7,8 @@ test('build:site writes the UX map at dist/ and the TCG map at dist/tcg/ under i
   const ux = readFileSync('dist/index.html', 'utf8');
   const tcg = readFileSync('dist/tcg/index.html', 'utf8');
   expect(ux).toContain('UX Research Problem Space Map');
-  expect(ux).not.toContain('Trading Card Game');
-  expect(tcg).toContain('Trading Card Game Players Problem Space Map');
+  expect(ux).not.toContain('Card Game');
+  expect(tcg).toContain('Card Game Ecosystem Problem Space Map');
   expect(tcg).toContain('href="https://miguel.design/problem-space-map/tcg/"');
   const urls = [...tcg.matchAll(/(?:src|href)="(\/[^"]+)"/g)].map((m) => m[1]);
   expect(urls.length).toBeGreaterThan(0);

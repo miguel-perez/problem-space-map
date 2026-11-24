@@ -2,7 +2,7 @@
 
 One picture of where people's needs go unmet and which products already serve them.
 
-**Live maps:** [UX research](https://miguel.design/problem-space-map/) and [trading card game players](https://miguel.design/problem-space-map/tcg/)
+**Live maps:** [UX research](https://miguel.design/problem-space-map/) and [the card game ecosystem](https://miguel.design/problem-space-map/tcg/)
 
 ![The UX research map: grey blocks of purposes, goals and tasks, with product logos on the tasks they serve](docs/images/overview.webp)
 
@@ -51,7 +51,8 @@ What to look for:
 ```sh
 npm install
 npm run dev                                         # UX research map, http://localhost:5173/problem-space-map/
-MAP=examples/tcg-players/map.json npm run dev       # TCG players map
+MAP=examples/tcg-ecosystem/map.json npm run dev     # card game ecosystem map
+MAP=examples/tcg-players/map.json npm run dev       # TCG players map (10 people)
 ```
 
 To make a map for your own domain, follow [AGENTS.md](AGENTS.md). It covers inputs, commands, the schema and
@@ -64,7 +65,8 @@ Open the live map first; the "about" link explains how each was made.
 | Example | Scope | Caveat |
 |---|---|---|
 | [UX research](https://miguel.design/problem-space-map/) ([about](examples/ux-research/README.md)) | 60 tasks, 11 goals, 3 purposes; 60 solutions (38 products, 22 tools) | Hierarchy and counts are from practitioner interviews. Satisfaction is authored and illustrative, not measured. |
-| [Trading card game players](https://miguel.design/problem-space-map/tcg/) ([about](examples/tcg-players/README.md)) | 57 tasks, 16 goals, 5 purposes; 14 solutions | Hierarchy from the [purpose-graphing](https://github.com/miguel-perez/purpose-graphing) skill. Satisfaction scored from each participant's statements by an AI-assisted analysis pipeline. 10 people, mostly podcast hosts. |
+| [Card game ecosystem](https://miguel.design/problem-space-map/tcg/) ([about](examples/tcg-ecosystem/README.md)) | 210 tasks, 64 goals, 16 purposes; 78 solutions (39 products, 39 tools) | Hierarchy from the [purpose-graphing](https://github.com/miguel-perez/purpose-graphing) skill over 6,346 recounted moments by 1,605 public accounts and five interviews: players, collectors, sellers, shops, makers and the trade. Satisfaction scored per person from their own statements by a model, not measured. Most products rest on one person each. |
+| Trading card game players ([about](examples/tcg-players/README.md)) | 57 tasks, 16 goals, 5 purposes; 14 solutions | Hierarchy from the [purpose-graphing](https://github.com/miguel-perez/purpose-graphing) skill. Satisfaction scored from each participant's statements by an AI-assisted analysis pipeline. 10 people, mostly podcast hosts. |
 
 ### Products on the UX map
 

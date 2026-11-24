@@ -141,11 +141,11 @@ try {
   await page.close();
   server.kill();
 
-  // ── TCG players map ──
-  server = await serve('examples/tcg-players/map.json', 'dist-e2e-shots');
+  // ── Card game ecosystem map (live at /tcg/) ──
+  server = await serve('examples/tcg-ecosystem/map.json', 'dist-e2e-shots');
   page = await open(browser, { width: 1200, height: 630 }, 1);
   await clearHover(page);
-  await shot(page, 'examples/tcg-players/og.png');
+  await shot(page, 'examples/tcg-ecosystem/og.png');
   await page.close();
 } finally {
   server?.kill();
